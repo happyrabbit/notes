@@ -648,20 +648,17 @@ Operation Barbarrossa, Hitler expected a rapid triumph in the fight against the 
 
 - 自我选择偏误：当我们本身是样品的一部分时，我们必须注意，不要掉进一种以自我选择偏误著称的思维错误陷阱中。
 - 联想偏误：影响我们决定的质量。我们倾向于不喜欢送坏消息的人（Shoot the Messenger Syndrome）
-新手的运气：如果你长期比其他人成功，你可以认为自己的才华可能起作用，但绝不能过于自信、自满。参与的人越多，出于纯粹运气长期成功的概率越大，也许你就是这个某人。
-认知失调(Cognitive Dissonance)：酸狐狸
+- 新手的运气：如果你长期比其他人成功，你可以认为自己的才华可能起作用，但绝不能过于自信、自满。参与的人越多，出于纯粹运气长期成功的概率越大，也许你就是这个某人。
+- 认知失调(Cognitive Dissonance)：酸狐狸
 双曲贴现：一个决定离现在越近，我们的“情感利息”就越多。这是及时享乐对我们的控制，我们过去动物性的残留。动物不愿意为在将来得到更多的奖励而放弃今天的奖励。
 
-在群体里容易按照他人的想法生活，在孤独中容易按照自己的想法生活，但值得记住的只是那些在群体中保持独立的人。—— 爱默生
+- 在群体里容易按照他人的想法生活，在孤独中容易按照自己的想法生活，但值得记住的只是那些在群体中保持独立的人。—— 爱默生
 
-2.5 Bad Arguments — Logical Fallacies
+## Bad Arguments — Logical Fallacies
 
-Hui: 这本短小的书对常见的逻辑谬误（Art of Thinking Clearly）进行了清晰直观的解释，比如straw man fallacy，the slippery slope argument，ad hominem attack等。
-可爱之处在与书中对每个逻辑谬误都配备了一个动物漫画，画中的动物在犯各种各样的逻辑错误。这本书不仅适合大人，也可以用来教小孩（小孩自己读可能有点难）。比如，其中有只兔子认为天空中奇异的光盘一定是UFO，因为没有人能够证明那不是UFO，这就犯了appeal to ignorance的逻辑错误。这有助于你分析从国会辩论到YouTube评论等等论证。
+<span color = "blue">Hui: 这本短小的书对常见的逻辑谬误（Art of Thinking Clearly）进行了清晰直观的解释，比如straw man fallacy，the slippery slope argument，ad hominem attack等。
 
-
-
-
+可爱之处在与书中对每个逻辑谬误都配备了一个动物漫画，画中的动物在犯各种各样的逻辑错误。这本书不仅适合大人，也可以用来教小孩（小孩自己读可能有点难）。比如，其中有只兔子认为天空中奇异的光盘一定是UFO，因为没有人能够证明那不是UFO，这就犯了appeal to ignorance的逻辑错误。这有助于你分析从国会辩论到YouTube评论等等论证。</span>
 
 Argument from Consequences: speaking for or against the truth of a statement by appealing to the consequences it would have if true (or false)
 
