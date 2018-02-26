@@ -686,13 +686,13 @@ Operation Barbarrossa, Hitler expected a rapid triumph in the fight against the 
 
 - Appeal to Fear: plays on the fears of an audience by imagining a scary future that would be of their making if some proposition were accepted without solid evidence
 
-I ask all employees to vote for my chosen candidate in the upcoming election. If the other candidate wins, he will raise taxes and many of you will lose your jobs.
+> I ask all employees to vote for my chosen candidate in the upcoming election. If the other candidate wins, he will raise taxes and many of you will lose your jobs.
 
-Hasty Generalization: forms a conclusion from a sample that is either too small or too special to be representative
+- Hasty Generalization: forms a conclusion from a sample that is either too small or too special to be representative
 
-Appeal to Ignorance: assumes a proposition to be ture simply because there is no evidence proving that it is false
+- Appeal to Ignorance: assumes a proposition to be ture simply because there is no evidence proving that it is false
 
-It is impossible to imagine that we actually landed a man on the moon, therefore it never happened
+> It is impossible to imagine that we actually landed a man on the moon, therefore it never happened
 
 No True Scotsman: comes up after someone has made a general claim about a group of things and then been presented with evidence challenging that claim. Rather than revising their position or contesting the evidence, they dodge the challenge by arbitrarily redefining the criteria for membership in that group.
 
