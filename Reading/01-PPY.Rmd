@@ -660,31 +660,31 @@ Operation Barbarrossa, Hitler expected a rapid triumph in the fight against the 
 
 可爱之处在与书中对每个逻辑谬误都配备了一个动物漫画，画中的动物在犯各种各样的逻辑错误。这本书不仅适合大人，也可以用来教小孩（小孩自己读可能有点难）。比如，其中有只兔子认为天空中奇异的光盘一定是UFO，因为没有人能够证明那不是UFO，这就犯了appeal to ignorance的逻辑错误。这有助于你分析从国会辩论到YouTube评论等等论证。</span>
 
-Argument from Consequences: speaking for or against the truth of a statement by appealing to the consequences it would have if true (or false)
+- Argument from Consequences: speaking for or against the truth of a statement by appealing to the consequences it would have if true (or false)
 
-If God does not exist, then everything is permitted. (Dostoevsky)
+- If God does not exist, then everything is permitted. (Dostoevsky)
 
-Straw Man: intentionally caricature a person’s argument with the aim of attaching the caricature rather than the actual argument.
+- Straw Man: intentionally caricature a person’s argument with the aim of attaching the caricature rather than the actual argument.
 
-My opponent is trying to convince you that we evolved from chimpanzees who were swinging from trees, a truly ludicrous claim
+- My opponent is trying to convince you that we evolved from chimpanzees who were swinging from trees, a truly ludicrous claim
 
-Appeal to Irrelevant Authority: appeal to the feeling that others are more knowledgeable
+- Appeal to Irrelevant Authority: appeal to the feeling that others are more knowledgeable
 
-Appeal to ancient wisdom, in which a belief is assumed to be true just because it originated some time ago. “We do not get enough sleep nowadays. Just a few centuries ago, people used to sleep for nine hours a night.”
+- Appeal to ancient wisdom, in which a belief is assumed to be true just because it originated some time ago. “We do not get enough sleep nowadays. Just a few centuries ago, people used to sleep for nine hours a night.”
 
-Equivocation: exploits the ambiguity of language by changing the meaning of a word during the course of an argument and using the different meanings to support an ill-founded conclusion.
+- Equivocation: exploits the ambiguity of language by changing the meaning of a word during the course of an argument and using the different meanings to support an ill-founded conclusion.
 
-How can you be against faith when you take leaps of faith all the time: making investments, trusting friends, and even getting engaged?
+- How can you be against faith when you take leaps of faith all the time: making investments, trusting friends, and even getting engaged?
 
-False Dilemma: an argument that presents a limited set of two possible categories and assumes that everything in the scope of the dicussion must be an element of that set.
+- False Dilemma: an argument that presents a limited set of two possible categories and assumes that everything in the scope of the dicussion must be an element of that set.
 
-In the war on fanaticism, there are no sidelines; you are either with us or with the fanatics
+- In the war on fanaticism, there are no sidelines; you are either with us or with the fanatics
 
-Not A Cause for A Cause: assumes a cause for an event where there is no evidence that one exists.
+- Not A Cause for A Cause: assumes a cause for an event where there is no evidence that one exists.
 
-The recent earthquake was because we disobeyed the king
+- The recent earthquake was because we disobeyed the king
 
-Appeal to Fear: plays on the fears of an audience by imagining a scary future that would be of their making if some proposition were accepted without solid evidence
+- Appeal to Fear: plays on the fears of an audience by imagining a scary future that would be of their making if some proposition were accepted without solid evidence
 
 I ask all employees to vote for my chosen candidate in the upcoming election. If the other candidate wins, he will raise taxes and many of you will lose your jobs.
 
