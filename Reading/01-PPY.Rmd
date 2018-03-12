@@ -61,6 +61,7 @@ Some doubts about the [priming effect](https://en.wikipedia.org/wiki/Priming_(ps
 
 > "What the blog gets absolutely right is that I placed too much faith in underpowered studies. …I have changed my views about the size of behavioral priming effects – they cannot be as large and as robust as my chapter suggested."
 
+- [Replication crisis](https://en.wikipedia.org/wiki/Replication_crisis)
 
 - 系统1编了一个故事，系统2相信了这个故事。
 - Bananas Vomit
@@ -694,72 +695,66 @@ Operation Barbarrossa, Hitler expected a rapid triumph in the fight against the 
 
 > It is impossible to imagine that we actually landed a man on the moon, therefore it never happened
 
-No True Scotsman: comes up after someone has made a general claim about a group of things and then been presented with evidence challenging that claim. Rather than revising their position or contesting the evidence, they dodge the challenge by arbitrarily redefining the criteria for membership in that group.
+- No True Scotsman: comes up after someone has made a general claim about a group of things and then been presented with evidence challenging that claim. Rather than revising their position or contesting the evidence, they dodge the challenge by arbitrarily redefining the criteria for membership in that group.
 
-“Programmers have no social skills.” “But John is programmer, and he is not socially awkward at all.” “Yes, but John isn’t a true programmer.”
+> “Programmers have no social skills.” “But John is programmer, and he is not socially awkward at all.” “Yes, but John isn’t a true programmer.”
 
-Genetic Fallacy: an argument is either devalued or defended solely because of its origins
+- Genetic Fallacy: an argument is either devalued or defended solely because of its origins
 
-Of course he supports the union workers on strike; he is from the same village
+> Of course he supports the union workers on strike; he is from the same village
 
-Guilt by Association: discredit an argument for proposing an idea that is shared by some socially demonized individual or group.
+- Guilt by Association: discredit an argument for proposing an idea that is shared by some socially demonized individual or group.
 My opponent is calling for a healthcare system that would resemble that of socialist countries. Clearly that would be unacceptable.
 
-Affirming the Consequent: takes this form: if A then C; hence A. The error lies in assuming that because the consequent is true, the antecedent must also be true
+- Affirming the Consequent: takes this form: if A then C; hence A. The error lies in assuming that because the consequent is true, the antecedent must also be true
 People who go to college are successful. John is successful, hence he must have gone to college.
 
-Appeal to Hypocrisy: involves countering someone’s argument by pointing out that it conflicts with his or her own past actions or statements
+- Appeal to Hypocrisy: involves countering someone’s argument by pointing out that it conflicts with his or her own past actions or statements
 A panelist objected to a protest in London against corporate greed because of the protesters’ apparent hypocrisy, pointing out that while they professed to be against capitalism, they continued to use smartphones and buy coffee.
 
-Slippery Slope: attempts to discredit a proposition by arguing that its acceptance will undoubtedly lead to a sequence of events, one or more of which are undesirable.
+- Slippery Slope: attempts to discredit a proposition by arguing that its acceptance will undoubtedly lead to a sequence of events, one or more of which are undesirable.
 We shouldn’t allow people uncontrolled access to the internet. The next thing you know they will be frequenting pronographic websites, and soon enough, our entir moral fabric will disintegrate and we will be reduced to animals
 
-Appeal to the Bandwagon: uses the fact that many people believe in something as evidence that it must be true.
-Most people in Galileo’s day believed that the sun and the planets orbited around Earth, so Galileo faced ridicule for his support of the Copernican model.
+- Appeal to the Bandwagon: uses the fact that many people believe in something as evidence that it must be true.
 
-Ad-hominem ([æd’hɔminem]针对个人): attacks a person rather than the argument he or she is making, with the intention of diverting the discussion and discrediting their argument.
+> Most people in Galileo’s day believed that the sun and the planets orbited around Earth, so Galileo faced ridicule for his support of the Copernican model.
+
+- Ad-hominem ([æd’hɔminem]针对个人): attacks a person rather than the argument he or she is making, with the intention of diverting the discussion and discrediting their argument.
 You’re not a historian; why don’t you stick to your own field?
 
-Circular Reasoning: (aka begging the question ) assumes the conclusion in one or more of the premisses. A conclusion is either blatantly used as a premiss, or more often, it is reworded to appear as though it is a different proposition.
+- Circular Reasoning: (aka begging the question ) assumes the conclusion in one or more of the premisses. A conclusion is either blatantly used as a premiss, or more often, it is reworded to appear as though it is a different proposition.
 You’re utterly wrong because you’re not making any sense.
 
-Composition and Division: becasue the parts of a whole have a particular attribute, the whole must have that attribute also.
-Each module in this software system has been subjected to a set of unit tests and passed them all. Therefore, when the modules are integrated, the software system will not violate any of the invariants verified by those unit tests.
+- Composition and Division: becasue the parts of a whole have a particular attribute, the whole must have that attribute also.
 
-Some Definitions:
+> Each module in this software system has been subjected to a set of unit tests and passed them all. Therefore, when the modules are integrated, the software system will not violate any of the invariants verified by those unit tests.
 
-Proposition: A statement that is either true or false, but not both
-Argument: A set of propositions aimed at persuading through reasoning. In an argument, a subset of propositions, called premises , provides support for some other propositions called conclusions .
-Formal fallacy: An error in reasoning that is illogical because its structure is faulty. The fallacy can be spotted just by analyzing the argument’s form, without needing to evaluate its content.
-Informal fallacy: An error in reasoning that is illogical due to its content and context rather than its form. The error ought to be a commonly invoked one to be considered an informal fallacy.
-Deductive Argument: An argument in which if the premises are true, then the conclusion must be true. The conclusion is said to follow with logical necessity from the premises.
-All men are mortal. Socrates is a man. Therefore, Socrates is mortal.
+- Some Definitions:
+    - Proposition: A statement that is either true or false, but not both
+    - Argument: A set of propositions aimed at persuading through reasoning. In an argument, a subset of propositions, called premises , provides support for some other propositions called conclusions.
+    - Formal fallacy: An error in reasoning that is illogical because its structure is faulty. The fallacy can be spotted just by analyzing the argument’s form, without needing to evaluate its content.
+    - Informal fallacy: An error in reasoning that is illogical due to its content and context rather than its form. The error ought to be a commonly invoked one to be considered an informal fallacy.
+    - Deductive Argument: An argument in which if the premises are true, then the conclusion must be true. The conclusion is said to follow with logical necessity from the premises.
+    
+> All men are mortal. Socrates is a man. Therefore, Socrates is mortal.
+    
+    - valid: A deductive argument is valid if its conclusion does in fact follow logically from its premises. Otherwise, it is said to be in valid. The descriptors “valid” and “invalid” apply only to arguments and not to propositions.
+    - sound: A deductive argument is sound if it is valid and its premises are true. If either of those conditions does not hold, then the argument is unsound. Truth is determined by looking at whether the argument’s premises and conclusions are in accordance with facts in the real world.
+    - Inductive Argument: An argument in which if the premises are true, then it is probable that the conclusion will also be true. The conclusion does not follow from the premises with logical necessity, but rather with probability. Inductive arguments usually proceed from specific instances to the general.
 
-valid: A deductive argument is valid if its conclusion does in fact follow logically from its premises. Otherwise, it is said to be in valid. The descriptors “valid” and “invalid” apply only to arguments and not to propositions.
-sound: A deductive argument is sound if it is valid and its premises are true. If either of those conditions does not hold, then the argument is unsound. Truth is determined by looking at whether the argument’s premises and conclusions are in accordance with facts in the real world.
+> Every time we measure the speed of light in a vacuum, it is  3×10^8m/s. Therefore, the speed of light in a vacuum is a universal constant.
 
-Inductive Argument: An argument in which if the premises are true, then it is probable that the conclusion will also be true. The conclusion does not follow from the premises with logical necessity, but rather with probability. Inductive arguments usually proceed from specific instances to the general.
+    - Strong: An inductive argument is strong, if its premises are true then it is highly probable that its conclusion is also true. Otherwise, if it is improbable that its conclusion it true, then it is said to be weak. Because they rely on probability, inductive arguments are not truth-preserving; it is never the case that a true conclusion must follow from true premises.
+    - cogent: An inductive argument is cogent if it is strong and the premises are actually true—that is, in accordance with facts. Otherwise, it is said to be uncogent.
 
-Every time we measure the speed of light in a vacuum, it is  
-3
-×
-10
-8
-m
-/
-s
- . Therefore, the speed of light in a vacuum is a universal constant.
-
-Strong: An inductive argument is strong, if its premises are true then it is highly probable that its conclusion is also true. Otherwise, if it is improbable that its conclusion it true, then it is said to be weak. Because they rely on probability, inductive arguments are not truth-preserving; it is never the case that a true conclusion must follow from true premises.
-cogent: An inductive argument is cogent if it is strong and the premises are actually true—that is, in accordance with facts. Otherwise, it is said to be uncogent.
-2.6 Predictable Irrational
+## Predictable Irrational
 
 Goal: what makes you and people around you tick?
 behavior economics, judgment and decision making (JDM) Generalized Axiom of Revealed Preference (GARF)
 
 We are irrational Our irrationality is predictable
 
-2.6.1 The fallacy of supply and demand
+### The fallacy of supply and demand
 
 James Assael, Salvador Assael (peark king, James’ son), black pearl from black-lipped oysters, put them in the window of Harry Winston’s store on Fifth Avenue, Tahitian black pearls glowed
 
@@ -778,15 +773,17 @@ Mark Twain: 英国一些阔绰的绅士夏季每天驾着四套马车沿大路�
 传统经济学架构假设供需独立，上面提到的锚定效应暗示它们是相互依存的。在现实世界中，锚来自厂家的建议零售价格、广告价格、促销、产品推荐等因素——所有这一切都来自供给方。
 我料想,如果人们记得住从前的价格并且注意到它的涨价幅度,价格变化就会对需求产生巨大影响;如果人们记不住过去的价格,价格的变化对需求的影响,即使有也会很小。换言之,我们对价格变化的敏感度事实上很大程度上可能是两种因素共同 作用的结果—— 1) 我们对过去价格的记忆; 2) 我们想与过去决定保持一致的欲望。而根本不是我们的真正偏好或需求大小的反映。
 
-2.6.2 The cost of free
+### The cost of free
 
 免费使人拿一大堆不要的东西？为什么？多数交易都有有利的一面和不利的一面,但免费使我们忘记了不 利的一面。免费给我们造成一种情绪冲动,让我们误认为免费物品大大高于它的真正价值。为什么?我认为是由于人类本能地惧怕损失。免费的真正诱惑力是与这种惧怕心理联系在一 起的。我们选择某一免费的物品不会有显而易见的损失。但是假如我们选择的物品是不免费 的,那就有会有风险,可能做出错误决定,可能蒙受损失。于是,如果让我们选择,我们就尽量朝免费的方向去找。
+
 我们同时生活在两个不同的世界里——其中一个世界由社会规范主导,另一个则由市场规范来制定法则。
 日托所罚金案例： 一旦社会规范与市场规范发生碰撞,社会规范就会退出。换言之,社会规范很难重建。一旦这朵盛开的玫瑰从枝头落下——一旦社会规范被市 场规范打败——它很难发挥任何效力。
 强调雇佣关系中社会性的一面所能营造出的亲善氛围。社会规范(例如共同创业的兴奋)强于市场规范(例如薪金随晋升而增加)时,员工能为公司(特 别是那些刚起步的公司)创造的价值的确令人瞩目。如果企业开始从社会规范角度思考,实际上,它们会认识到社会规范可以建立忠诚,更重要的是,它使人们自我发展,达到如今企业的要求:实行弹性工作制,关心公司,并且积 极参与公司事务。这正是社会性关系带来的。……多一些社会规范,少一些市场规范,我们的生活会变得更惬意,更有创造力,更充实,而且更有乐趣。
-Hui: 这和《经济学通识》中提倡的让市场决定一切的观点相反。
 
-2.6.3 Procrastination and Self-control
+<span color = "blue"> Hui: 这和《经济学通识》中提倡的让市场决定一切的观点相反。</span>
+
+### Procrastination and Self-control
 
 Procrastination:无法延迟满足导致的结果
 Experiment:
@@ -795,9 +792,10 @@ Plan 1: Set deadline for the 3 papers yourself by the end of this week. If you m
 Plan 2: everyone will have the same deadline which is the end of the semester
 Plan 3: The professor set deadlines to be week4, week8 and week12
 Result: Plan3 > Plan1 > Plan2
-2.6.4 The Price of Proprietorship
 
-Hui: 这就是之间《清醒思考的艺术》中讲的禀赋效应：我们对自己拥有的东西估值更高
+### The Price of Proprietorship
+
+<span color = "blue">Hui: 这就是之间《清醒思考的艺术》中讲的禀赋效应：我们对自己拥有的东西估值更高</span>
 
 为什么多种选择使我们迷失主要目标？
 例子：项羽破釜沉舟，饿死在草堆间的驴
@@ -810,11 +808,11 @@ Hui: 这就是之间《清醒思考的艺术》中讲的禀赋效应：我们对
 
 预期能够形成成见，成见为我们理解周围环境提供了捷径，但成见给我们提供了对某一群体的特定预期，它也可能对我们的认识与行为有不利影响。
 
-2.6.5 Magic Price
+### Magic Price
 
 主要讲了安慰的作用。价格贵，就以为是好东西，这和设定我们的预期有关。
 
-2.6.6 Good or Evil
+### Good or Evil
 
 有关《圣经》十诫的实验给我印象最深的是那些十条中只能记得一两条的学生和那些十条差不多全记得的 都会受到影响。这就是说鼓励人们诚实的并不是十诫的条文本身,而是出于对某种道德准则的深思。
 
@@ -825,21 +823,21 @@ Hui: 这就是之间《清醒思考的艺术》中讲的禀赋效应：我们对
 
 点酒顺序对点的酒有影响，大家都想点和之前人不同的。那些注重表现自己独特性的人们更可能点别人没点过的酒,以此来证明自己确实与众不同。人们选择食品和饮料时好像有两个目标:或者给自己带来最大享受,或者在朋友心目中炫耀自己某 些正面的人格特质。 说到底,人们,特别是那些独特需求旺盛的人们,可能牺牲个人需求去换取名声需求。 在标新立异不被视为正面人格特质的文化背景下,人们在大庭广众之下点菜点酒时,有可能表现与群体的归属感,着意刻画与别人选择一致的印象。我们在香港做的实验证明,事实果真如此。在香港,人们常常也不喜欢在公开场合当众点的酒菜,而是喜欢自己私下点的。但是这些参与者点酒点菜时,都跟着群体中的头一个照葫芦画瓢——这样他们就同样犯了使他们后悔的错误。
 
-2.6.7 Free Lunch: an behavior economics explanation
+### Free Lunch: an behavior economics explanation
 
 传统经济学假定我们都是理性的——我们了解与决定一切有关的信息,我们能够计算所面 临的各种选择的价值,我们能够正确权衡每一种选择中错综复杂的因素,我们对事物的认知 不会遇到阻碍。
 
 免费午餐的基本概念就在这里——让有关各方都能获益,做到“共赢”。要注意的是, 这些免费午餐并不一定是没有成本(使用自我控制信用卡和实施“明天多储蓄”不可避免牵 涉到成本)。但只要这些机制换来的利益大于成本,我们应该把它们当做免费午餐——给各 方都带来净效益的机制。
 
-2.6.8 Summary
+### Summary
 
 我们的知觉和决策环境是通过眼、耳、味觉和触觉, 还有主宰一切思想的大脑,经过过滤才形成的。等到我们对信息作了理解和消化,它已经不 一定是现实的真实反映了。相反,它只是我们对现实的诠释,而它就是我们形成决策的基础。 从本质上来说,我们被自然赋予的工具所限制,我们决策的方式又受限于这些工具的质量与 精确程度。
 尽管非理性司空见惯,但并不是说我们都不可救药了。一旦我们明 白了自己的错误决定会发生在什么时间,起源自什么地方,就可以提高警惕,强制自己从不 同角度、用不同方式重新考虑这些决定,或者用科技手段来克服与生俱来的缺点。企业决策 者们也可以在这些方面改变他们的思维方式,考虑怎样制定政策,设计产品,创造免费午餐。
 2.7 The paradox of choice [选择的悖论, Barry Schwartz]
 
-Hui:作者Barry Schwartz主要讨论的悖论是：更多的选择和自由并不能带来更大的幸福。那些总是想要做出最优选择的人可能拥有更大的世俗眼中的成功，但那些满足于“足够好”的选择的人更快乐。其中涉及到人们做出选择时受到的锚定效应，框架效应，易得性偏差等的影响。在身份的焦虑中，阿兰.德波顿也有提到更多的自由其实也是产生焦虑的原因之一。
+<span color="blue">Hui:作者Barry Schwartz主要讨论的悖论是：更多的选择和自由并不能带来更大的幸福。那些总是想要做出最优选择的人可能拥有更大的世俗眼中的成功，但那些满足于“足够好”的选择的人更快乐。其中涉及到人们做出选择时受到的锚定效应，框架效应，易得性偏差等的影响。在身份的焦虑中，阿兰.德波顿也有提到更多的自由其实也是产生焦虑的原因之一。</span>
 
-2.7.1 自由的重担
+### 自由的重担
 
 大名鼎鼎的政治哲学家Isaiah Berlin提出一个重要观点，他把自由划分为消极自由（negative liberty）和积极自由（positive liberty）。消极自由是一种“不做”（liberty from）的自由，人们有免受他人强制的自由，不按他人意愿来做事的自由。而积极自由是一种“去做”（liberty to）的自由，做自己生活的主人，让自己的生活变得更有意义、更有分量。
 
@@ -849,7 +847,7 @@ Hui:作者Barry Schwartz主要讨论的悖论是：更多的选择和自由并�
 
 在这个缺乏监督的时代，如果你持续使用某个产品而不考虑其他选择，结果可能是，你将会长期支付更高昂的价格来买一样的服务。
 
-2.7.2 是什么在操控你的行为
+### 是什么在操控你的行为
 
 peak-end-rule: 我们对过去体验的记忆由两种因素决定，事情达到极限（最好或最坏）时我们的感受，以及事情结束后我们的感受。
 
@@ -879,7 +877,7 @@ endowment effect: 人们更愿意持有自己已经拥有的东西，而不愿�
 最大化者比满足者花更多的时间深思熟虑。
 所谓的最佳选择根本不存在。
 
-2.7.3 行为经济学背后的心理奥秘
+### 行为经济学背后的心理奥秘
 
 learned helplessness: 当人或者动物接连不断地遭受挫折，就会丧失控制感，感到自己对一切都无能为力，陷入一种无助的心理状态。
 
@@ -914,7 +912,7 @@ postdecision regret V.S. anticipated regret: 决定后懊悔是做了某个决�
 
 omission bias: 人们更容易接受由于自己的忽略或不作为导致的损失，而不愿意接受自己的行为导致的同等损失。
 
-2.8 [随机漫步的傻瓜，Taleb, Nassim Nicholas]
+## Fooled by Randomness
 
 一、黑天鹅事件的重要性
 
@@ -946,19 +944,19 @@ omission bias: 人们更容易接受由于自己的忽略或不作为导致的�
 
 有一身好本事却穷困潦倒的人，最后一定会爬上来，而幸运的傻瓜可能短时间借助于生命中某些好运气，但是长期来看，处境会慢慢趋近于运气没有那么好的傻瓜。
 
-2.9 Black Swan [黑天鹅, Taleb, Nassim Nicholas]
+## Black Swan 
 
 核心观点：世界充满不确定性，是被一个个无法预测的黑天鹅事件推动的。 [知识点“黑天鹅事件”：17世纪之前的欧洲人认为天鹅都是白色的。但随着第一只黑天鹅的出现，颠覆了几千年形成的经验。作者用黑天鹅来比喻我们生活中发生的小概率事件，无法预测，但是影响巨大。]
 
 著名的黑天鹅事件有：泰坦尼克号、 金融风暴、9.11事件、中国雪灾、次贷危机、东南亚海啸等等，黑天鹅存在于各个领域，无论金融市场、商业、经济还是个人生活，都逃不过它的控制。
 
-2.9.1 Prologue
+### Prologue
 
 The inability to predict outliers implies the inability to predict the course of history.
 
 I disagree with the followers of Marx and Adam Smith: the reason free markets work is because they allow people to be lucky, thanks to aggressive trial and error, not by giving rewards or “incentives” for skill.
 
-Hui: what doesn’t allow people to be lucky?
+<span color = "blue">Hui: what doesn’t allow people to be lucky?</span>
 
 We do not spontaneously learn that we don’t learn what we don’t learn.
 Hui: Similar as “we don’t know that we don’t know”.
@@ -967,7 +965,7 @@ We humans are not just a superficial race (this may be curable to some extent); 
 
 Platonicity is what makes us think that we understand more than we actually do.
 
-Hui: what you know << what you think you know (I agree). Even I so clearly know that I AM STUPID, still what I know << what I think I know……I wish I could learn more. The feeling of ignorance bothered me so much but now I consider it as my life-time friend. Because I don’t see any hope I can not being ignorant, I think it is a better idea just be friend with it. My goal now change to be less ignorant today than yesterday.
+<span color = "blue">Hui: what you know << what you think you know (I agree). Even I so clearly know that I AM STUPID, still what I know << what I think I know……I wish I could learn more. The feeling of ignorance bothered me so much but now I consider it as my life-time friend. Because I don’t see any hope I can not being ignorant, I think it is a better idea just be friend with it. My goal now change to be less ignorant today than yesterday.<span>
 
 Part One: How we seek validation
 
@@ -983,66 +981,69 @@ Part One: How we seek validation
 
 在平均斯坦里工作：不会一夜暴富，但风险非常小，特别稳定。比如医生
 在极端斯坦里工作：容易一夜暴富，也容易瞬间失去一切，风险特别大。比如股票交易员。
-2.9.2 The apprenticeship of an empirical skeptic
+
+### The apprenticeship of an empirical skeptic
 
 apprenticeship /ə’prɛntɪʃɪp /
 
 The human mind suffers from 3 ailments as it comes into contact with history (triplet of opacity):
 the illusion of understanding, or how everyone thinks he knows what is going on in a world that is more complicated (or random) than they realize [了解世界的幻觉]
 
-Hui: 我们以为我们生活的世界比它实际上更加可理解，可解释，可预测。
+<span color = "blue">Hui: 我们以为我们生活的世界比它实际上更加可理解，可解释，可预测。</span>
 
 the retrospective distortion, or how we can assess matters only after the fact, as if they were in a rearview mirror (history seems clearer and more organized in history books than in empirical reality) [马后炮偏差]
 
-Hui: 我们太容易马后炮了。很多发生过的事情尽管当时感觉很疯狂，但是回过头看就没有那么疯狂。我们总能够将历史事件通过某种因果关系串联起来。作者认为这种事后合理性在表面上降低了事件的稀有性，并使事件看上去具有可理解性。之后作者提出：“历史不会爬行，只会跳跃[History does not crawl, it jumps]”。 作者认为我们的头脑是超强解释机器，介乎可以从任何事物中分析出道理，还不愿意接受不可预测的事实。“Our minds are wonderful explanation machines, capable of making sense out of almost anything, capable of mounting explanations for all manner of phenomena, and generally incapable of accepting the idea of unpredictability”
+<span color = "blue">Hui: 我们太容易马后炮了。很多发生过的事情尽管当时感觉很疯狂，但是回过头看就没有那么疯狂。我们总能够将历史事件通过某种因果关系串联起来。作者认为这种事后合理性在表面上降低了事件的稀有性，并使事件看上去具有可理解性。之后作者提出：“历史不会爬行，只会跳跃[History does not crawl, it jumps]”。 作者认为我们的头脑是超强解释机器，介乎可以从任何事物中分析出道理，还不愿意接受不可预测的事实。“Our minds are wonderful explanation machines, capable of making sense out of almost anything, capable of mounting explanations for all manner of phenomena, and generally incapable of accepting the idea of unpredictability”</span>
 
 the overvaluation of factual information and the handicap of authoritative and learned people, particularly when they create categories—when they “Platonify” [高估事实实际信息的价值]
 
-Hui: The retrospective distortion reminds me a quote from Mark Twain: “Get your facts first, then you can distort them as you please.” : )
+<span color = "blue">Hui: The retrospective distortion reminds me a quote from Mark Twain: “Get your facts first, then you can distort them as you please.” : )</span>
 
-Hui: 我们倾向于简化事物，难以避免叙述谬误，这点我同意。但这无法改变？这是一个物种的局限。因为我们的脑子能够处理的信息非常有限。假设我们接受这种现状，那么下一个问题就是，该怎么办？我目前的答案是：首先需要认识到这一点。不可避免无知是一回事，对自己无知的无知是另外一回事。我们需要意识到很多事情我们不知道，这听起来好像没有任何新意，谁不知道世界很大未知很多，知道是一回事，理解是另外一回事。很多概念看上去相似，实际上有本质的区别，这些区别的影响很大，但却难以察觉，理解它们需要时间，努力和勇气。认识到这一点之后，我们需要最大限度的探明有哪些事情是我们不知道，哪些我们无法估计，哪些我们无法控制，这样我们对自己的叙述在多大程度上简化了真相会有更好的了解，虽然我们永远无法完美估计自己的无知，但我们可以不断的加深自己的认识。这会帮助我们避免很多因为过于天真的认为简化版的故事就是事实而导致的灾难。
+<span color = "blue">Hui: 我们倾向于简化事物，难以避免叙述谬误，这点我同意。但这无法改变？这是一个物种的局限。因为我们的脑子能够处理的信息非常有限。假设我们接受这种现状，那么下一个问题就是，该怎么办？我目前的答案是：首先需要认识到这一点。不可避免无知是一回事，对自己无知的无知是另外一回事。我们需要意识到很多事情我们不知道，这听起来好像没有任何新意，谁不知道世界很大未知很多，知道是一回事，理解是另外一回事。很多概念看上去相似，实际上有本质的区别，这些区别的影响很大，但却难以察觉，理解它们需要时间，努力和勇气。认识到这一点之后，我们需要最大限度的探明有哪些事情是我们不知道，哪些我们无法估计，哪些我们无法控制，这样我们对自己的叙述在多大程度上简化了真相会有更好的了解，虽然我们永远无法完美估计自己的无知，但我们可以不断的加深自己的认识。这会帮助我们避免很多因为过于天真的认为简化版的故事就是事实而导致的灾难。
 从另外一个角度，在现实生活中我们需要做出决策，我们需要简化的易于理解的充分照顾人类愚蠢这一事实的故事，否则很多事情无法进行，生活将举步维艰。该怎么办呢？守住一个底线，尽力确保这个故事的传播带来的负面影响不会超过正面影响。这也是一件模糊的事情，但我相信，你对未知探索的越深入，就能够与好的守住这个底线。
 这个世界一如既往的充满了悖论，我总是在想有没有可能找到复杂表象背后的几个基本点？类似圣经中指出的人类的原罪一样。这几个原罪可以解释很多人类行为。从人类行为背后的的欲望来理解行为就是一个非常好的简化方式。但是当这些行为开始相互影响时，随机性开始火箭上升。事情开始变得非常复杂，不可控，难以预测。该怎么办？孜孜不倦的理解自己的无知，达人事，听天命。
 如果你在他的位置上会是什么感觉？会喜欢那样的生活么？目前看来，答案是否定的。回到那个老旧的问题：我要什么？这个问题有的时候真让我恶心，因为我一直难以回答，而它又貌似无比重要。无论被恶心多久，我还是要试图去回答这个问题，如果我一生都不知道自己要什么，那也是个答案，答案就是其实我没有什么确定想要的，虽然有些悲哀，但谁保证一定是喜剧呢？答案当然可以说是想要神的肯定。这个答案看似具体，实则模糊的不能称之为答案。如何让神肯定？这是一个很难回答的问题。回到现实生活当中，一切都需要具体细化到每天的生活，分分秒秒的时候，在尘世中想要坚持的信仰，最后还得落实到每个行动中，体现在你如何使用自己的生命。
-那回到生活上。我知道我不喜欢那样的生活，很好，知道自己不喜欢什么也是在认识自己上的进步。那自己到底想要什么样的生活呢？我喜欢的是数学、统计和分析本身么？不太像。我喜欢的是自已之前认为的通过工作能给周围世界带来价值么？再仔细想想，也不完全。因为价值这个东西本身就是模糊的。你认为有价值的事情实际上价值是多少本就无法定义，所以这是一个自我满足的伪答案。现在我能想到的最好的答案实际上是好奇心，是为了缓解对自身无知的恐惧，为了更好的回答这样一个问题：“What is real?”数据分析是个人能够了解世界的一种最好的方式，这种技能使我可以尽量自己收集一手信息，通过分析判断，更加客观的了解世界真实的样子。而不是盲目的，甚至被迫的接受他人的观点。我很感激计算机技术的发展和网络时代的来临，使得很多数据的收集成为可能，这增加了我们了解世界的能力，给了我一种自由，精神上的自由。但同时这又挖了一个更大的坑：信息太多了太多了，良莠不齐，怎么办？我的人生好像永远没有拨开云雾见青天的那一天，充满着疑问。只是那又如何？我无法摆脱这样的现状，但我可以和这些疑问和平共处，而我想要的，是不断解开一个又一个的疑问，尽管过程中会产生新的问题。这或许就是信仰，即便无法具体的定义神，即便无法理智上彻底证明神的存在，但还是相信那个存在，相信存在有着某种意义，相信爱；还是能够坚定不移的充满希望的走下去，通过回答一个又一个问题，更加深入的了解自己，理解世界，好好做人。
+那回到生活上。我知道我不喜欢那样的生活，很好，知道自己不喜欢什么也是在认识自己上的进步。那自己到底想要什么样的生活呢？我喜欢的是数学、统计和分析本身么？不太像。我喜欢的是自已之前认为的通过工作能给周围世界带来价值么？再仔细想想，也不完全。因为价值这个东西本身就是模糊的。你认为有价值的事情实际上价值是多少本就无法定义，所以这是一个自我满足的伪答案。现在我能想到的最好的答案实际上是好奇心，是为了缓解对自身无知的恐惧，为了更好的回答这样一个问题：“What is real?”数据分析是个人能够了解世界的一种最好的方式，这种技能使我可以尽量自己收集一手信息，通过分析判断，更加客观的了解世界真实的样子。而不是盲目的，甚至被迫的接受他人的观点。我很感激计算机技术的发展和网络时代的来临，使得很多数据的收集成为可能，这增加了我们了解世界的能力，给了我一种自由，精神上的自由。但同时这又挖了一个更大的坑：信息太多了太多了，良莠不齐，怎么办？我的人生好像永远没有拨开云雾见青天的那一天，充满着疑问。只是那又如何？我无法摆脱这样的现状，但我可以和这些疑问和平共处，而我想要的，是不断解开一个又一个的疑问，尽管过程中会产生新的问题。这或许就是信仰，即便无法具体的定义神，即便无法理智上彻底证明神的存在，但还是相信那个存在，相信存在有着某种意义，相信爱；还是能够坚定不移的充满希望的走下去，通过回答一个又一个问题，更加深入的了解自己，理解世界，好好做人。</span>
 
 History and societies do not crawl. They make jumps. They go from fracture to fracture, with a few vibrations in between…These kinds of discontinuities in the chronology of events did not make the historian’s profession too easy: the studious examination of the past in the greatest of detail does not teach you much about the mind of History; it only gives you the illusion of understanding it….We are just a great machine for looking backward, and that humans are great at self-delusion.
-Hui: 作者指出历史不是连续的而是跳跃的，而人类的解释性思维将这些事件自行用因果关系连接起来，造成了理解历史的幻觉。作者使用了黎凡特（Levant）基督教传播的例子。罗马编年史学家（chronicler）对基督教在这一区域的传播的历史记录有断层。
+
+<span color = "blue">Hui: 作者指出历史不是连续的而是跳跃的，而人类的解释性思维将这些事件自行用因果关系连接起来，造成了理解历史的幻觉。作者使用了黎凡特（Levant）基督教传播的例子。罗马编年史学家（chronicler）对基督教在这一区域的传播的历史记录有断层。</span>
 
 Of the millions of small facts that prevail before an event occurs, only a few will turn out to be relevant later to your understanding of what happened. Because your memory is limited and filtered, you will be inclined to remember those data that subsequently match the facts [在一个历史事件发生之前存在无数个事实，其中只有很少一部分会在后来你对历史事件的理解中有帮助。因为你的记忆有限且是被过滤的，所以你会倾向于记住那些事后看来与事实相符的信息。]
 
 Categorizing always produces reduction in true complexity. It is a manifestation of the Black Swan generator … It drives us to a misunderstanding of the fabric of the world…My idea is that not only are some scientific results useless in real life, because they underestimate the impact of the highly improbable (or lead us to ignore it), but that many of them may be actually creating Black Swans.
 
-Hui: 作者认为分类简化了事物（就是柏拉图化platonicity），这个过程主观忽略了不确定性，某种程度上促进了黑天鹅事件的产生。我觉得这样最多只能说使我们在黑天鹅事件面前更加脆弱，而你无法确定什么事情“促进”黑天鹅事件的发生，因为这种事件根据定义本来就是不可预测的，发生只是概率问题而无法追溯原因。作者批判很多科学研究，说这些结果的广泛传播应用促使了黑天鹅事件的发生。我很怀疑这一点。并不是说作者的批判没有道理，科学研究建立在一些现实生活很难满足的假设条件之上，对于一些科学研究应用的价值是否有人们想的那么大，确实是个疑问。但黑天鹅事件的本身好比是在我们控制的维度之外，它能够影响我们，但我们却无法影响它。所以我赞同作者指责一些科学结果“推动”黑天鹅事件。即使作者所指责的这些所谓错误的科学结果的应用全部停止，意外还是会发生，只不过是被新的意外取代。talk is cheap! 这是我工作近3年最大的感受。3年前的自己批评很多的事情，但没有意识到自己其实也想不出更好的解决方法。
+<span color = "blue">Hui: 作者认为分类简化了事物（就是柏拉图化platonicity），这个过程主观忽略了不确定性，某种程度上促进了黑天鹅事件的产生。我觉得这样最多只能说使我们在黑天鹅事件面前更加脆弱，而你无法确定什么事情“促进”黑天鹅事件的发生，因为这种事件根据定义本来就是不可预测的，发生只是概率问题而无法追溯原因。作者批判很多科学研究，说这些结果的广泛传播应用促使了黑天鹅事件的发生。我很怀疑这一点。并不是说作者的批判没有道理，科学研究建立在一些现实生活很难满足的假设条件之上，对于一些科学研究应用的价值是否有人们想的那么大，确实是个疑问。但黑天鹅事件的本身好比是在我们控制的维度之外，它能够影响我们，但我们却无法影响它。所以我赞同作者指责一些科学结果“推动”黑天鹅事件。即使作者所指责的这些所谓错误的科学结果的应用全部停止，意外还是会发生，只不过是被新的意外取代。talk is cheap! 这是我工作近3年最大的感受。3年前的自己批评很多的事情，但没有意识到自己其实也想不出更好的解决方法。</span>
 
-Hui: 书的第2章很短，讲的是出版界的一个黑天鹅的例子：Yevgenia。我不知道这个作家，于是Google了一下，发现这是作者杜撰的一个人。说的是不出名的小说家Yevgenia在网上发表自己的作品给一家小出版社发现，结果大卖成为知名作家。这便是一个黑天鹅的例子。你无法预测谁会出名。
+<span color = "blue">Hui: 书的第2章很短，讲的是出版界的一个黑天鹅的例子：Yevgenia。我不知道这个作家，于是Google了一下，发现这是作者杜撰的一个人。说的是不出名的小说家Yevgenia在网上发表自己的作品给一家小出版社发现，结果大卖成为知名作家。这便是一个黑天鹅的例子。你无法预测谁会出名。</span>
 
 To be genuinely empirical is to reflect reality as faithfully as possible; to be honorable implies not fearing the appearance and consequence of being outlandish.
 Hui: During application, it is necessary to be empirical. The author has very good points. However I wish he could have criticized others in a softer way. The next sentence after this one is not nice… I recalled the times when I said hard words to others, when I was too sharp without considering others feeling. I felt bad about myself. Please remember you are not perfect and bear with each other when you have to (I just say to myself).
 
-2.9.3 Extremistan and Mediocristan
+### Extremistan and Mediocristan
 
-Hui: 这章原来的名字是：The speculator[投机家] and prostitute，挺无厘头的，还是Extremistan and Mediocristan好些。什么导致了引爆点（tipping point）？
+<span color = "blue">Hui: 这章原来的名字是：The speculator[投机家] and prostitute，挺无厘头的，还是Extremistan and Mediocristan好些。什么导致了引爆点（tipping point）？</span>
 
-Beaware the scalable! A scalable profession is good only if you are successful; they are more competitive, produce monstrous inequalities, and are far more random, with huge disparities between efforts and rewards….There are two categories of professions:
+- Beaware the scalable! A scalable profession is good only if you are successful; they are more competitive, produce monstrous inequalities, and are far more random, with huge disparities between efforts and rewards….There are two categories of professions:
 driven by the mediocre, the average and the middle-of-the-road. The mediocre is collectively consequent.
 has either giants or dwarves——a very small number of giants and a huge number of dwarves [收入具有突破性的职业只有在你成功的时候对你是最好的。这样的职业竞争更激烈，导致更大的不平均，不确定性，在努力和回报之间存在巨大差异。…有一种分类是受中庸、平均和中间路线驱使的，其中中庸力量整体而言具有很大影响。在另一种分类中，要么是巨人，要么是侏儒，更精确地说，是非常少的巨人和大量的侏儒。]
+
 America is currently far more creative than these nations of museumgoers and equation solvers. It is also far more tolerant of bottom-up tinkering and undirected trial and error. And globalization has allowed the United States to specialize in the creative aspect of things, the production of concepts and ideas, that is, the scalable part of the products and increasingly, by exporting jobs, separate the less scalable components and assign them to those happy to be paid by hours.
 
 The supreme law of Mediocristan: When your sample is large, no single instance will significantly change the aggregate or the total.
 Extremistan: inequalities are such that one single observation can disproportionately impact the aggregate or the total
 
-2.9.4 How not to be a sucker
+### How not to be a sucker
 
-2.9.5 Negative empiricism
+### Negative empiricism
 
-2.9.6 The narrative fallacy
+### The narrative fallacy
 
-2.9.7 Living in the antechamber of hope
+### Living in the antechamber of hope
 
-2.9.8 The problem of silent evidence
+### The problem of silent evidence
 
-2.9.9 The ludic fallacy: the uncertainty of the nerd
+### The ludic fallacy: the uncertainty of the nerd
 
 这章讲游戏谬误
 
@@ -1085,29 +1086,29 @@ Part Two: We just can’t predict
 
 举例：为什么冒险家卡萨诺瓦这么幸运？
 
-2.9.10 The scandal of prediction
+### The scandal of prediction
 
-2.9.11 How to look for bird poop
+### How to look for bird poop
 
-2.9.12 Epistemocracy, a dream
+### Epistemocracy, a dream
 
-2.9.13 What do you do if you can’t predict?
+### What do you do if you can’t predict?
 
 Part Three: Those gray swans of extremistan
 
-2.9.14 From mediocristan to extremistan and back
+### From mediocristan to extremistan and back
 
-2.9.15 The bell curve
+### The bell curve
 
-2.9.16 The aesthetics of randomness
+### The aesthetics of randomness
 
-2.9.17 Bell curves in the wrong places
+### Bell curves in the wrong places
 
-2.9.18 The uncertainty of the phony
+### The uncertainty of the phony
 
 Part Four: The end
 
-2.9.19 How to get even with the black swan
+### How to get even with the black swan
 
 黑天鹅事件，虽然无法预测，不代表我们不能从中收益或者规避风险。
 
@@ -1135,9 +1136,76 @@ Part Four: The end
 
 通过杠杆策略，一边不承担风险，一边承担高风险，二者的平均值是中等风险，这样我们能从黑天鹅事件中获得额外收益。
 
-2.10 Antifragile [反脆弱, Taleb, Nassim Nicholas]
+## Antifragile 
 
-2.11 Superforecasting (超预测)
+
+(1) 什么是不确定性？
+
+
+世界是由不确定性推动的，一个个意外事件对历史进程产生的影响更为重大，而且发生的频次远远高于我们的认知，只是由于各种各样的原因导致我们没有意识到它们的存在。
+
+认知误区：假设这个世界基本是确定的，只是偶尔有意外，而我们对意外无能为力的。
+
+作者说，面对不确定性的意外，并不是只能束手无策，其实我们不仅能够减少受损，甚至还能够从中受益。
+
+
+(2) 如何应对不确定性？
+
+1、传统做法
+
+加强预防措施，研究意外造成的损失，然后推测最糟糕的情况，以此做出准备。人没有办法预测意外，在意外面前总是会遇到更意外的事情，因此传统做法在逻辑上有问题，并不能真正应对不确定性带来的风险。
+
+> 比如：9.11之后美国的应对措施，是加强高楼的安全措施，加强航空管制处理，升级安保系统，给情报系统更多的预算等；古埃及根据尼罗河泛滥时候的最高水位来安排工程防御措施；金融领域用“压力测试”的方法来预测行业未来。
+
+2、反脆弱的做法
+
+反脆弱的真正含义：脆弱的反义词不是坚强，而是反脆弱。我们设计的生活模式，应当在各种意外发生之后，不但不会在风险中受损，反而还能获得额外的收益。我们可以借鉴大自然“层层冗余”的做法。层层冗余是指在系统的多个环节，不同层级都有备份。
+
+
+- 传统的做法：靠预测来避免意外的发生，一旦无法预测的意外发生就会不堪一击，很脆弱。
+- 反脆弱的做法：承认意外发生的必然性，通过冗余备份来直接应对，不仅能避免受损，甚至还能从中获益。
+
+3、解决方案是建立“反脆弱性”
+
+反脆弱的核心理念是“非线性”。
+
+非线性会导致因和果之间呈现出不对称性。这种付出的代价非常非常小，而潜在可能获得的收益却要大得多的现象就叫不对称性。
+
+- 脆弱性：是指因为波动和不确定而承受损失。
+- 反脆弱性：是指让自己避免这些损失，甚至从混乱和不确定中获利。
+
+ [知识点—非线性：是指反应结果不是按比例，等距离的直线分布效应，相反，他结果往往是是无法直接估计的。]
+
+> 比如：2004年到2007年，国际小麦出现了1%的缺口，价格却上涨了200%，这种现象就是一种以极小的代价获得极大的收益的不对称性体现。
+> 案例：哲学家泰勒斯通过转租橄榄油压榨机赚钱的故事
+
+借助非线性导致的不对称性原理，可以应对各种不确定性。如果在生活中有各种意外和不确定性发生之前，我们能够以一个很低的成本买到一个未来发生意外后获得很大的收益选择权，那我们就有了反脆弱性来对抗这种不确定性。
+
+(3) 如何在生活中建立反脆弱系统
+
+
+第一步，减少不利因素来降低脆弱性。降低脆弱性，是指减少自己暴露在致命风险当中的概率。在生活中避免暴露在负面黑天鹅事件当中，也就是尽量不让自己陷入到可能收益是有限的，但是付出的代价是非常高的领域当中。对于个人而言，尽量避免从事高危行业；对于企业而言，避免冒险，保证活下去。
+
+> 案例：2008年金融危机时破产的投资银行，为了赚取蝇头小利的保险费用而承保了风险极大的不良资产。
+
+第二步，利用杠铃策略增强反脆弱性
+
+应用杠铃策略来构建反脆弱能力。让自己避免出现在负面黑天鹅的事件，同时又要想办法把自己挤到正面黑天鹅的收益当中。也就是说把90%的资源投入到最安全的领域，而把10%的资源投入到那些损失可能很低，但是带来的收益却无限的不对称性的事件当中，从而让我们能够对不确定性有更多的应对能力，甚至从中受益。
+
+ [知识点—杠铃策略：一个杠铃的两端是很重的，那对我们而言，就是说极好和极坏的两边极端情况都是要重视的，而中间的中庸情况要规避的。]
+
+杠铃策略可以运用到各个领域：
+
+- 比如做投资，不要把大量的钱投入到中等收益上，因为中等风险领域实际上是无力抵抗意外灾难的。
+- 比如阅读，可以读涉及领域特别广的娱乐杂志或者新闻报纸，也可以读最优秀最经典的书籍和复杂深奥的著作，但是不要去读那些中庸的书籍。
+- 要么是贵族，要么是冒险家，绝不要做中产阶级。
+
+第三步，主动理性试错。选择在正面黑天鹅的领域中，理性积极地试错，控制损失成本，用最小试错的方式不断增加自己在不确定性事件发生时获益的概率。试错本身也是一种冗余。
+
+> 案例：船长斯德穆通过试错法打捞价值不菲的海底沉船
+> 案例：创业领域中的MVP（最小可行性产品）
+
+## Superforecasting (超预测)
 
 这是一本教我们怎么可以更好地预测未来的书，方法具体、可操作性强，是关于预测的杰作。
 
@@ -1166,6 +1234,7 @@ use math to measure the distance between forcasts and real results
 遇到问题时不要直接去注意细节，而是切换外部视角。在做完所有的外部内部视角之后，我们还要尽可能去寻找其它的视角，完整地看待问题本身。
 
 意识人情绪和认知上的偏见或者倾向
+
 （3）预测家的三种人格特质
 
 有很强的认知需求
@@ -1177,7 +1246,7 @@ use math to measure the distance between forcasts and real results
 韧性
 不断学习，练习。失败的次数越多，准确和速度越高。
 
-2.12 Risk Savvy (风险与好的决策)
+## Risk Savvy 
 
 Gerd Gigerenzer: director of the Max Planck Institute for Human Development in Berlin and lectures around the world on the importance of risk education for everyone from children to prominent doctors, bankers, and politicians.
 
@@ -1215,15 +1284,15 @@ Gerd Gigerenzer: director of the Max Planck Institute for Human Development in B
 
 （1）运用经验法则。当人们掌握一些知识但却未曾认真梳理时，经常会混淆自己的判断。 反过来，如果保持适度的盲目无知，积极运用已有的经验探索，反倒能显著增大选择正确的几率。这里的“盲目无知”指的是一种“简单、简化”，就像爱因斯坦说的“凡事力求简单”。
 
-Hui: 不明白，这里所谓的经验法则是什么鬼？这里所谓的“简单、简化”也太笼统了，如何“简化”问题本身就是很难获得的能力，不然怎么只有一个爱因斯坦？这里给的建议和没有建议一样。好像再说，面对风险的好决策就是积极探索找到好决策。
+<span color = "blue">Hui: 不明白，这里所谓的经验法则是什么鬼？这里所谓的“简单、简化”也太笼统了，如何“简化”问题本身就是很难获得的能力，不然怎么只有一个爱因斯坦？这里给的建议和没有建议一样。好像再说，面对风险的好决策就是积极探索找到好决策。</span>
 
 （2）运用直觉。直觉也是经验法则的一种形式。它具备3个要点：1）直觉比意识快，往往会第一时间产生；2）我们并不知道为什么会产生这种感觉；3）这种感觉很强烈，促使我们立即采取行动。
 
 （3）什么情况下应当相信直觉。1）不确定性越高，未知风险越大的时候；2）可选方案越多，对风险计算失败概率越大时；3）历史参考数据越少时。反之，如果不符合这3种情况，就要少用直觉。
 
-Hui: 难道说最终的结论就是：靠猜么？
+<span color = "blue">Hui: 难道说最终的结论就是：靠猜么？</span>
 
-2.13 How Women Decide (女性如何做决定)
+## How Women Decide 
 
 Therese Huston: cognitive psychologist
 
@@ -1257,11 +1326,11 @@ How Women Decide examines a much overlooked truth: men and women approach decisi
 
 在女性决策力这个问题上，我们必须停止再用男性的战术，而是应该针对女性的优势发展出一套能够帮助她们做出决定的独特方法。优秀的决策力并不是单一的技能，而是包含多种子技能的综合能力。而在这些子技能里，有一些是女性擅长的能力。
 
-2.14 The Smarter Screen [Shlomo Benartzi]
+## The Smarter Screen 
 
 Surprising ways to influence and improve online behavior
 
-2.14.1 Introduction to the mental screen
+### Introduction to the mental screen
 
 Some key words: inattention blindness, neuro-economists, cognitive taxes, shortage of attention
 
@@ -1294,13 +1363,13 @@ Experiment: UCLA, give women smartphones capable of tracking movement and pingin
 
 A/B testing: sometimes lead to significant insights, even if the changes themselves are relatively simple.
 
-Hui: how people design the change to test?
+<span color = "blue">Hui: how people design the change to test?</span>
 
 There is nothing inherently scary about scarcity. One of the basic premises of economics is that scarcity is an inevitable by-product of progress. As Adam Smith pointed out in The Wealth of Nations:
 
 nature might be able to satisfy the wants of brutes and animals, but human beings seek constant improvement, which leads to recurring shortages.
 
-2.14.2 Function Follows Form
+### Function Follows Form
 
 Key words: subliminal priming
 
@@ -1309,7 +1378,7 @@ Maximize visceral beauty
 When in doubt, err on the side of simplicity
 Fast aesthetics: we seem to render verdicts about the appeal of a website very quickly. These verdicts stay the same even when we have given far more time. We know that we like before we even know what we are looking at.
 
-Ex: showing people the Apple logo for a fraction of a second improves their performance on creative takes
+> Ex: showing people the Apple logo for a fraction of a second improves their performance on creative takes
 
 Assumption: screens exaggerate fast verdicts generated by the unconscious brain. It makes us more impulsive and reactive.
 
@@ -1328,63 +1397,66 @@ Look of trust: aesthetics affect perceptions of usability prettier cell phone
 
 In the age of screen, there is nothing superficial about beauty
 
-2.14.3 Display Biases
+### Display Biases
 
-Optimize the use of hot spots
-Avoid cold spots
-Consider cultural differences in hotspot location
-Factor in the horizontal bias
-Sometimes zoom out, not it
-2.14.4 New Mirror
+- Optimize the use of hot spots
+- Avoid cold spots
+- Consider cultural differences in hotspot location
+- Factor in the horizontal bias
+- Sometimes zoom out, not in
 
-Calibrate the amount of feedback
-Use just-in-time education
-Leverage the fresh start effect
-Make us feel the feedback
-Use carrots (and not sticks) whenever possible
-Be aware of social media conformity effects
-Take screen anonymity into account
-Empower feedback with an action plan
-2.14.5 Desirable difficulty
+### New Mirror
 
-Consider ugly fonts (and other forms of visual disfluency)
-Use cognitive disfluency to slow the mind down
-Calibrate disfluency to fit your site’s goals
+- Calibrate the amount of feedback
+- Use just-in-time education
+- Leverage the fresh start effect
+- Make us feel the feedback
+- Use carrots (and not sticks) whenever possible
+- Be aware of social media conformity effects
+- Take screen anonymity into account
+- Empower feedback with an action plan
+
+### Desirable difficulty
+
+- Consider ugly fonts (and other forms of visual disfluency)
+- Use cognitive disfluency to slow the mind down
+- Calibrate disfluency to fit your site’s goals
+
 Exp:
 
 A: Laptop note-taking more likely to take - “verbatim” notes on the lecture.
+
 B: Hand notes were forced to summarize the content
+
 B engaged with the material at a deeper level.
-Need to consider the demand for cognitive ease (complete a transaction, make a quick purchase) v.s. benefits of desirable difficulty (learning and memory)
 
-2.14.6 Digital tailoring
+- Need to consider the demand for cognitive ease (complete a transaction, make a quick purchase) v.s. benefits of desirable difficulty (learning and memory)
 
-Use personalized visuals and videos
-Tailor the timing of messages
-Tailor the menus to each individual
-Offer more than one Web site
-Remember: too much personalization can backfire
-2.14.7 Choice opportunity
+### Digital tailoring
 
-Offer a manageable consideration set
-Personalize categories
-Incorporate choice tournaments
-Manage regret with choice closure
-Avoid navigation overload
-Mange attribute overload
-Maximize satisfaction, not clicks
-2.14.8 Thinking apps
+- Use personalized visuals and videos
+- Tailor the timing of messages
+- Tailor the menus to each individual
+- Offer more than one Web site
+- Remember: too much personalization can backfire
 
-Start with choice architecture
-Set the right information environment
-Offer thinking tools
-2.15 反直觉思考
+### Choice opportunity
 
-2.16 推理的迷宫 [Labyrinths of Reason, William Poundstone]
+- Offer a manageable consideration set
+- Personalize categories
+- Incorporate choice tournaments
+- Manage regret with choice closure
+- Avoid navigation overload
+- Mange attribute overload
+- Maximize satisfaction, not clicks
 
-2.17 Science of Logic [逻辑学, Hegel]
+### Thinking apps
 
-2.18 Mind Wide Open [心思大开]
+- Start with choice architecture
+- Set the right information environment
+- Offer thinking tools
+
+## Mind Wide Open [心思大开]
 
 大脑是人类文明的开始，所以文明是大脑生物学的分支。
 
@@ -1406,7 +1478,7 @@ Offer thinking tools
 
 我们越了解本性（先天），我们越能改进自己（后天）。
 
-2.19 The Human Advantage [最强大脑]
+## The Human Advantage [最强大脑]
 
 大脑皮层的神经元数量决定了动物的智力水平，人类大脑皮层中的神经元数量远高于其他物种，所以人类比其他物种更聪明。由于神经元数量越多，大脑的重量越大，对应的身体重量也越大。因此在进化过程中，可用卡路里量的有限性强迫大型类人猿在身体重量和脑子重量之间做出选择。人类因为掌握了烹饪技术而使在短时间内摄入大量卡路里以支持大脑运转成为可能。其他物种则不得不牺牲神经元数量，将摄入的卡路里用于维持身体运转。
 
@@ -1452,11 +1524,11 @@ Offer thinking tools
 
 我们已经到达这个位置，我们中只有极少的人主宰了现在的技术。谁知道怎么融化和加工金属？更不用说用它来从头制造一辆汽车、一部手机或者一台电脑。能自称科学家甚至不等于我知道怎么制作一支简单的铅笔。当今技术中的很多不再掌握于一个个体。我们夸口从古希腊以来走了很长的路—但是我们不再同时是建筑学、生物学和理学专家。这就是为什么科学（知识）和技术（工艺）必须被小心地栽培、记录和传授给下一代。拥有令人瞩目的大脑皮层神经元数量从而能达到令人瞩目的成就是不够的：我们站立于前人的肩膀之上，并且现在我们这一物种的成就作为一个整体远远超过任何一个个体。人类很久以来就超越了个人。它自强化地匹配了我们大脑皮层中惊人数量的神经元促成的技术发明和文化传播，后者又将我们的性能成形为能力，并让我们成为人——无论情况好还是坏。
 
-2.20 Spark
+## Spark
 
 The revolutionary new science of exercise and the brain
 
-2.20.1 A case study
+### A case study
 
 Physical activity sparks biological changes that encourage brain cells to bind to one another.
 
@@ -1464,7 +1536,7 @@ Exercise provides an unparalleled stimulus, creating an environment in which the
 
 The ability to stop and consider a response, to use the experience of a wrong choice as a guide in making the next decision, relates to executive function, which is controlled by the prefrontal cortex.
 
-2.20.2 Learning: grow your brain cells
+### Learning: grow your brain cells
 
 Exercise influences learning at the cellular level, improving the brain’s potential to log in and process new information.
 
@@ -1472,28 +1544,31 @@ The brain is flexible, or plastic … The more you use it, the stronger and more
 
 The brain is made up of one hundred billion neurons of various types that chat with one another by way of hundreds of different chemicals, to govern our every thought and action … The junction between cell branches is the synapse.
 
-3.1 The art of loving [Erich Fromm]
+## The art of loving [Erich Fromm]
 
-3.1.1 Is love an art?
+### Is love an art?
 
 Is love an art? Then it requires knowledge and effort. Or is love a pleasant sensation, which to experience is matter of chance, something one “falls into” if one is lucky?
-Hui: The author answered this question in the next Chapter “The Theory of love”. he believes love is active not passive; it is a “standing in” not “falling for”; It is practiced by human power in freedom never a result of compulsion. What does the “active character of love” mean? It means that love is primarily giving not receiving. In the next chapter, the author will discuss what is giving and what if a person can’t give.
+
+<span color = "blue">Hui: The author answered this question in the next Chapter “The Theory of love”. he believes love is active not passive; it is a “standing in” not “falling for”; It is practiced by human power in freedom never a result of compulsion. What does the “active character of love” mean? It means that love is primarily giving not receiving. In the next chapter, the author will discuss what is giving and what if a person can’t give.</span>
 
 What most people in our culture mean by being lovable is essentially a mixture between being popular and having sex appeal…Our whole culture is based on the appetite for buying, on the idea of mutually favorable exchange….“Attractive” usually means a nice package of qualities which are popular and sought after on the personality market.
-3.1.2 The theory of love
 
-3.1.2.1 Love, the answer to the problem of human existence
+### The theory of love
+
+#### Love, the answer to the problem of human existence
 
 The experience of separateness arouses anxiety; it is, indeed, the source of all anxiety…The awareness of human separation, without reunion by love–is the source of shame. It is at the same time the source of guilt and anxiety…Man is confronted with the solution of one and the same question: the question of how to overcome separateness, how to achieve union, how to transcend one’s own individual life and find atonement…The answer varies. The question can be answered by animal worship, by human sacrifice or military conquest, by indulgence in luxury, by ascetic renunciation [n. 放弃，脱离关系], by obsessional work, by artistic creation, by the love of God, and by the love of Man…The answer depends, to some extent, on the degree of individuation which an individual has reached…The more the human race emerges from these primary bonds, the more it separates itself from the natural world, the more intense becomes the need to find new ways of escaping separateness.
-Hui: “Separateness” is a key concept in Erich Fromm’s work. In his book “Escape from freedom”, Erich said human escape from freedom because they want to escape separateness. He stated three ways of achieving this aim:
 
-In all kinds of orgiastic state…orgiastic union have three characteristics: (1) they are intense, even violent; (2) they occur in the total personality, mind and body; (3) the unity is transitory.
+<span color = "blue">Hui: “Separateness” is a key concept in Erich Fromm’s work. In his book “Escape from freedom”, Erich said human escape from freedom because they want to escape separateness. He stated three ways of achieving this aim:
+
+In all kinds of orgiastic state…orgiastic union have three characteristics: (1) they are intense, even violent; (2) they occur in the total personality, mind and body; (3) the unity is transitory.</span>
 
 Based on conformity with the group, its customs, practices and beliefs. It is the most frequent solution chosen by man in the past and in the present. It is pseudo-unity.
 
 In creative activity (artist, artisan). In any kind of creative work the creating person unites himself with his material, which represents the world outside of himself. It is not interpersonal
 
-Hui: In the author’s view, all the three are only partial answers to the problem of existence. The full answer is the interpersonal union by love which is the most powerful striving in man. Failing to achieve means destruction (self or others).
+<span color = "blue">Hui: In the author’s view, all the three are only partial answers to the problem of existence. The full answer is the interpersonal union by love which is the most powerful striving in man. Failing to achieve means destruction (self or others).</span>
 
 The dictatorial system use threats and terror to induce this conformity; the democratic countries, suggestion and propaganda.There is, indeed, one great difference between the two systems…But actually people want to conform to a much higher degree than they are forced to conform, at least in the Western democracies.
 
@@ -1504,23 +1579,27 @@ Passive form: masochism [ˈma-sə-ˌki-zəm 受虐狂]
 Active form: sadism
 Mature love is union under the condition of preserving one’s integrity, one’s individuality. (contrast to symbiotic union). Two beings become one and yet remain two.
 
-Hui: Discussion around “giving”:
+<span color = "blue">Hui: Discussion around “giving”:
 
-Giving is the highest expression of potency.
+Giving is the highest expression of potency.</dpan>
+
 It is well known that the poor are more willing to give than the rich. Nevertheless, poverty beyond a certain point may make it impossible to give, and is so degrading, not only because of the suffering it causes directly, but because of the fact that it deprives the poor of the joy of giving.
-Hui: It reminds me a sentence from the book “Maxims” which says:“What we call liberality is often but the vanity of giving which we like more than that we give away.” The word “vanity” has negative connotation here. It is not a graceful motivation to give but it is not bad either. At least people with this mind are willing to give. Only God can see people’s mind perfectly. Other than God, who knows what is real under the sun? That is why making judgement about others is dangerous because all we can see is (part of) people’s behavior and you don’t know what are in people’s heart. On the other hand, we are judging all the time since we have to make a decision. I like the analogue saying “human are living on a dial of a clock. We can never open the back to examine how it works. We see what we see and guess the reason.” We are too stupid to be complicated. We are just sinful and making each other’s life tough.
+
+<span color = "blue">Hui: It reminds me a sentence from the book “Maxims” which says:“What we call liberality is often but the vanity of giving which we like more than that we give away.” The word “vanity” has negative connotation here. It is not a graceful motivation to give but it is not bad either. At least people with this mind are willing to give. Only God can see people’s mind perfectly. Other than God, who knows what is real under the sun? That is why making judgement about others is dangerous because all we can see is (part of) people’s behavior and you don’t know what are in people’s heart. On the other hand, we are judging all the time since we have to make a decision. I like the analogue saying “human are living on a dial of a clock. We can never open the back to examine how it works. We see what we see and guess the reason.” We are too stupid to be complicated. We are just sinful and making each other’s life tough.</span>
 
 Love is a power which produces love; impotence is the inability to produce love.
-Hui: I like this way to describe love and impotence! Being a potent person is to be someone who can produce and give love not just receive.
 
-3.2 Escape from Freedom [逃避自由, Erich Fromm]
+<span color = "blue">Hui: I like this way to describe love and impotence! Being a potent person is to be someone who can produce and give love not just receive.</span>
 
-3.2.1 Ch3 现代人的两种自由观念
+## Escape from Freedom 
+
+### 现代人的两种自由观念
 
 如果我们对于工作缺乏高度的热心以及对积极投资以发挥最高生产力的推进毫无野心，则绝无进步的可能。
 无资者是受雇于人的，也就是说，他无须顾虑市场问题，无须为营运之好坏担忧，也不必考虑祈求进步的技术问题，这些都是资本家的责任。受雇佣的人，只是默默的遵循。
 对于这种一面牺牲自我为整个社会的机器献身，另一方面趋于追求自我利益的矛盾，我们如何去协调呢？我们只有从心理上的基本因素才能寻求解答。
-3.3 The sane society (健全社会)
+
+## The sane society (健全社会)
 
 在本书中，弗洛姆借助心理学方法，对“一个社会是否也会患病”这个问题展开深入探讨，并指出一个健全的社会，是适应人的需要的社会，是每个人都成为自己的目的而不是他人手段的社会，也是个人的幸福和发展成为核心关注点的社会。
 
@@ -1548,7 +1627,7 @@ Hui: 这些好像有重复？寻根，身份感以及定位都是为了定义自
 
  与马斯洛的需求理论不同，弗洛姆并不着重探讨需求的层次，他更想指出的是，人要满足自身的需求，其实有两条路可走。一条路就是后退，回到动物的生存状态，和自然界合为一体；另一条就是向前，发展人类自己的理性，成为真正健全的人。这种前后两分，也是弗洛姆提出的需求的共同特点。
 
-Hui: 这倒是头一次听说，退回动物的生存状态。
+<span color = "blue">Hui: 这倒是头一次听说，退回动物的生存状态。</span>
 
 当代资本主义社会是不健全的
 弗洛姆认为，资本主义社会的富强和自由只是表面，其内在依旧是服从和奴役，依旧是人为了满足社会，适应社会而存在，而不是社会为了人的需求而存在。资本主义社会中人的最主要特征就是被异化，就是人的活动成了一种和自己对立的力量，结果是这种力量压迫人去行动，而不是人掌控这种力量。于是他创造出来的物成了他的主人。在现代社会，这种异化是无处不在的。人创造了资本工业的庞大机构，但结果这些企业却成了凌驾于个人之上的存在，个人反而只能按照企业的要求去塑造自己，成为大机器上的一个小零件。
@@ -1570,7 +1649,7 @@ Hui: 这倒是头一次听说，退回动物的生存状态。
 在文化方面，要改革教育，培养具有批判思维能力的学生，发展学生的人格，而不仅仅是塑造对社会有用的螺丝钉。
 这三个领域的改革是要齐头并进的，不能彼此分开，否则努力就会落空。
 
-3.4 Maxims [La Rochefoucauld, 1613-1680, French]
+## Maxims 
 
 The constancy of the wise is only the talent of concealing the agitation of their hearts.
 Neither the sun nor death can be looked at without winking.[直视太阳和死亡，不能不眨眼。]
@@ -1605,7 +1684,7 @@ We reach quite inexperienced the different stages of life, and often, in spite o
 
 The most dangerous folly of old persons who have been lovable is to forget that they are no longer so.
 
-Hui: hope it is not that bad……
+<span color = "blue">Hui: hope it is not that bad……</span>
 
 In love the quickest is always the best cure.
 Few knows how to be old.
@@ -1618,7 +1697,8 @@ It is only people who possess firmness who can possess true gentleness. In those
 Usually we are more satirical ’tɪrɪkl from vanity than malice. [一般来说人们的尖酸刻薄主要来自虚荣心而非心怀恶意]
 We have more idleness in the mind than in the body.
 Quarrels would not last long if the fault was only on one side.
-3.5 On the Old Age [论老年, Marcus Tullius Cicero]
+
+## On the Old Age 
 
 最适合老年的养身之道莫过于研究学问和培养美德，一个人随时注意培养美德，在他度过漫长的一生时，便会收到惊人的结果。
 当我认真思考老年为什么被认为是不幸的时候，我想出了四条理由：
@@ -1634,35 +1714,33 @@ Quarrels would not last long if the fault was only on one side.
 当我们被禁锢在这肉体的躯壳里的时候，我们是在尽某种必尽的责任，完成某种劳苦的工作，因为灵魂本是来自天上，它从最高的居所降落下来后，好似沉沦于大地，沉沦于这个与其神圣天性相悖的地方。
 你们肯定注意到，没有什么比死更像睡眠了。人睡着的时候灵魂最能表现它神圣的本质；当灵魂自由自在，不受桎梏的时候，它能预见许多未来的事情，由此可见，在灵魂完全摆脱肉体的束缚之后，它该是什么样子。
 既然我们并非注定不死，那么到时候死去便是很好的事，因为自然像对待其他事物一样，也为生命规定了期限。有如戏剧，老年是人生的最后一幕，在我们活够了的时候，我们应该避免继续活下去，以免对生活感到厌倦。
-3.6 On the Friendship [论友谊, Marcus Tullius Cicero]
+
+## On the Friendship 
 
 我们降生于世，相互便处于一种联系之中，并且彼此越接近，这种关系也越密切。由此，本国人便比外国人亲近，亲属间便比非亲属间亲近。自然本身让人们与常相接近的人之间产生友谊，不过这种友谊不是很稳固的。实际上，友谊在这里胜过亲属关系，因为亲属关系中可能没有情谊，而友谊中则不能没有它，因为如果没有情谊，真正意义上的友谊便不可能存在，而亲属关系却仍然保持。
 再如若是我们偶然发现某人的品行和性格和我们相合，我们便会明显对他产生一种爱意，因为我们觉得似乎在他身上看到某种正直和美德的光辉。
 预防和避免这一切过错和不愉快的惟一有效手段是不要很快就开始表露自己的敬爱之情，或者很快就敬爱一个不值得敬爱的人。只有那些本身具备令人敬爱的品质的人才值得缔结友谊。这样的人很少！一切美好的东西都是稀少的，而且没有什么比找到一个自身在各方面都完美无缺的东西更困难。……合理的是首先自己做一个高尚的人，然后再寻找与自己相似的朋友。……对一个人应该先判断，然后爱；而非先爱，然后判断。
 假设让一个人升上天空，让他看到宇宙的盛景和群星的璀璨，但这一惊人的壮观并不会令他愉快，只有他找到一个人述说后，他才会感到快乐。
-3.7 On the Immortality of the Soul [论灵魂, Marcus Tullius Cicero]
+
+## On the Immortality of the Soul 
 
 荣誉滋养艺术，声名激励每个人去从事它们，任何东西凡不受人重视，总是处于可怜的状态。
-3.8 On the Laws [Cicero Marcus Tullius]
 
-3.9 On the Nature of the Gods [Cicero Marcus Tullius]
+## Tolerence 
 
-3.10 An Insight of Chung-yung [中庸洞见,Tu Wei-ming]
-
-3.11 Tolerence [宽容，Van Loon]
-
-3.11.1 The Tyranny of Ignorance [无知的暴君]
+### The Tyranny of Ignorance 
 
 It follows that a society in which everything happens as the result of the direct personal interference on the part of an invisible being must depend for its continuted existence upon a strict obedience of such laws as seem to appease the wrath of the Gods.
 The word taboo is of Australian origin. [在一个社会中，如果任何事情都被认为是由看不见的生灵操纵的，那么社会要维持下去，就必须绝对服从能平息神灵怒火的律法。]
-Hui: I wonder more about who is going to give the law and if God is the one, how are we supposed to know the laws we are given are really from God. I don’t want to worry about the necessity of laws.
+
+<span color = "blue">Hui: I wonder more about who is going to give the law and if God is the one, how are we supposed to know the laws we are given are really from God. I don’t want to worry about the necessity of laws.</span>
 
 Whether the taboo was an invention of the priests or the priesthood was created to maintain the taboo is a problem which had not yet been solved. As tradition is much older than religion, it seems more than likely that taboos existed long before the world had heard of sorcerers and witchdoctors. [究竟是祭司发明了禁忌，还是为了维护禁忌才产生了祭司，这是尚待解决的问题。由于传统比宗教更为源远流长，因此很可能早在男巫师和女巫婆问世之前禁忌就存在了。]
 Hui: According to the author, does he mean that the priesthood was created to maintain the taboo?
 
 What we sometimes mistake for tolerance was merely indifference caused by ignorance. The struggle for tolerance did not begin until after the discovery of the individual. And the credit for this, the greatest of all modern revelations, belongs to the Greeks. [我们有时看到的宽容，实际上是由于无知导致的漠不关心。为宽容的斗争直到个性被发现后才开始，在现代最伟大的新发现中，个性发现这一荣誉应归功于希腊人。]
 
-3.11.2 The Greeks [希腊人]
+### The Greeks [希腊人]
 
 － According to the best knowledge of modern scientists, life (animate existence as differentiated from inanimate existence) began when for once all physical and chemical elements were present in the ideal proportion necessary for the creation of the first living cell. Translate this into terms of history and you get this: “A sudden and apparently spontaneous outbreak of a very high form of civilization is only possible when all the racial, climatic, economic and political conditions are present in an ideal proportion or in as nearly an ideal condition and proportion as they can be in this imperfect world.”
 
@@ -1674,23 +1752,18 @@ What we sometimes mistake for tolerance was merely indifference caused by ignora
 
 3.12 Why does the world exist? [世界为何存在]
 
-3.13 The Theory of Moral Sentiments [Adam Smith]
+## The Theory of Moral Sentiments 
 
-3.13.1 Of the Propriety of Action
 
-3.13.1.1 Of the Sense of Propriety
-
-3.13.1.1.1 Of Sympathy
-
-Principles in the nature, the emotion which we feel for the misery of others when we either see it, or are made to conveive it in a very lively manner. (人性中的原始感情)
+- Principles in the nature, the emotion which we feel for the misery of others when we either see it, or are made to conveive it in a very lively manner. (人性中的原始感情)
 原因：看到引发那种感情的处境
 恐惧死亡：对死者同情。我们把自己还活着的灵魂塞进他们已失去活力的躯壳里，然后设想在这种情况下我们自己将会有什么样的情绪。正是该错觉，在我们死后无疑不可能给我们带来任何痛苦的那些情况，在我们活着时想起来却让我们心痛不已。
-3.13.1.1.2 Of the Pleasure of Mutual Sympathy [论彼此同情的快感]
 
-最让我们愉快的事，显然莫过于发现他人的感觉和我们自己心理全部情绪一致；而最让我们震惊的，也莫过于发现他人和我们完全没有同感……同情感活化喜悦，缓和悲伤……我们更加渴望向朋友倾诉我们心理的不愉快；他们同情我们的不愉快，比同情我们的喜悦， 会让我们得到更大的满足，而他们对我们的不愉快缺乏同情感，则比他们对我们的喜悦缺乏同情感，更加另我们震惊。
-3.14 Personality [人格心理学, Jerry M. Burger, 7th Edition]
+- 最让我们愉快的事，显然莫过于发现他人的感觉和我们自己心理全部情绪一致；而最让我们震惊的，也莫过于发现他人和我们完全没有同感……同情感活化喜悦，缓和悲伤……我们更加渴望向朋友倾诉我们心理的不愉快；他们同情我们的不愉快，比同情我们的喜悦， 会让我们得到更大的满足，而他们对我们的不愉快缺乏同情感，则比他们对我们的喜悦缺乏同情感，更加另我们震惊。
 
-3.14.1 What is Personality?
+## Personality 
+
+### What is Personality?
 
 人格可以定义为源于个体身上的 稳定 行为方式和 内部过程 。该定义中有两个需要注意的点：
 
@@ -1698,11 +1771,7 @@ Principles in the nature, the emotion which we feel for the misery of others whe
   2. 内部过程， 它是从人的内心发生，影响人行为、感觉的所有情绪、动机和认知过程。
 Hui: 该定义没有提到环境，而是着眼与个体层面，研究那些在不同情境下相对稳定的行为方式和内部心理过程。但是环境对人格还是会产生影响的，只是程度不同，这与背后存在共性并不矛盾。
 
-3.15 Social Psychology [社会心理学, David G. Myers, 8th Edition]
-
-3.15.1 Introducing Social Psychology
-
-3.16 Intimate Relationship [亲密关系, Rowland S Miller & Daniel Perlman]
+## Intimate Relationship 
 
 3.16.1 The Building Blocks of Relationships
 
@@ -1711,6 +1780,7 @@ The book is about:
 What are intimate relationships? why do they matter so much? Fundamental building blocks of close relationships: the cultures we inhabit, the experiences we encounter, the personalities we possess, the human origins we all share, and the interactions we conduct.
 
 Most of us need others even more than we realize, and there is a reason prisons sometimes use solitary confinement [单独监禁] as a form of punishment: Human beings are a very social species. People suffer when they are deprived of close contact with others, and at the core of our social nature is our need for intimate relationships.
+
 3.16.1.1 The nature and importance of intimacy
 
 人类社会属性的核心部分正是对亲密关系的需要。
@@ -1732,129 +1802,141 @@ Avoident (Fearful and Dismissing)
 人格影响人际关系的程度远大于人际关系影响人格的程度。人们是否会结婚，似乎有部分是由基因决定的。某些人生而具有的人格使得他们比其他人更可能晚婚，而且这种倾向不大会受到他们后来经历的影响。
 自尊：对自我的评价。 人际间的拒绝会损害人们的自尊，而其他沮丧事件则不会。
 低自尊的人有时低谷伴侣对他们的爱，从而损害亲密关系，还觉知到根本就不存在的伴侣的模式。
-3.17 The Road Less Travelled [M Scott Peck]
 
-Discipline is the basic set of tools we require to solve life’s problems. Without discipline we can solve nothing.
+## The Road Less Travelled [M Scott Peck]
 
-Franklin:”Those things that hurt, instruct.” It is for this reason that wise people learn not to dread but actually to welcome problems and actually to welcome the pain of problems.
+- Discipline is the basic set of tools we require to solve life’s problems. Without discipline we can solve nothing.
 
-In the succinctly elegant words of Carl Jung: “Neruosis [精神官能症] is always a substitute for legitimate suffering.”
+- Franklin:”Those things that hurt, instruct.” It is for this reason that wise people learn not to dread but actually to welcome problems and actually to welcome the pain of problems.
 
-The neurosis assumes too much responsibility; the person with a character disorder [人格失调] not enough.
+- In the succinctly elegant words of Carl Jung: “Neruosis [精神官能症] is always a substitute for legitimate suffering.”
 
-Few of us can escape being neurosis or character disordered to at least some degree. The reason for this is that the problem of distinguishing what we are and what we are not responsible for in this life is one of the greatest problems of human existence.
+- The neurosis assumes too much responsibility; the person with a character disorder [人格失调] not enough.
 
-It is for this reason that Erich Fromm so aptly (恰当地) titled his study of Nazism and authoritarianism “Escape from Freedom”. In attempting to avoid the pain of responsibility, millions and even billions daily attempt to escape from freedom.
+- Few of us can escape being neurosis or character disordered to at least some degree. The reason for this is that the problem of distinguishing what we are and what we are not responsible for in this life is one of the greatest problems of human existence.
 
-Our view of reality is like a map with which to negotiate the terrain of life. If the map is true and accurate, we will generally know where we are, and if we have decided where we want to go, we will generally know who to get there. If the map is false and inaccurate, we generally will be lost.
+- It is for this reason that Erich Fromm so aptly (恰当地) titled his study of Nazism and authoritarianism “Escape from Freedom”. In attempting to avoid the pain of responsibility, millions and even billions daily attempt to escape from freedom.
 
-The more honest one is, the easier it is to continue being honest, just as the more lies one has told, the more necessary it is to lie again. By their opens, people dedicated to the truth live in the open, and through the exercise of their courage to live in the open, they become free from fear. [一个人越是诚实，保持诚实就越容易，而谎言说的越多，则越要编造更过的谎言自圆其说。敢于面对事实的人能够心胸坦荡地生活，不必面临良心的折磨和恐惧的威胁。]
+- Our view of reality is like a map with which to negotiate the terrain of life. If the map is true and accurate, we will generally know where we are, and if we have decided where we want to go, we will generally know who to get there. If the map is false and inaccurate, we generally will be lost.
 
-Balancing is the discipline that gives us flexibility
+- The more honest one is, the easier it is to continue being honest, just as the more lies one has told, the more necessary it is to lie again. By their opens, people dedicated to the truth live in the open, and through the exercise of their courage to live in the open, they become free from fear. [一个人越是诚实，保持诚实就越容易，而谎言说的越多，则越要编造更过的谎言自圆其说。敢于面对事实的人能够心胸坦荡地生活，不必面临良心的折磨和恐惧的威胁。]
 
-Mature mental health demands, then, an extraordinary capacity to flexibly strike and continually restrict a delicate balance between conflicting needs, goals, duties, responsibilities, directions etc. The essence of this discipline of balancing is “giving up”…Balancing is a discipline precisely because the act of giving something up is painful.
+- Balancing is the discipline that gives us flexibility
 
-The discipline of bracketing illustrates the most consequential fact of giving up and of discipline in general: namely that fro all that is given up even more is gained. Self-discipline is a self-enlarging process.
+- Mature mental health demands, then, an extraordinary capacity to flexibly strike and continually restrict a delicate balance between conflicting needs, goals, duties, responsibilities, directions etc. The essence of this discipline of balancing is “giving up”…Balancing is a discipline precisely because the act of giving something up is painful.
 
-Buddhists tend to ignore the Buddha’s suffering and Christians forget Christ’s joy. Buddha and Christ were not different men. The suffering of Christ letting go on the cross and the joy of Buddha letting go under the bo tree are one.
+- The discipline of bracketing illustrates the most consequential fact of giving up and of discipline in general: namely that fro all that is given up even more is gained. Self-discipline is a self-enlarging process.
 
-One measure—and perhaps the best measure—of a person’s greatness is the capacity for suffering. Yet the great are also joyful. This then is the paradox. [一个人是否杰出和伟大，视其承受痛苦的能力决定，而杰出伟大本身，则会给人带来快乐和幸福－－－表面是悖论，其实不然。]
+- Buddhists tend to ignore the Buddha’s suffering and Christians forget Christ’s joy. Buddha and Christ were not different men. The suffering of Christ letting go on the cross and the joy of Buddha letting go under the bo tree are one.
 
-A final word on this discipline of balancing and its essence of giving up: you must have something in order to give it up.
+- One measure—and perhaps the best measure—of a person’s greatness is the capacity for suffering. Yet the great are also joyful. This then is the paradox. [一个人是否杰出和伟大，视其承受痛苦的能力决定，而杰出伟大本身，则会给人带来快乐和幸福－－－表面是悖论，其实不然。]
 
-It is the difference between the peak experience, typified by falling in love, and what Abraham Maslow has referred to as the “plateau /ˈplætəʊ/ experience”. The heights are not suddenly glimpsed and lost again; they are attained forever.
+- A final word on this discipline of balancing and its essence of giving up: you must have something in order to give it up.
 
-Seneca said two millennia ago “Throughout the whole of life one must continue to learn to live and what will amaze you even more, throughout life one must learn to die.”
+- It is the difference between the peak experience, typified by falling in love, and what Abraham Maslow has referred to as the “plateau /ˈplætəʊ/ experience”. The heights are not suddenly glimpsed and lost again; they are attained forever.
 
-The child’s speech patterns are uneven—occasional rushes of words interspersed with pauses and repetitions—which makes concentration difficult.
+- Seneca said two millennia ago “Throughout the whole of life one must continue to learn to live and what will amaze you even more, throughout life one must learn to die.”
 
-Courage is not the absence of fear; it is the making of action in spite of fear, the moving out against the resistance engendered by fear into the unknown and into the future.
+- The child’s speech patterns are uneven—occasional rushes of words interspersed with pauses and repetitions—which makes concentration difficult.
 
-The highest forms of love are inevitably totally free choices and not acts of conformity. [放弃真正的自我，我们就无法进入爱的至高境界。至高境界的爱，必然是自由状态下的自主选择，而不是墨守成规，被动而消极地抗拒心灵的状态]
+- Courage is not the absence of fear; it is the making of action in spite of fear, the moving out against the resistance engendered by fear into the unknown and into the future.
 
-Problems of commitment are a major, inherent part of most psychiatric disorders and issues of commitment are crucial in the course of psychotherapy. Character-disordered individuals tend to form only shallow commitments, and when their disorders are severe /səˈvɪr/ these individuals seems to lack totally the capacity to form commitments at all.
+- The highest forms of love are inevitably totally free choices and not acts of conformity. [放弃真正的自我，我们就无法进入爱的至高境界。至高境界的爱，必然是自由状态下的自主选择，而不是墨守成规，被动而消极地抗拒心灵的状态]
 
-The fact that a feeling is uncontrolled is no indication whatsoever that it is any deeper than a feeling that is disciplined. To the contrary, psychiatrists know well the truth of the old proverb:”Shallow brooks are noisy and still waters run deep.” We must not assume that someone whose feelings are modulated and controlled is not a passionate person. [恣意放纵，漫无节制的情感，绝不会自制的情感更为深刻。俗语说：“静水流深”。真正掌握和控制情感的人，不仅不缺少激情和活力，而且能使情感更为深刻和成熟。]
+- Problems of commitment are a major, inherent part of most psychiatric disorders and issues of commitment are crucial in the course of psychotherapy. Character-disordered individuals tend to form only shallow commitments, and when their disorders are severe /səˈvɪr/ these individuals seems to lack totally the capacity to form commitments at all.
 
-While one should not be a slave to one’s feelings, self-discipline does not mean the squashing of one’s feelings into non-existence. I frequently tell my patients that their feelings are their salves and that the art of self-discipline is like the art of slave-owning.
+- The fact that a feeling is uncontrolled is no indication whatsoever that it is any deeper than a feeling that is disciplined. To the contrary, psychiatrists know well the truth of the old proverb:”Shallow brooks are noisy and still waters run deep.” We must not assume that someone whose feelings are modulated and controlled is not a passionate person. [恣意放纵，漫无节制的情感，绝不会自制的情感更为深刻。俗语说：“静水流深”。真正掌握和控制情感的人，不仅不缺少激情和活力，而且能使情感更为深刻和成熟。]
 
-One set of such questions derives rather logically from the material thus far discussed. It has been made clear, for instance, that self-discipline develops from the foundation of love. But this leaves unanswered question of where love itself comes from. And if we ask that, we must also ask what are the sources of the absence of love. It has been further suggested that the absence of love is the major cause of mental illness and that the absence of love is consequently the essential healing element in psychotherapy. This being so, who is it that certain individuals, born and raised in an environment of non love, of unremitting neglect and casual brutality, somehow manage to transcend their childhood, sometimes even without the loving assistance of psychotherapy, and become mature, healthy and perhaps even saintly people? Conversely, how is it that some patients, apparently no more ill than others, fail partially or totally to respond to psychotherapeutic treatment by even the most wise and loving therapist?
+- While one should not be a slave to one’s feelings, self-discipline does not mean the squashing of one’s feelings into non-existence. I frequently tell my patients that their feelings are their salves and that the art of self-discipline is like the art of slave-owning.
 
-I believe that an understanding of the phenomenon of grace is essential to complete understanding of the process of growth in human being.
+- One set of such questions derives rather logically from the material thus far discussed. It has been made clear, for instance, that self-discipline develops from the foundation of love. But this leaves unanswered question of where love itself comes from. And if we ask that, we must also ask what are the sources of the absence of love. It has been further suggested that the absence of love is the major cause of mental illness and that the absence of love is consequently the essential healing element in psychotherapy. This being so, who is it that certain individuals, born and raised in an environment of non love, of unremitting neglect and casual brutality, somehow manage to transcend their childhood, sometimes even without the loving assistance of psychotherapy, and become mature, healthy and perhaps even saintly people? Conversely, how is it that some patients, apparently no more ill than others, fail partially or totally to respond to psychotherapeutic treatment by even the most wise and loving therapist?
 
-As human beings grow in discipline and love and life experience, their understanding of the world and their place in it naturally grows apace. Conversely, as people fail to grow in discipline, love and life experience, so does their understanding fail to grow. Consequently, among the members of the human race there exists an extraordinary variability in the breadth and sophistication of our understanding of what life is all about. This understanding is our religion. Since everyone has some understanding—some world view, no matter how limited or primitive or inaccurate— everyone has a religion. This face, not widely recognized, is of the utmost importance: everyone has a religion.
+- I believe that an understanding of the phenomenon of grace is essential to complete understanding of the process of growth in human being.
+
+- As human beings grow in discipline and love and life experience, their understanding of the world and their place in it naturally grows apace. Conversely, as people fail to grow in discipline, love and life experience, so does their understanding fail to grow. Consequently, among the members of the human race there exists an extraordinary variability in the breadth and sophistication of our understanding of what life is all about. This understanding is our religion. Since everyone has some understanding—some world view, no matter how limited or primitive or inaccurate— everyone has a religion. This face, not widely recognized, is of the utmost importance: everyone has a religion.
 We suffer from a tendency to define religion too narrowly. We tend to think that religion must include a belief in God or some ritualistic practice or membership in worshiping group……We are puzzled as to how two very different people can both call themselves Christians. or Jews, or how an atheist might have a more highly developed sense of Christian morality than a Catholic who routinely attends mass. [随着爱和人生经验的增长，我们会越来越了解周围的世界，以及自己在世界中的位置。由于天赋以及成长环境的不同，每个人认识的广度和深度常常有着天壤之别。
 我们对于人生都有各自的认识，有着或广阔或狭隘的人生观和世界观，可以说，人人都有自己的信仰，对人生的认识和了解就属于信仰的范畴…两个完全不同的人，为什么都以基督徒自居？为什么和某些经常做弥撒的天主教徒相比，某些无神论者更能遵守宗教的道德规范？]
 
-We tend to believe what the people around us believe, and we tend to accept as truth what these people tell us of the nature of the world as we listen to them during our formative year.[我们通常很容易接纳周围人的信仰，把口耳相传的东西视为真理]
+- We tend to believe what the people around us believe, and we tend to accept as truth what these people tell us of the nature of the world as we listen to them during our formative year.[我们通常很容易接纳周围人的信仰，把口耳相传的东西视为真理]
 
-To some extent the religion of most adults is a product of transference [移情].Most of us operate from a narrower frame of reference than that of which we are capable, failing to transcend the influence of our particular culture, our particular set of parents and our particular childhood experience upon our understanding. It is no wonder that the world of humanity is so full of conflict. We have a situation in which human being, who must deal with each other, have vastly different views as to the nature of reality, yet each one believes his/her own view to be the correct one since it is based on the microcosm of personal experience. And to make matters worse, most of us are not even fully aware of our own world views, much less the uniqueness of the experience from which they are derived.
+- To some extent the religion of most adults is a product of transference [移情].Most of us operate from a narrower frame of reference than that of which we are capable, failing to transcend the influence of our particular culture, our particular set of parents and our particular childhood experience upon our understanding. It is no wonder that the world of humanity is so full of conflict. We have a situation in which human being, who must deal with each other, have vastly different views as to the nature of reality, yet each one believes his/her own view to be the correct one since it is based on the microcosm of personal experience. And to make matters worse, most of us are not even fully aware of our own world views, much less the uniqueness of the experience from which they are derived.
 [许多成年人的信仰其实是移情的产物。我们毕竟不是超人，无法超越文化，父母和童年经验的影响，只能根据狭窄的人生参照系来待人处事。人们的感受和观点起源于过去的经验，却很少意识到经验并不是放之四海皆准的法则，他们对自己的世界观并没有完整而深入的认识。]
 
-Hui: Here is a short conversation with my best friend:
-Q: What is wrong with the world?
-A: There are people.
+<span color = "blue">Hui: Here is a short conversation with my best friend:  
+Q: What is wrong with the world?  
+A: There are people.</span>  
 
-最有活力，最适合我们的信仰，理应从我们对现实的经验和认识中产生。经由质疑，挑战，检验的信仰，才是属于我们的信仰。…我想要真正地活着，就必须有自己的语言，拥有独一无二的怀疑与挑战的意识。我们有了自己的信仰，才能有成熟的心灵。[To be vital, to be best of which we are capable, our religion must be a wholly personal one, forged entirely through the fire of our questioning and doubting in the crucible of our own experience of reality…So for mental health and spiritual growth we must develop our own personal religion and not rely on that of our parents.]
+- 最有活力，最适合我们的信仰，理应从我们对现实的经验和认识中产生。经由质疑，挑战，检验的信仰，才是属于我们的信仰。…我想要真正地活着，就必须有自己的语言，拥有独一无二的怀疑与挑战的意识。我们有了自己的信仰，才能有成熟的心灵。[To be vital, to be best of which we are capable, our religion must be a wholly personal one, forged entirely through the fire of our questioning and doubting in the crucible of our own experience of reality…So for mental health and spiritual growth we must develop our own personal religion and not rely on that of our parents.]
 
-We see dogmatism and proceeding from dogmatism, we see wars and inquisitions and persecutions. We see hypocrisy behind faith.[过分信仰上帝，容易使我们更加教条。正是从这样的教条主义中，曾产生过无数战争，宗教裁判所乃至各种迫害。在信仰的背后，曾隐藏着无数伪善的嘴脸。]
+- We see dogmatism and proceeding from dogmatism, we see wars and inquisitions and persecutions. We see hypocrisy behind faith.[过分信仰上帝，容易使我们更加教条。正是从这样的教条主义中，曾产生过无数战争，宗教裁判所乃至各种迫害。在信仰的背后，曾隐藏着无数伪善的嘴脸。]
 
-There is clearly a lot of dirty bath water surrounding the reality of God [不夸张地说，在真实的上帝周围，其实流淌着大量肮脏的洗澡水]： Holy wars [残酷的圣战], Inquisitions [宗教审判], Animal sacrifice [动物牺牲], Human sacrifice [活人献祭], Superstition [极度的迷信], Stultification [愚民政策], Dogmatism [教条主义], Ignorance [极端无知], Hypocrisy [伪装虔诚], Self-righteousness [自以为是], Rigidity [顽固不化], Cruelty, Book-buring [焚书坑儒], Witch burning [把女巫处以火刑], Inhibition, Fear, Conformity, Morbid guilt, Insanity [阻碍人类思维进步，制造恐惧，强迫服从，病态的原罪，疯狂的朝拜等等]. The list is almost endless. But is all this what God has done to humans or what humans have done to God? It is abundantly evident that belief in God is often destructively dogmatic. Is the problem, then, that humans tend to believe in God, or is the problem that human tend to be dogmatic? [可谓不可胜数。追根溯源，这一切究竟是上帝有负于人类，还是人类对不起上帝呢？无数宗教信仰都是以毁灭性的教条主义为特征，那么，问题出在我们过于信仰上帝，还是我们天生就容易流于教条主义呢?] Anyone who has known a died-in-the-wool atheist will know that such an individual can be dogmatic about unbelief we need to get rid of, or is it dogmatism? [熟悉顽固无神论者的人都知道，他们从不信仰神灵，以打破神灵崇拜为荣，乃至到了独断专行的程度。他们实际上并不比狂热的宗教信徒好到哪里。那么我们该屏蔽的是信仰本身还是教条主义呢？]
+- There is clearly a lot of dirty bath water surrounding the reality of God [不夸张地说，在真实的上帝周围，其实流淌着大量肮脏的洗澡水]： Holy wars [残酷的圣战], Inquisitions [宗教审判], Animal sacrifice [动物牺牲], Human sacrifice [活人献祭], Superstition [极度的迷信], Stultification [愚民政策], Dogmatism [教条主义], Ignorance [极端无知], Hypocrisy [伪装虔诚], Self-righteousness [自以为是], Rigidity [顽固不化], Cruelty, Book-buring [焚书坑儒], Witch burning [把女巫处以火刑], Inhibition, Fear, Conformity, Morbid guilt, Insanity [阻碍人类思维进步，制造恐惧，强迫服从，病态的原罪，疯狂的朝拜等等]. The list is almost endless. But is all this what God has done to humans or what humans have done to God? It is abundantly evident that belief in God is often destructively dogmatic. Is the problem, then, that humans tend to believe in God, or is the problem that human tend to be dogmatic? [可谓不可胜数。追根溯源，这一切究竟是上帝有负于人类，还是人类对不起上帝呢？无数宗教信仰都是以毁灭性的教条主义为特征，那么，问题出在我们过于信仰上帝，还是我们天生就容易流于教条主义呢?] Anyone who has known a died-in-the-wool atheist will know that such an individual can be dogmatic about unbelief we need to get rid of, or is it dogmatism? [熟悉顽固无神论者的人都知道，他们从不信仰神灵，以打破神灵崇拜为荣，乃至到了独断专行的程度。他们实际上并不比狂热的宗教信徒好到哪里。那么我们该屏蔽的是信仰本身还是教条主义呢？]
 
-Another reason that scientists are so prone to throw the baby out with the bath water is that science itself, as I have suggested, is a religion. [科学家容易把婴儿和洗澡水一道泼掉的原因，还在于科学本身就是一种宗教。] The neophyte scientist, recently come or converted to the world view of science, can be every bit as fanatical ’nætɪkəl as Christian crusader or a soldier of Allah. [刚刚接受科学启蒙的新生科学家，其狂妄和偏执的程度，可能丝毫不逊于基督教的十字军，或者真主安拉的圣战勇士。] This is particularly the case when we have come to science from a culture and home in which belief in God is firmly hypocrisy. The we have emotional as well as intellectual motives to smash the idols of primitive faith. A mark of maturity in scientist, however, is their awareness that science may be as subject to dogmatism as any other religion. [如果他们的家庭或文化背景原本就带有宗教的无知，迷信，顽固与伪善成分，他们的狂妄和偏执就可能更严重。在破除原有的信仰崇拜方面，我们的动机不仅有知性因素，也含有情感成分。科学家成熟的标志之一就是能够意识到，像其他任何宗教一样，科学也可能流于教条主义。]
+- Another reason that scientists are so prone to throw the baby out with the bath water is that science itself, as I have suggested, is a religion. [科学家容易把婴儿和洗澡水一道泼掉的原因，还在于科学本身就是一种宗教。] The neophyte scientist, recently come or converted to the world view of science, can be every bit as fanatical ’nætɪkəl as Christian crusader or a soldier of Allah. [刚刚接受科学启蒙的新生科学家，其狂妄和偏执的程度，可能丝毫不逊于基督教的十字军，或者真主安拉的圣战勇士。] This is particularly the case when we have come to science from a culture and home in which belief in God is firmly hypocrisy. The we have emotional as well as intellectual motives to smash the idols of primitive faith. A mark of maturity in scientist, however, is their awareness that science may be as subject to dogmatism as any other religion. [如果他们的家庭或文化背景原本就带有宗教的无知，迷信，顽固与伪善成分，他们的狂妄和偏执就可能更严重。在破除原有的信仰崇拜方面，我们的动机不仅有知性因素，也含有情感成分。科学家成熟的标志之一就是能够意识到，像其他任何宗教一样，科学也可能流于教条主义。]
 
-I have firmly stated that it is essential to our spiritual growth for us to become scientists who are skeptical of what we have been taught—that is , the common notions and assumptions of our culture idols, and it is necessary that we become skeptical of these as well. [我坚定地认为，对于别人教给我们的一切，包括通常的文化观念以及一切陈规旧习，采取冷静和怀疑的态度，才是心智成熟不可或缺的元素。科学本身很容易成为一种文化偶像，我们亦应该保持怀疑态度。]
+- I have firmly stated that it is essential to our spiritual growth for us to become scientists who are skeptical of what we have been taught—that is , the common notions and assumptions of our culture idols, and it is necessary that we become skeptical of these as well. [我坚定地认为，对于别人教给我们的一切，包括通常的文化观念以及一切陈规旧习，采取冷静和怀疑的态度，才是心智成熟不可或缺的元素。科学本身很容易成为一种文化偶像，我们亦应该保持怀疑态度。]
 
-A third way in which the unconscious manifests itself and speaks to us if we care to listen is through our behavior. I am referring to slips of the tongue and other “mistakes” in behavior or “freudian slips”, which Freud, in his “Psychopathology of everyday life”, initially demonstrated to be manifestations of the unconscious [虽然常常对潜意识不予理会，但它仍时刻渴望与我们对话。我们的言行足以暴露一切。我们经常说错话，也就是弗洛伊德所说的“说漏嘴”。我们在个人行为上所犯的可笑“错误”也会揭示出潜意识与我们沟通的渴望]……Not all slips express hostility or denied “negative” feelings. They express all denied feelings, negative or positive. They express the truth, the way things really are as opposed to the way we like to think they are.[人们不经意间说出某些奇怪的话，做出异于平常的举动，原因各种各样，但往往是受到压抑的东西的一种自然流露，其中既包括消极的东西，也包括积极的东西。它们是客观而真实的，尽管我们可能不想公之于众。] The fact of the matter is that our unconscious is wiser than we are about everything.
+- A third way in which the unconscious manifests itself and speaks to us if we care to listen is through our behavior. I am referring to slips of the tongue and other “mistakes” in behavior or “freudian slips”, which Freud, in his “Psychopathology of everyday life”, initially demonstrated to be manifestations of the unconscious [虽然常常对潜意识不予理会，但它仍时刻渴望与我们对话。我们的言行足以暴露一切。我们经常说错话，也就是弗洛伊德所说的“说漏嘴”。我们在个人行为上所犯的可笑“错误”也会揭示出潜意识与我们沟通的渴望]……Not all slips express hostility or denied “negative” feelings. They express all denied feelings, negative or positive. They express the truth, the way things really are as opposed to the way we like to think they are.[人们不经意间说出某些奇怪的话，做出异于平常的举动，原因各种各样，但往往是受到压抑的东西的一种自然流露，其中既包括消极的东西，也包括积极的东西。它们是客观而真实的，尽管我们可能不想公之于众。] The fact of the matter is that our unconscious is wiser than we are about everything.
 
-Jung’s theory of the collective unconscious suggests that our wisdom is inherited. Recent scientific experiments with genetic material in conjunction with the phenomenon of memory suggest that it is indeed possible to inherit knowledge, which is stored in the form of nucleic acid codes within cells. [荣格的“集体无意识”理论暗示出，我们的智慧来自于对全人类智慧的继承。最近的科学实验把遗传物质痛记忆现象结合起来进行研究，结论证明我们的基因很可能继承了某些知识，并在细胞里以核酸遗传密码的形式储存。]
+- Jung’s theory of the collective unconscious suggests that our wisdom is inherited. Recent scientific experiments with genetic material in conjunction with the phenomenon of memory suggest that it is indeed possible to inherit knowledge, which is stored in the form of nucleic acid codes within cells. [荣格的“集体无意识”理论暗示出，我们的智慧来自于对全人类智慧的继承。最近的科学实验把遗传物质痛记忆现象结合起来进行研究，结论证明我们的基因很可能继承了某些知识，并在细胞里以核酸遗传密码的形式储存。]
 
-Decline of physical competence in old age is an inevitability. Within an individual lifetime, however, the human spirit may evolve dramatically…One of the basic natural laws is the second law of thermodynamics, which states that every naturally flows from a state of greater organization to a state of lesser organization, from a state of higher differentiation to a state of lower differentiation. In other words, the universe is in a process of winding down…Some other energy system has to be depleted if this one is to be maintained. Ultimately, according to the second law of thermodynamics, in billions and billions of years, the universe will completely wind down until it reaches the lowest point as as amorphous, totally disorganized, totally undifferentiated “blob” in which nothing happens any more. This state of total disorganization and undifferentiation is termed entropy. [随着年龄的增长，肉体的衰老是不可避免的结果，但在人的一生中，心灵却可以不断进化，乃至发生根本性的改变……按照热力学第二定律，能量会自然地从有序状态流向混乱状态，从分化状态流向均一状态。换句话说，宇宙的秩序处于持续不断的崩解之中…为维持某处的秩序保持不变，必须以其他地方的秩序崩解为代价。这样下去，经过数十亿年，整个宇宙会完全分解，其秩序降至最低点，成为没有任何形状和结构，不再发生分化的死寂状态，我们称之为“熵”。]
+- Decline of physical competence in old age is an inevitability. Within an individual lifetime, however, the human spirit may evolve dramatically…One of the basic natural laws is the second law of thermodynamics, which states that every naturally flows from a state of greater organization to a state of lesser organization, from a state of higher differentiation to a state of lower differentiation. In other words, the universe is in a process of winding down…Some other energy system has to be depleted if this one is to be maintained. Ultimately, according to the second law of thermodynamics, in billions and billions of years, the universe will completely wind down until it reaches the lowest point as as amorphous, totally disorganized, totally undifferentiated “blob” in which nothing happens any more. This state of total disorganization and undifferentiation is termed entropy. [随着年龄的增长，肉体的衰老是不可避免的结果，但在人的一生中，心灵却可以不断进化，乃至发生根本性的改变……按照热力学第二定律，能量会自然地从有序状态流向混乱状态，从分化状态流向均一状态。换句话说，宇宙的秩序处于持续不断的崩解之中…为维持某处的秩序保持不变，必须以其他地方的秩序崩解为代价。这样下去，经过数十亿年，整个宇宙会完全分解，其秩序降至最低点，成为没有任何形状和结构，不再发生分化的死寂状态，我们称之为“熵”。]
 
-The process of spiritual growth is an effortful and difficult one. This is because it is conducted against a natural resistance, against a natural inclination to keep things the way they were, to cling to the old maps and old ways of doing things, to take the easy path……But as in the case of physical evolution, the miracle is that this resistance is overcome. We do grow. [心灵的成长，心智的成熟需要不断努力，而且必然是艰苦的过程。它必须与自然法则对抗，必须跟循规蹈矩的自然倾向背道而驰…我们习惯于走平坦的道路，害怕道路熵荆棘遍布。在反抗自然法则的过程中，心灵需要同熵的力量对抗，就如同生物进化一样，我们的心灵克服了熵的力量，才一直成长到今天。]
+- The process of spiritual growth is an effortful and difficult one. This is because it is conducted against a natural resistance, against a natural inclination to keep things the way they were, to cling to the old maps and old ways of doing things, to take the easy path……But as in the case of physical evolution, the miracle is that this resistance is overcome. We do grow. [心灵的成长，心智的成熟需要不断努力，而且必然是艰苦的过程。它必须与自然法则对抗，必须跟循规蹈矩的自然倾向背道而驰…我们习惯于走平坦的道路，害怕道路熵荆棘遍布。在反抗自然法则的过程中，心灵需要同熵的力量对抗，就如同生物进化一样，我们的心灵克服了熵的力量，才一直成长到今天。]
 
-But what is this force that pushed us as individuals and as a whole species to grow against the natural resistance of our own lethargy? We have already labeled it. It is love. Love was defined as “the will to extend one’s self for the purpose of nurturing one’s own or another’s spiritual growth”. When we grow, it is because we are working at it, and we are working at it because we love ourselves. It is through love that we elevate ourselves. And it is through our love for others that we assist others to elevate themselves. Love, the extension of the self, is the very act of evolution. It is evolution in progress. The exclusionary force, present in all of life, manifest itself in mankind as human love. Among humanity love is the miraculous force that defies the natural law of entropy. [归根结底，推动个人乃至整个物种克服懒惰和其它自然阻力的力量究竟是什么？其实我们已经给它取了名字，那就是“爱”。我们之所以能够成长，在于持续的努力，我们之所以能够付出努力，是因为懂得自尊自爱。对自己的爱是我们愿意遵循规矩去生活，对别人的爱让我们帮助他们去自我完善。自我完善的爱是一种典型的进化行为，具有生生不息的特征。在生物世界中存在着永久儿普遍的进化力量，体现在人类身上，就是具有人性的爱。它违反熵增的自然规律，是一种永远走向进步的神奇力量。]
+- But what is this force that pushed us as individuals and as a whole species to grow against the natural resistance of our own lethargy? We have already labeled it. It is love. Love was defined as “the will to extend one’s self for the purpose of nurturing one’s own or another’s spiritual growth”. When we grow, it is because we are working at it, and we are working at it because we love ourselves. It is through love that we elevate ourselves. And it is through our love for others that we assist others to elevate themselves. Love, the extension of the self, is the very act of evolution. It is evolution in progress. The exclusionary force, present in all of life, manifest itself in mankind as human love. Among humanity love is the miraculous force that defies the natural law of entropy. [归根结底，推动个人乃至整个物种克服懒惰和其它自然阻力的力量究竟是什么？其实我们已经给它取了名字，那就是“爱”。我们之所以能够成长，在于持续的努力，我们之所以能够付出努力，是因为懂得自尊自爱。对自己的爱是我们愿意遵循规矩去生活，对别人的爱让我们帮助他们去自我完善。自我完善的爱是一种典型的进化行为，具有生生不息的特征。在生物世界中存在着永久儿普遍的进化力量，体现在人类身上，就是具有人性的爱。它违反熵增的自然规律，是一种永远走向进步的神奇力量。]
 
-We are stuck with this childlike notion of a loving God or else with a theoretical vacuum.
+- We are stuck with this childlike notion of a loving God or else with a theoretical vacuum.
 
-Our failure to conduct — or to conduct fully and whole heartedly —this internal debate between good and evil is the cause of those evil actions that constitute sin … It is work to hold these internal debates. They require time and energy just to conduct them…For laziness takes forms other than that related to the bare number of hours spent on the job or devoted to one’s responsibilities to others. A major form that laziness takes is fear … Each of us represents the whole human race; within each of us is the instinct for godhood and the hope for mankind, and within each of us is the original sin of laziness. [我们回避内心的善恶辩论，就产生了许多构成原罪的邪恶行为。…完成心灵的辩论需要努力，需要时间，需要坚强的意志。…懒惰与你花多少时间工作，如何对待别人尽职尽责没有多少关系。懒惰的一个主要特征就是恐惧感。… 在每一个人的身体中都拥有向往神性的本能，都有达到完美境界的欲望，同时也都有懒惰的原罪。]
+- Our failure to conduct — or to conduct fully and whole heartedly —this internal debate between good and evil is the cause of those evil actions that constitute sin … It is work to hold these internal debates. They require time and energy just to conduct them…For laziness takes forms other than that related to the bare number of hours spent on the job or devoted to one’s responsibilities to others. A major form that laziness takes is fear … Each of us represents the whole human race; within each of us is the instinct for godhood and the hope for mankind, and within each of us is the original sin of laziness. [我们回避内心的善恶辩论，就产生了许多构成原罪的邪恶行为。…完成心灵的辩论需要努力，需要时间，需要坚强的意志。…懒惰与你花多少时间工作，如何对待别人尽职尽责没有多少关系。懒惰的一个主要特征就是恐惧感。… 在每一个人的身体中都拥有向往神性的本能，都有达到完美境界的欲望，同时也都有懒惰的原罪。]
 
-Hui: 不仅仅是行为上的懒惰，更是思想上的懒惰。如La Rochefoucauld在Maxims中说的：“We have more idleness in the mind than in the body.” 我们觉得累了，不想进行善恶的争辩，于是就听之任之。
+<span color = "blue">Hui: 不仅仅是行为上的懒惰，更是思想上的懒惰。如La Rochefoucauld在Maxims中说的：“We have more idleness in the mind than in the body.” 我们觉得累了，不想进行善恶的争辩，于是就听之任之。</span>
 
-First, I have come to conclude that evil is real. It is not the figment of the imagination of a primitive religious mind feebly attempting to explain the unknown…My second conclusion then is that evil is laziness carried to its ultimate, extraordinary extreme…I define evil, then, as the exercise of political power—that is, the position of one’s will upon others by overt or covert coercion—in order to avoid extending one’s self for the purpose of nurturing spiritual growth…My third conclusion is that the existence of evil is inevitable, at least at this stage in human evolution…Last, I have come to conclude that while entropy is an enormous force, in its most extreme force of human evil. It is strangely ineffective as a social force. [首先，我相信邪恶是真实存在的，它并非原始宗教为解释某些不可知现象而凭空捏造的一种概念。…第二，所谓邪恶就是为所欲为，横行霸道式的懒惰。…关于“邪恶”，我们可以给出这样的定义：邪恶式运用一切影响力阻止他人心智成熟与自我完善的行为。…第三，至少到目前人类进化的这一阶段，邪恶式不可避免的。…最后，熵是一种强大的力量，是人性极恶的体现。]
+- First, I have come to conclude that evil is real. It is not the figment of the imagination of a primitive religious mind feebly attempting to explain the unknown…My second conclusion then is that evil is laziness carried to its ultimate, extraordinary extreme…I define evil, then, as the exercise of political power—that is, the position of one’s will upon others by overt or covert coercion—in order to avoid extending one’s self for the purpose of nurturing spiritual growth…My third conclusion is that the existence of evil is inevitable, at least at this stage in human evolution…Last, I have come to conclude that while entropy is an enormous force, in its most extreme force of human evil. It is strangely ineffective as a social force. [首先，我相信邪恶是真实存在的，它并非原始宗教为解释某些不可知现象而凭空捏造的一种概念。…第二，所谓邪恶就是为所欲为，横行霸道式的懒惰。…关于“邪恶”，我们可以给出这样的定义：邪恶式运用一切影响力阻止他人心智成熟与自我完善的行为。…第三，至少到目前人类进化的这一阶段，邪恶式不可避免的。…最后，熵是一种强大的力量，是人性极恶的体现。]
 
-There is another problem with power: aloneness
+- There is another problem with power: aloneness
 
-Through bracketing and the attention of love we grow more aware of our beloved and of the world …The word “conscious” is derived from the Latin prefix “con” means “to know with”. But how are we to understand this “with”? To know with what? We have spoken of the fact that the unconscious part of our mind is the possessor of extraordinary knowledge. It knows more than we know, “we” being defined as our conscious self. And when we become aware of a new truth, it is because we recognize it to be true; we re-know that which we knew all along. Therefore, might we not conclude that to become conscious is to know with unconscious? The development of consciousness is the development of awareness in our conscious mind of knowledge along with our unconscious mind, which already possess that knowledge. It is a process of the conscious mind coming into synchrony with the unconscious …To put it plainly, our unconscious is God, God within us. We were part of God all the time. God has been with us all along, is now and always will be…I have said that the ultimate goal of spiritual growth is for the individual to become as one with God.[要使心智成熟，必须认清自己的偏见和局限。我们经由爱、包容和关怀，可以渐渐了解自己，了解所爱的人和整个世界。…“意识”这个词来源于拉丁文，本意是“共同认识与了解”。那么意识的对立面是什么呢？我认为就是潜意识，潜意识知道的事情永远比意识多得多。我们获得一项真理，得到一种启示，不过是重新认识潜意识里原本存在的事情。获得新的真理和启示，其实是意识和潜意识同步。…我们的潜意识就是上帝，我们内心的上帝。我们是上帝的一部分，上帝一直与我们同在，无论现在还是未来。…心智成熟的终极目标是天人合一。]
+- Through bracketing and the attention of love we grow more aware of our beloved and of the world ...The word “conscious” is derived from the Latin prefix “con” means “to know with”. But how are we to understand this “with”? To know with what? We have spoken of the fact that the unconscious part of our mind is the possessor of extraordinary knowledge. It knows more than we know, “we” being defined as our conscious self. And when we become aware of a new truth, it is because we recognize it to be true; we re-know that which we knew all along. Therefore, might we not conclude that to become conscious is to know with unconscious? The development of consciousness is the development of awareness in our conscious mind of knowledge along with our unconscious mind, which already possess that knowledge. It is a process of the conscious mind coming into synchrony with the unconscious …To put it plainly, our unconscious is God, God within us. We were part of God all the time. God has been with us all along, is now and always will be…I have said that the ultimate goal of spiritual growth is for the individual to become as one with God.[要使心智成熟，必须认清自己的偏见和局限。我们经由爱、包容和关怀，可以渐渐了解自己，了解所爱的人和整个世界。…“意识”这个词来源于拉丁文，本意是“共同认识与了解”。那么意识的对立面是什么呢？我认为就是潜意识，潜意识知道的事情永远比意识多得多。我们获得一项真理，得到一种启示，不过是重新认识潜意识里原本存在的事情。获得新的真理和启示，其实是意识和潜意识同步。…我们的潜意识就是上帝，我们内心的上帝。我们是上帝的一部分，上帝一直与我们同在，无论现在还是未来。…心智成熟的终极目标是天人合一。]
 
-3.18 People of the lie [M Scott Peck]
+## People of the lie 
 
-3.18.1 Introduction: Handle with care
+### Introduction: Handle with care
 
-Remember Saint Augustine’s advice to hate the sin but love the sinner. [憎恨罪恶，但要爱有罪的人]
-Great evil has been committed throughout the centuries–and is still committed–by nominal Christians, often in the name of Christ.
-There are hundreds of thousands who go to Christian churches every Sunday who are not the least bit willing to be displeasing to themselves, serenely or otherwise, and who are not, therefore, for Jesus a pleasant place of shelter. Conversely, there are millions of Hindus, Buddhists, Muslims, Jews, atheists and agnostics who are willing to bear that trial.
-3.18.2 The man who made a pact with the devil
+- Remember Saint Augustine’s advice to hate the sin but love the sinner. [憎恨罪恶，但要爱有罪的人]
 
-obsessive-compulsive neurosis （强迫妄想型精神官能症）:have their origins in early childhood; have propensity for what psychiatrists call “magical thinking”. Magical thinking can take a variety of forms, but basically it is a belief that thoughts in and of themselves may cause events to occur. Young children normally think magically. Ordinarily we grow out of this tendency to think magically and by adolescence are quite certain that we do not have the power to control external events by our thoughts alone. Frequently children who have been unduly traumatized one way or another do not grow out of their magical-thinking stage. This is particularly true of people with an obsessive-compulsive neurosis.
-In the late 17th century, Religion agreed that the “natural world” was the the sole province of the scientists. And science agreed, in turn, to keep its nose out of the spiritual-or for that matter, anything to do with values. Indeed, science defined itself as “value-free”.
+- Great evil has been committed throughout the centuries–and is still committed–by nominal Christians, often in the name of Christ.
+
+- There are hundreds of thousands who go to Christian churches every Sunday who are not the least bit willing to be displeasing to themselves, serenely or otherwise, and who are not, therefore, for Jesus a pleasant place of shelter. Conversely, there are millions of Hindus, Buddhists, Muslims, Jews, atheists and agnostics who are willing to bear that trial.
+
+### The man who made a pact with the devil
+
+- obsessive-compulsive neurosis （强迫妄想型精神官能症）:have their origins in early childhood; have propensity for what psychiatrists call “magical thinking”. Magical thinking can take a variety of forms, but basically it is a belief that thoughts in and of themselves may cause events to occur. Young children normally think magically. Ordinarily we grow out of this tendency to think magically and by adolescence are quite certain that we do not have the power to control external events by our thoughts alone. Frequently children who have been unduly traumatized one way or another do not grow out of their magical-thinking stage. This is particularly true of people with an obsessive-compulsive neurosis.
+
+- In the late 17th century, Religion agreed that the “natural world” was the the sole province of the scientists. And science agreed, in turn, to keep its nose out of the spiritual-or for that matter, anything to do with values. Indeed, science defined itself as “value-free”.
 the pattern of unwanted thoughts and the taking of undesired actions
-3.18.3 Toward A Psychology of Evil
 
-In the late 17th century, religion agreed that the “natural world” was the sole province of the scientists. And science agreed, in turn, to keep its nose out of the spiritual—or for that matter, anything to do with values. Indeed, science defined itself as “value-free”.
+### Toward A Psychology of Evil
+
+- In the late 17th century, religion agreed that the “natural world” was the sole province of the scientists. And science agreed, in turn, to keep its nose out of the spiritual—or for that matter, anything to do with values. Indeed, science defined itself as “value-free”.
 Science has also steered clear of the problem of evil because of the immensity of the mystery involved … Theirs is a “left brain”, analytical style. Their standard procedure is to bite off tiny little pieces at a time and then to examine such pieces in relative isolation. They prefer little mysteries to big ones.
 
-While some seek in religion an escape from mystery, for others religion is a way to approach mystery. The latter are not loath to employ the reductionistic（还原论，简化论） methods of science, but they are also not reluctant to use more integrative “right brain” means of exploration: meditation, intuition, feeling, faith, and revelation. For them bigger the mystery, the better.
-The problem of evil can hardly be separated from the problem of goodness. Were there no goodness in the world, we would not even be considering the problem of evil.
-It is as if we automatically assume this is a naturally good world that has somehow been contaminated by evil……If we seriously think about it, it probably makes more sense to assume this is a naturally evil world that has somehow been mysteriously “contaminated” by goodness, rather than the other way around. The mystery of goodness is even greater than the mystery of evil.
-Thus we may “break” a horse or even a child without harming a hair on its head. Erich Fromm was acutely sensitive to this fact when he broadened the definition of necrophilia （恋尸癖）to include the desire of certain people to control others—–to make them controllable, to foster their dependency, to discourage their capacity to think for themselves, to diminish their unpredictability and originality, to keep them in line. Distinguishing it from a “biophilic” person（具有生物自卫本能的人）, one who appreciates and fosters the variety of life forms and the uniqueness of the individual, he demonstrated a “necrophilic character type” whose aim is to avoid the inconvenience of life by transforming others into obedient automatons（机械般行动的人或动物）, robbing them of their humanity…..Evil is that force, residing either inside or outside of human beings, that seeks to kill life or liveliness. Goodness is that which promotes life and liveliness.（弗洛姆广义的界定“恋尸癖”时，增列了某些人对他人的控制欲：使他人受控制，增强依赖度，削弱其主动性，接受管束。弗洛姆将“恋尸癖性格的人”和“具有生物自卫本能的人”加以区分：前者将他人改变为顺从的机器人，剥夺他们的人性，借以回避人生的艰难；而后者则承认并鼓励生命的多样变化，以及“人”独有的特性。）
-A psychology of evil must be a religious psychology……it must not only embrace valid insights from all religious traditions but must also recognize the reality of the “supernatural”.
-Having fled the Jewish persecution of the Hitler regime, the psychoanalyst Erich Fromm spent much of the rest of his life studying the evil of Naziism. He （原书中讲他是第一个也是唯一一个确定邪恶人格类型的科学家，此书写与1983年，这个说法已经不正确了）…….to identify an evil personality type, to attempt to examine evil people in depth, and to suggest that they be studied still further.
-The great Jewish theologian Martin Buber distinguished between two types of myths about evil. One type conerns people in the process of “sliding” into evil. The other concerns those who have already slid, “fallen victim” to and been taken over by “radical” evil.
+- While some seek in religion an escape from mystery, for others religion is a way to approach mystery. The latter are not loath to employ the reductionistic（还原论，简化论） methods of science, but they are also not reluctant to use more integrative “right brain” means of exploration: meditation, intuition, feeling, faith, and revelation. For them bigger the mystery, the better.
 
-The case of Bobby and his parents
-To children–even adolescents–their parents are like Gods. The way their parents do things seems the way they should be done. Children are seldom able to objectively compare their parents to other parents. They are not able to make realistic assessments of their parents’ behavior. Treated badly by its parents, a child will usually assume that it is bad. If treated as an ugly, stupid second-class citizen, it will grow up with an image of itself as ugly, stupid and second-class. Raised without love, children come to believe themselves unlovable. We may express this as a general law of child development: Whenever there is a major deficit in parental love, the child will, in all likelihood, respond to that deficit by assuming itself to be the cause of the deficit, thereby developing an unrealistically negative self-image.
-People have feelings about each other. When psychotherapists have feelings about their patients, they label those feelings “countertransference”. Countertransference can run the whole gamut of human emotions from the most intense love to the most intense hatred.
+- The problem of evil can hardly be separated from the problem of goodness. Were there no goodness in the world, we would not even be considering the problem of evil.
+It is as if we automatically assume this is a naturally good world that has somehow been contaminated by evil……If we seriously think about it, it probably makes more sense to assume this is a naturally evil world that has somehow been mysteriously “contaminated” by goodness, rather than the other way around. The mystery of goodness is even greater than the mystery of evil.
+
+- Thus we may “break” a horse or even a child without harming a hair on its head. Erich Fromm was acutely sensitive to this fact when he broadened the definition of necrophilia （恋尸癖）to include the desire of certain people to control others—–to make them controllable, to foster their dependency, to discourage their capacity to think for themselves, to diminish their unpredictability and originality, to keep them in line. Distinguishing it from a “biophilic” person（具有生物自卫本能的人）, one who appreciates and fosters the variety of life forms and the uniqueness of the individual, he demonstrated a “necrophilic character type” whose aim is to avoid the inconvenience of life by transforming others into obedient automatons（机械般行动的人或动物）, robbing them of their humanity…..Evil is that force, residing either inside or outside of human beings, that seeks to kill life or liveliness. Goodness is that which promotes life and liveliness.（弗洛姆广义的界定“恋尸癖”时，增列了某些人对他人的控制欲：使他人受控制，增强依赖度，削弱其主动性，接受管束。弗洛姆将“恋尸癖性格的人”和“具有生物自卫本能的人”加以区分：前者将他人改变为顺从的机器人，剥夺他们的人性，借以回避人生的艰难；而后者则承认并鼓励生命的多样变化，以及“人”独有的特性。）
+
+- A psychology of evil must be a religious psychology……it must not only embrace valid insights from all religious traditions but must also recognize the reality of the “supernatural”.
+Having fled the Jewish persecution of the Hitler regime, the psychoanalyst Erich Fromm spent much of the rest of his life studying the evil of Naziism. He （原书中讲他是第一个也是唯一一个确定邪恶人格类型的科学家，此书写与1983年，这个说法已经不正确了）…….to identify an evil personality type, to attempt to examine evil people in depth, and to suggest that they be studied still further.
+
+- The great Jewish theologian Martin Buber distinguished between two types of myths about evil. One type conerns people in the process of “sliding” into evil. The other concerns those who have already slid, “fallen victim” to and been taken over by “radical” evil.
+
+### The case of Bobby and his parents
+
+- To children–even adolescents–their parents are like Gods. The way their parents do things seems the way they should be done. Children are seldom able to objectively compare their parents to other parents. They are not able to make realistic assessments of their parents’ behavior. Treated badly by its parents, a child will usually assume that it is bad. If treated as an ugly, stupid second-class citizen, it will grow up with an image of itself as ugly, stupid and second-class. Raised without love, children come to believe themselves unlovable. We may express this as a general law of child development: Whenever there is a major deficit in parental love, the child will, in all likelihood, respond to that deficit by assuming itself to be the cause of the deficit, thereby developing an unrealistically negative self-image.
+
+- People have feelings about each other. When psychotherapists have feelings about their patients, they label those feelings “countertransference”. Countertransference can run the whole gamut of human emotions from the most intense love to the most intense hatred.
 Reactions evil frequently engender: 1. revulsion 2. confusion
 But what would make revulsion a healthy response? Why might it be an appropriate countertransference for an emotionally healthy therapist? Revulsion is a powerful emotion that causes us to immediately want to avoid, to escape, the revolting presence.
 It is necessary that we first draw the distinction between evil and ordinary sin. It is not their sins per se that characterize evil people, rather it is the subtlety and persistence and consistency of their sins. This is because the central defect of the evil is not the sin but the refusal to acknowledge it.
