@@ -657,9 +657,9 @@ Operation Barbarrossa, Hitler expected a rapid triumph in the fight against the 
 
 ## Bad Arguments — Logical Fallacies
 
-<span color = "blue">Hui: 这本短小的书对常见的逻辑谬误（Art of Thinking Clearly）进行了清晰直观的解释，比如straw man fallacy，the slippery slope argument，ad hominem attack等。
+<font color = "blue">Hui: 这本短小的书对常见的逻辑谬误（Art of Thinking Clearly）进行了清晰直观的解释，比如straw man fallacy，the slippery slope argument，ad hominem attack等。
 
-可爱之处在与书中对每个逻辑谬误都配备了一个动物漫画，画中的动物在犯各种各样的逻辑错误。这本书不仅适合大人，也可以用来教小孩（小孩自己读可能有点难）。比如，其中有只兔子认为天空中奇异的光盘一定是UFO，因为没有人能够证明那不是UFO，这就犯了appeal to ignorance的逻辑错误。这有助于你分析从国会辩论到YouTube评论等等论证。</span>
+可爱之处在与书中对每个逻辑谬误都配备了一个动物漫画，画中的动物在犯各种各样的逻辑错误。这本书不仅适合大人，也可以用来教小孩（小孩自己读可能有点难）。比如，其中有只兔子认为天空中奇异的光盘一定是UFO，因为没有人能够证明那不是UFO，这就犯了appeal to ignorance的逻辑错误。这有助于你分析从国会辩论到YouTube评论等等论证。</font>
 
 - Argument from Consequences: speaking for or against the truth of a statement by appealing to the consequences it would have if true (or false)
 
@@ -781,7 +781,7 @@ Mark Twain: 英国一些阔绰的绅士夏季每天驾着四套马车沿大路�
 日托所罚金案例： 一旦社会规范与市场规范发生碰撞,社会规范就会退出。换言之,社会规范很难重建。一旦这朵盛开的玫瑰从枝头落下——一旦社会规范被市 场规范打败——它很难发挥任何效力。
 强调雇佣关系中社会性的一面所能营造出的亲善氛围。社会规范(例如共同创业的兴奋)强于市场规范(例如薪金随晋升而增加)时,员工能为公司(特 别是那些刚起步的公司)创造的价值的确令人瞩目。如果企业开始从社会规范角度思考,实际上,它们会认识到社会规范可以建立忠诚,更重要的是,它使人们自我发展,达到如今企业的要求:实行弹性工作制,关心公司,并且积 极参与公司事务。这正是社会性关系带来的。……多一些社会规范,少一些市场规范,我们的生活会变得更惬意,更有创造力,更充实,而且更有乐趣。
 
-<span color = "blue"> Hui: 这和《经济学通识》中提倡的让市场决定一切的观点相反。</span>
+<font color = "blue"> Hui: 这和《经济学通识》中提倡的让市场决定一切的观点相反。</font>
 
 ### Procrastination and Self-control
 
@@ -795,7 +795,7 @@ Result: Plan3 > Plan1 > Plan2
 
 ### The Price of Proprietorship
 
-<span color = "blue">Hui: 这就是之间《清醒思考的艺术》中讲的禀赋效应：我们对自己拥有的东西估值更高</span>
+<font color = "blue">Hui: 这就是之间《清醒思考的艺术》中讲的禀赋效应：我们对自己拥有的东西估值更高</font>
 
 为什么多种选择使我们迷失主要目标？
 例子：项羽破釜沉舟，饿死在草堆间的驴
@@ -835,7 +835,7 @@ Result: Plan3 > Plan1 > Plan2
 尽管非理性司空见惯,但并不是说我们都不可救药了。一旦我们明 白了自己的错误决定会发生在什么时间,起源自什么地方,就可以提高警惕,强制自己从不 同角度、用不同方式重新考虑这些决定,或者用科技手段来克服与生俱来的缺点。企业决策 者们也可以在这些方面改变他们的思维方式,考虑怎样制定政策,设计产品,创造免费午餐。
 2.7 The paradox of choice [选择的悖论, Barry Schwartz]
 
-<span color="blue">Hui:作者Barry Schwartz主要讨论的悖论是：更多的选择和自由并不能带来更大的幸福。那些总是想要做出最优选择的人可能拥有更大的世俗眼中的成功，但那些满足于“足够好”的选择的人更快乐。其中涉及到人们做出选择时受到的锚定效应，框架效应，易得性偏差等的影响。在身份的焦虑中，阿兰.德波顿也有提到更多的自由其实也是产生焦虑的原因之一。</span>
+<font color="blue">Hui:作者Barry Schwartz主要讨论的悖论是：更多的选择和自由并不能带来更大的幸福。那些总是想要做出最优选择的人可能拥有更大的世俗眼中的成功，但那些满足于“足够好”的选择的人更快乐。其中涉及到人们做出选择时受到的锚定效应，框架效应，易得性偏差等的影响。在身份的焦虑中，阿兰.德波顿也有提到更多的自由其实也是产生焦虑的原因之一。</font>
 
 ### 自由的重担
 
@@ -956,7 +956,7 @@ The inability to predict outliers implies the inability to predict the course of
 
 I disagree with the followers of Marx and Adam Smith: the reason free markets work is because they allow people to be lucky, thanks to aggressive trial and error, not by giving rewards or “incentives” for skill.
 
-<span color = "blue">Hui: what doesn’t allow people to be lucky?</span>
+<font color = "blue">Hui: what doesn’t allow people to be lucky?</font>
 
 We do not spontaneously learn that we don’t learn what we don’t learn.
 Hui: Similar as “we don’t know that we don’t know”.
@@ -965,7 +965,7 @@ We humans are not just a superficial race (this may be curable to some extent); 
 
 Platonicity is what makes us think that we understand more than we actually do.
 
-<span color = "blue">Hui: what you know << what you think you know (I agree). Even I so clearly know that I AM STUPID, still what I know << what I think I know……I wish I could learn more. The feeling of ignorance bothered me so much but now I consider it as my life-time friend. Because I don’t see any hope I can not being ignorant, I think it is a better idea just be friend with it. My goal now change to be less ignorant today than yesterday.<span>
+<font color = "blue">Hui: what you know << what you think you know (I agree). Even I so clearly know that I AM STUPID, still what I know << what I think I know……I wish I could learn more. The feeling of ignorance bothered me so much but now I consider it as my life-time friend. Because I don’t see any hope I can not being ignorant, I think it is a better idea just be friend with it. My goal now change to be less ignorant today than yesterday.<font>
 
 Part One: How we seek validation
 
@@ -989,40 +989,40 @@ apprenticeship /ə’prɛntɪʃɪp /
 The human mind suffers from 3 ailments as it comes into contact with history (triplet of opacity):
 the illusion of understanding, or how everyone thinks he knows what is going on in a world that is more complicated (or random) than they realize [了解世界的幻觉]
 
-<span color = "blue">Hui: 我们以为我们生活的世界比它实际上更加可理解，可解释，可预测。</span>
+<font color = "blue">Hui: 我们以为我们生活的世界比它实际上更加可理解，可解释，可预测。</font>
 
 the retrospective distortion, or how we can assess matters only after the fact, as if they were in a rearview mirror (history seems clearer and more organized in history books than in empirical reality) [马后炮偏差]
 
-<span color = "blue">Hui: 我们太容易马后炮了。很多发生过的事情尽管当时感觉很疯狂，但是回过头看就没有那么疯狂。我们总能够将历史事件通过某种因果关系串联起来。作者认为这种事后合理性在表面上降低了事件的稀有性，并使事件看上去具有可理解性。之后作者提出：“历史不会爬行，只会跳跃[History does not crawl, it jumps]”。 作者认为我们的头脑是超强解释机器，介乎可以从任何事物中分析出道理，还不愿意接受不可预测的事实。“Our minds are wonderful explanation machines, capable of making sense out of almost anything, capable of mounting explanations for all manner of phenomena, and generally incapable of accepting the idea of unpredictability”</span>
+<font color = "blue">Hui: 我们太容易马后炮了。很多发生过的事情尽管当时感觉很疯狂，但是回过头看就没有那么疯狂。我们总能够将历史事件通过某种因果关系串联起来。作者认为这种事后合理性在表面上降低了事件的稀有性，并使事件看上去具有可理解性。之后作者提出：“历史不会爬行，只会跳跃[History does not crawl, it jumps]”。 作者认为我们的头脑是超强解释机器，介乎可以从任何事物中分析出道理，还不愿意接受不可预测的事实。“Our minds are wonderful explanation machines, capable of making sense out of almost anything, capable of mounting explanations for all manner of phenomena, and generally incapable of accepting the idea of unpredictability”</font>
 
 the overvaluation of factual information and the handicap of authoritative and learned people, particularly when they create categories—when they “Platonify” [高估事实实际信息的价值]
 
-<span color = "blue">Hui: The retrospective distortion reminds me a quote from Mark Twain: “Get your facts first, then you can distort them as you please.” : )</span>
+<font color = "blue">Hui: The retrospective distortion reminds me a quote from Mark Twain: “Get your facts first, then you can distort them as you please.” : )</font>
 
-<span color = "blue">Hui: 我们倾向于简化事物，难以避免叙述谬误，这点我同意。但这无法改变？这是一个物种的局限。因为我们的脑子能够处理的信息非常有限。假设我们接受这种现状，那么下一个问题就是，该怎么办？我目前的答案是：首先需要认识到这一点。不可避免无知是一回事，对自己无知的无知是另外一回事。我们需要意识到很多事情我们不知道，这听起来好像没有任何新意，谁不知道世界很大未知很多，知道是一回事，理解是另外一回事。很多概念看上去相似，实际上有本质的区别，这些区别的影响很大，但却难以察觉，理解它们需要时间，努力和勇气。认识到这一点之后，我们需要最大限度的探明有哪些事情是我们不知道，哪些我们无法估计，哪些我们无法控制，这样我们对自己的叙述在多大程度上简化了真相会有更好的了解，虽然我们永远无法完美估计自己的无知，但我们可以不断的加深自己的认识。这会帮助我们避免很多因为过于天真的认为简化版的故事就是事实而导致的灾难。
+<font color = "blue">Hui: 我们倾向于简化事物，难以避免叙述谬误，这点我同意。但这无法改变？这是一个物种的局限。因为我们的脑子能够处理的信息非常有限。假设我们接受这种现状，那么下一个问题就是，该怎么办？我目前的答案是：首先需要认识到这一点。不可避免无知是一回事，对自己无知的无知是另外一回事。我们需要意识到很多事情我们不知道，这听起来好像没有任何新意，谁不知道世界很大未知很多，知道是一回事，理解是另外一回事。很多概念看上去相似，实际上有本质的区别，这些区别的影响很大，但却难以察觉，理解它们需要时间，努力和勇气。认识到这一点之后，我们需要最大限度的探明有哪些事情是我们不知道，哪些我们无法估计，哪些我们无法控制，这样我们对自己的叙述在多大程度上简化了真相会有更好的了解，虽然我们永远无法完美估计自己的无知，但我们可以不断的加深自己的认识。这会帮助我们避免很多因为过于天真的认为简化版的故事就是事实而导致的灾难。
 从另外一个角度，在现实生活中我们需要做出决策，我们需要简化的易于理解的充分照顾人类愚蠢这一事实的故事，否则很多事情无法进行，生活将举步维艰。该怎么办呢？守住一个底线，尽力确保这个故事的传播带来的负面影响不会超过正面影响。这也是一件模糊的事情，但我相信，你对未知探索的越深入，就能够与好的守住这个底线。
 这个世界一如既往的充满了悖论，我总是在想有没有可能找到复杂表象背后的几个基本点？类似圣经中指出的人类的原罪一样。这几个原罪可以解释很多人类行为。从人类行为背后的的欲望来理解行为就是一个非常好的简化方式。但是当这些行为开始相互影响时，随机性开始火箭上升。事情开始变得非常复杂，不可控，难以预测。该怎么办？孜孜不倦的理解自己的无知，达人事，听天命。
 如果你在他的位置上会是什么感觉？会喜欢那样的生活么？目前看来，答案是否定的。回到那个老旧的问题：我要什么？这个问题有的时候真让我恶心，因为我一直难以回答，而它又貌似无比重要。无论被恶心多久，我还是要试图去回答这个问题，如果我一生都不知道自己要什么，那也是个答案，答案就是其实我没有什么确定想要的，虽然有些悲哀，但谁保证一定是喜剧呢？答案当然可以说是想要神的肯定。这个答案看似具体，实则模糊的不能称之为答案。如何让神肯定？这是一个很难回答的问题。回到现实生活当中，一切都需要具体细化到每天的生活，分分秒秒的时候，在尘世中想要坚持的信仰，最后还得落实到每个行动中，体现在你如何使用自己的生命。
-那回到生活上。我知道我不喜欢那样的生活，很好，知道自己不喜欢什么也是在认识自己上的进步。那自己到底想要什么样的生活呢？我喜欢的是数学、统计和分析本身么？不太像。我喜欢的是自已之前认为的通过工作能给周围世界带来价值么？再仔细想想，也不完全。因为价值这个东西本身就是模糊的。你认为有价值的事情实际上价值是多少本就无法定义，所以这是一个自我满足的伪答案。现在我能想到的最好的答案实际上是好奇心，是为了缓解对自身无知的恐惧，为了更好的回答这样一个问题：“What is real?”数据分析是个人能够了解世界的一种最好的方式，这种技能使我可以尽量自己收集一手信息，通过分析判断，更加客观的了解世界真实的样子。而不是盲目的，甚至被迫的接受他人的观点。我很感激计算机技术的发展和网络时代的来临，使得很多数据的收集成为可能，这增加了我们了解世界的能力，给了我一种自由，精神上的自由。但同时这又挖了一个更大的坑：信息太多了太多了，良莠不齐，怎么办？我的人生好像永远没有拨开云雾见青天的那一天，充满着疑问。只是那又如何？我无法摆脱这样的现状，但我可以和这些疑问和平共处，而我想要的，是不断解开一个又一个的疑问，尽管过程中会产生新的问题。这或许就是信仰，即便无法具体的定义神，即便无法理智上彻底证明神的存在，但还是相信那个存在，相信存在有着某种意义，相信爱；还是能够坚定不移的充满希望的走下去，通过回答一个又一个问题，更加深入的了解自己，理解世界，好好做人。</span>
+那回到生活上。我知道我不喜欢那样的生活，很好，知道自己不喜欢什么也是在认识自己上的进步。那自己到底想要什么样的生活呢？我喜欢的是数学、统计和分析本身么？不太像。我喜欢的是自已之前认为的通过工作能给周围世界带来价值么？再仔细想想，也不完全。因为价值这个东西本身就是模糊的。你认为有价值的事情实际上价值是多少本就无法定义，所以这是一个自我满足的伪答案。现在我能想到的最好的答案实际上是好奇心，是为了缓解对自身无知的恐惧，为了更好的回答这样一个问题：“What is real?”数据分析是个人能够了解世界的一种最好的方式，这种技能使我可以尽量自己收集一手信息，通过分析判断，更加客观的了解世界真实的样子。而不是盲目的，甚至被迫的接受他人的观点。我很感激计算机技术的发展和网络时代的来临，使得很多数据的收集成为可能，这增加了我们了解世界的能力，给了我一种自由，精神上的自由。但同时这又挖了一个更大的坑：信息太多了太多了，良莠不齐，怎么办？我的人生好像永远没有拨开云雾见青天的那一天，充满着疑问。只是那又如何？我无法摆脱这样的现状，但我可以和这些疑问和平共处，而我想要的，是不断解开一个又一个的疑问，尽管过程中会产生新的问题。这或许就是信仰，即便无法具体的定义神，即便无法理智上彻底证明神的存在，但还是相信那个存在，相信存在有着某种意义，相信爱；还是能够坚定不移的充满希望的走下去，通过回答一个又一个问题，更加深入的了解自己，理解世界，好好做人。</font>
 
 History and societies do not crawl. They make jumps. They go from fracture to fracture, with a few vibrations in between…These kinds of discontinuities in the chronology of events did not make the historian’s profession too easy: the studious examination of the past in the greatest of detail does not teach you much about the mind of History; it only gives you the illusion of understanding it….We are just a great machine for looking backward, and that humans are great at self-delusion.
 
-<span color = "blue">Hui: 作者指出历史不是连续的而是跳跃的，而人类的解释性思维将这些事件自行用因果关系连接起来，造成了理解历史的幻觉。作者使用了黎凡特（Levant）基督教传播的例子。罗马编年史学家（chronicler）对基督教在这一区域的传播的历史记录有断层。</span>
+<font color = "blue">Hui: 作者指出历史不是连续的而是跳跃的，而人类的解释性思维将这些事件自行用因果关系连接起来，造成了理解历史的幻觉。作者使用了黎凡特（Levant）基督教传播的例子。罗马编年史学家（chronicler）对基督教在这一区域的传播的历史记录有断层。</font>
 
 Of the millions of small facts that prevail before an event occurs, only a few will turn out to be relevant later to your understanding of what happened. Because your memory is limited and filtered, you will be inclined to remember those data that subsequently match the facts [在一个历史事件发生之前存在无数个事实，其中只有很少一部分会在后来你对历史事件的理解中有帮助。因为你的记忆有限且是被过滤的，所以你会倾向于记住那些事后看来与事实相符的信息。]
 
 Categorizing always produces reduction in true complexity. It is a manifestation of the Black Swan generator … It drives us to a misunderstanding of the fabric of the world…My idea is that not only are some scientific results useless in real life, because they underestimate the impact of the highly improbable (or lead us to ignore it), but that many of them may be actually creating Black Swans.
 
-<span color = "blue">Hui: 作者认为分类简化了事物（就是柏拉图化platonicity），这个过程主观忽略了不确定性，某种程度上促进了黑天鹅事件的产生。我觉得这样最多只能说使我们在黑天鹅事件面前更加脆弱，而你无法确定什么事情“促进”黑天鹅事件的发生，因为这种事件根据定义本来就是不可预测的，发生只是概率问题而无法追溯原因。作者批判很多科学研究，说这些结果的广泛传播应用促使了黑天鹅事件的发生。我很怀疑这一点。并不是说作者的批判没有道理，科学研究建立在一些现实生活很难满足的假设条件之上，对于一些科学研究应用的价值是否有人们想的那么大，确实是个疑问。但黑天鹅事件的本身好比是在我们控制的维度之外，它能够影响我们，但我们却无法影响它。所以我赞同作者指责一些科学结果“推动”黑天鹅事件。即使作者所指责的这些所谓错误的科学结果的应用全部停止，意外还是会发生，只不过是被新的意外取代。talk is cheap! 这是我工作近3年最大的感受。3年前的自己批评很多的事情，但没有意识到自己其实也想不出更好的解决方法。</span>
+<font color = "blue">Hui: 作者认为分类简化了事物（就是柏拉图化platonicity），这个过程主观忽略了不确定性，某种程度上促进了黑天鹅事件的产生。我觉得这样最多只能说使我们在黑天鹅事件面前更加脆弱，而你无法确定什么事情“促进”黑天鹅事件的发生，因为这种事件根据定义本来就是不可预测的，发生只是概率问题而无法追溯原因。作者批判很多科学研究，说这些结果的广泛传播应用促使了黑天鹅事件的发生。我很怀疑这一点。并不是说作者的批判没有道理，科学研究建立在一些现实生活很难满足的假设条件之上，对于一些科学研究应用的价值是否有人们想的那么大，确实是个疑问。但黑天鹅事件的本身好比是在我们控制的维度之外，它能够影响我们，但我们却无法影响它。所以我赞同作者指责一些科学结果“推动”黑天鹅事件。即使作者所指责的这些所谓错误的科学结果的应用全部停止，意外还是会发生，只不过是被新的意外取代。talk is cheap! 这是我工作近3年最大的感受。3年前的自己批评很多的事情，但没有意识到自己其实也想不出更好的解决方法。</font>
 
-<span color = "blue">Hui: 书的第2章很短，讲的是出版界的一个黑天鹅的例子：Yevgenia。我不知道这个作家，于是Google了一下，发现这是作者杜撰的一个人。说的是不出名的小说家Yevgenia在网上发表自己的作品给一家小出版社发现，结果大卖成为知名作家。这便是一个黑天鹅的例子。你无法预测谁会出名。</span>
+<font color = "blue">Hui: 书的第2章很短，讲的是出版界的一个黑天鹅的例子：Yevgenia。我不知道这个作家，于是Google了一下，发现这是作者杜撰的一个人。说的是不出名的小说家Yevgenia在网上发表自己的作品给一家小出版社发现，结果大卖成为知名作家。这便是一个黑天鹅的例子。你无法预测谁会出名。</font>
 
 To be genuinely empirical is to reflect reality as faithfully as possible; to be honorable implies not fearing the appearance and consequence of being outlandish.
 Hui: During application, it is necessary to be empirical. The author has very good points. However I wish he could have criticized others in a softer way. The next sentence after this one is not nice… I recalled the times when I said hard words to others, when I was too sharp without considering others feeling. I felt bad about myself. Please remember you are not perfect and bear with each other when you have to (I just say to myself).
 
 ### Extremistan and Mediocristan
 
-<span color = "blue">Hui: 这章原来的名字是：The speculator[投机家] and prostitute，挺无厘头的，还是Extremistan and Mediocristan好些。什么导致了引爆点（tipping point）？</span>
+<font color = "blue">Hui: 这章原来的名字是：The speculator[投机家] and prostitute，挺无厘头的，还是Extremistan and Mediocristan好些。什么导致了引爆点（tipping point）？</font>
 
 - Beaware the scalable! A scalable profession is good only if you are successful; they are more competitive, produce monstrous inequalities, and are far more random, with huge disparities between efforts and rewards….There are two categories of professions:
 driven by the mediocre, the average and the middle-of-the-road. The mediocre is collectively consequent.
@@ -1284,13 +1284,13 @@ Gerd Gigerenzer: director of the Max Planck Institute for Human Development in B
 
 （1）运用经验法则。当人们掌握一些知识但却未曾认真梳理时，经常会混淆自己的判断。 反过来，如果保持适度的盲目无知，积极运用已有的经验探索，反倒能显著增大选择正确的几率。这里的“盲目无知”指的是一种“简单、简化”，就像爱因斯坦说的“凡事力求简单”。
 
-<span color = "blue">Hui: 不明白，这里所谓的经验法则是什么鬼？这里所谓的“简单、简化”也太笼统了，如何“简化”问题本身就是很难获得的能力，不然怎么只有一个爱因斯坦？这里给的建议和没有建议一样。好像再说，面对风险的好决策就是积极探索找到好决策。</span>
+<font color = "blue">Hui: 不明白，这里所谓的经验法则是什么鬼？这里所谓的“简单、简化”也太笼统了，如何“简化”问题本身就是很难获得的能力，不然怎么只有一个爱因斯坦？这里给的建议和没有建议一样。好像再说，面对风险的好决策就是积极探索找到好决策。</font>
 
 （2）运用直觉。直觉也是经验法则的一种形式。它具备3个要点：1）直觉比意识快，往往会第一时间产生；2）我们并不知道为什么会产生这种感觉；3）这种感觉很强烈，促使我们立即采取行动。
 
 （3）什么情况下应当相信直觉。1）不确定性越高，未知风险越大的时候；2）可选方案越多，对风险计算失败概率越大时；3）历史参考数据越少时。反之，如果不符合这3种情况，就要少用直觉。
 
-<span color = "blue">Hui: 难道说最终的结论就是：靠猜么？</span>
+<font color = "blue">Hui: 难道说最终的结论就是：靠猜么？</font>
 
 ## How Women Decide 
 
@@ -1363,7 +1363,7 @@ Experiment: UCLA, give women smartphones capable of tracking movement and pingin
 
 A/B testing: sometimes lead to significant insights, even if the changes themselves are relatively simple.
 
-<span color = "blue">Hui: how people design the change to test?</span>
+<font color = "blue">Hui: how people design the change to test?</font>
 
 There is nothing inherently scary about scarcity. One of the basic premises of economics is that scarcity is an inevitable by-product of progress. As Adam Smith pointed out in The Wealth of Nations:
 
@@ -1550,7 +1550,7 @@ The brain is made up of one hundred billion neurons of various types that chat w
 
 Is love an art? Then it requires knowledge and effort. Or is love a pleasant sensation, which to experience is matter of chance, something one “falls into” if one is lucky?
 
-<span color = "blue">Hui: The author answered this question in the next Chapter “The Theory of love”. he believes love is active not passive; it is a “standing in” not “falling for”; It is practiced by human power in freedom never a result of compulsion. What does the “active character of love” mean? It means that love is primarily giving not receiving. In the next chapter, the author will discuss what is giving and what if a person can’t give.</span>
+<font color = "blue">Hui: The author answered this question in the next Chapter “The Theory of love”. he believes love is active not passive; it is a “standing in” not “falling for”; It is practiced by human power in freedom never a result of compulsion. What does the “active character of love” mean? It means that love is primarily giving not receiving. In the next chapter, the author will discuss what is giving and what if a person can’t give.</font>
 
 What most people in our culture mean by being lovable is essentially a mixture between being popular and having sex appeal…Our whole culture is based on the appetite for buying, on the idea of mutually favorable exchange….“Attractive” usually means a nice package of qualities which are popular and sought after on the personality market.
 
@@ -1560,15 +1560,15 @@ What most people in our culture mean by being lovable is essentially a mixture b
 
 The experience of separateness arouses anxiety; it is, indeed, the source of all anxiety…The awareness of human separation, without reunion by love–is the source of shame. It is at the same time the source of guilt and anxiety…Man is confronted with the solution of one and the same question: the question of how to overcome separateness, how to achieve union, how to transcend one’s own individual life and find atonement…The answer varies. The question can be answered by animal worship, by human sacrifice or military conquest, by indulgence in luxury, by ascetic renunciation [n. 放弃，脱离关系], by obsessional work, by artistic creation, by the love of God, and by the love of Man…The answer depends, to some extent, on the degree of individuation which an individual has reached…The more the human race emerges from these primary bonds, the more it separates itself from the natural world, the more intense becomes the need to find new ways of escaping separateness.
 
-<span color = "blue">Hui: “Separateness” is a key concept in Erich Fromm’s work. In his book “Escape from freedom”, Erich said human escape from freedom because they want to escape separateness. He stated three ways of achieving this aim:
+<font color = "blue">Hui: “Separateness” is a key concept in Erich Fromm’s work. In his book “Escape from freedom”, Erich said human escape from freedom because they want to escape separateness. He stated three ways of achieving this aim:
 
-In all kinds of orgiastic state…orgiastic union have three characteristics: (1) they are intense, even violent; (2) they occur in the total personality, mind and body; (3) the unity is transitory.</span>
+In all kinds of orgiastic state…orgiastic union have three characteristics: (1) they are intense, even violent; (2) they occur in the total personality, mind and body; (3) the unity is transitory.</font>
 
 Based on conformity with the group, its customs, practices and beliefs. It is the most frequent solution chosen by man in the past and in the present. It is pseudo-unity.
 
 In creative activity (artist, artisan). In any kind of creative work the creating person unites himself with his material, which represents the world outside of himself. It is not interpersonal
 
-<span color = "blue">Hui: In the author’s view, all the three are only partial answers to the problem of existence. The full answer is the interpersonal union by love which is the most powerful striving in man. Failing to achieve means destruction (self or others).</span>
+<font color = "blue">Hui: In the author’s view, all the three are only partial answers to the problem of existence. The full answer is the interpersonal union by love which is the most powerful striving in man. Failing to achieve means destruction (self or others).</font>
 
 The dictatorial system use threats and terror to induce this conformity; the democratic countries, suggestion and propaganda.There is, indeed, one great difference between the two systems…But actually people want to conform to a much higher degree than they are forced to conform, at least in the Western democracies.
 
@@ -1579,17 +1579,17 @@ Passive form: masochism [ˈma-sə-ˌki-zəm 受虐狂]
 Active form: sadism
 Mature love is union under the condition of preserving one’s integrity, one’s individuality. (contrast to symbiotic union). Two beings become one and yet remain two.
 
-<span color = "blue">Hui: Discussion around “giving”:
+<font color = "blue">Hui: Discussion around “giving”:
 
 Giving is the highest expression of potency.</dpan>
 
 It is well known that the poor are more willing to give than the rich. Nevertheless, poverty beyond a certain point may make it impossible to give, and is so degrading, not only because of the suffering it causes directly, but because of the fact that it deprives the poor of the joy of giving.
 
-<span color = "blue">Hui: It reminds me a sentence from the book “Maxims” which says:“What we call liberality is often but the vanity of giving which we like more than that we give away.” The word “vanity” has negative connotation here. It is not a graceful motivation to give but it is not bad either. At least people with this mind are willing to give. Only God can see people’s mind perfectly. Other than God, who knows what is real under the sun? That is why making judgement about others is dangerous because all we can see is (part of) people’s behavior and you don’t know what are in people’s heart. On the other hand, we are judging all the time since we have to make a decision. I like the analogue saying “human are living on a dial of a clock. We can never open the back to examine how it works. We see what we see and guess the reason.” We are too stupid to be complicated. We are just sinful and making each other’s life tough.</span>
+<font color = "blue">Hui: It reminds me a sentence from the book “Maxims” which says:“What we call liberality is often but the vanity of giving which we like more than that we give away.” The word “vanity” has negative connotation here. It is not a graceful motivation to give but it is not bad either. At least people with this mind are willing to give. Only God can see people’s mind perfectly. Other than God, who knows what is real under the sun? That is why making judgement about others is dangerous because all we can see is (part of) people’s behavior and you don’t know what are in people’s heart. On the other hand, we are judging all the time since we have to make a decision. I like the analogue saying “human are living on a dial of a clock. We can never open the back to examine how it works. We see what we see and guess the reason.” We are too stupid to be complicated. We are just sinful and making each other’s life tough.</font>
 
 Love is a power which produces love; impotence is the inability to produce love.
 
-<span color = "blue">Hui: I like this way to describe love and impotence! Being a potent person is to be someone who can produce and give love not just receive.</span>
+<font color = "blue">Hui: I like this way to describe love and impotence! Being a potent person is to be someone who can produce and give love not just receive.</font>
 
 ## Escape from Freedom 
 
@@ -1627,7 +1627,7 @@ Hui: 这些好像有重复？寻根，身份感以及定位都是为了定义自
 
  与马斯洛的需求理论不同，弗洛姆并不着重探讨需求的层次，他更想指出的是，人要满足自身的需求，其实有两条路可走。一条路就是后退，回到动物的生存状态，和自然界合为一体；另一条就是向前，发展人类自己的理性，成为真正健全的人。这种前后两分，也是弗洛姆提出的需求的共同特点。
 
-<span color = "blue">Hui: 这倒是头一次听说，退回动物的生存状态。</span>
+<font color = "blue">Hui: 这倒是头一次听说，退回动物的生存状态。</font>
 
 当代资本主义社会是不健全的
 弗洛姆认为，资本主义社会的富强和自由只是表面，其内在依旧是服从和奴役，依旧是人为了满足社会，适应社会而存在，而不是社会为了人的需求而存在。资本主义社会中人的最主要特征就是被异化，就是人的活动成了一种和自己对立的力量，结果是这种力量压迫人去行动，而不是人掌控这种力量。于是他创造出来的物成了他的主人。在现代社会，这种异化是无处不在的。人创造了资本工业的庞大机构，但结果这些企业却成了凌驾于个人之上的存在，个人反而只能按照企业的要求去塑造自己，成为大机器上的一个小零件。
@@ -1684,7 +1684,7 @@ We reach quite inexperienced the different stages of life, and often, in spite o
 
 The most dangerous folly of old persons who have been lovable is to forget that they are no longer so.
 
-<span color = "blue">Hui: hope it is not that bad……</span>
+<font color = "blue">Hui: hope it is not that bad……</font>
 
 In love the quickest is always the best cure.
 Few knows how to be old.
@@ -1733,7 +1733,7 @@ Quarrels would not last long if the fault was only on one side.
 It follows that a society in which everything happens as the result of the direct personal interference on the part of an invisible being must depend for its continuted existence upon a strict obedience of such laws as seem to appease the wrath of the Gods.
 The word taboo is of Australian origin. [在一个社会中，如果任何事情都被认为是由看不见的生灵操纵的，那么社会要维持下去，就必须绝对服从能平息神灵怒火的律法。]
 
-<span color = "blue">Hui: I wonder more about who is going to give the law and if God is the one, how are we supposed to know the laws we are given are really from God. I don’t want to worry about the necessity of laws.</span>
+<font color = "blue">Hui: I wonder more about who is going to give the law and if God is the one, how are we supposed to know the laws we are given are really from God. I don’t want to worry about the necessity of laws.</font>
 
 Whether the taboo was an invention of the priests or the priesthood was created to maintain the taboo is a problem which had not yet been solved. As tradition is much older than religion, it seems more than likely that taboos existed long before the world had heard of sorcerers and witchdoctors. [究竟是祭司发明了禁忌，还是为了维护禁忌才产生了祭司，这是尚待解决的问题。由于传统比宗教更为源远流长，因此很可能早在男巫师和女巫婆问世之前禁忌就存在了。]
 Hui: According to the author, does he mean that the priesthood was created to maintain the taboo?
@@ -1862,9 +1862,9 @@ We suffer from a tendency to define religion too narrowly. We tend to think that
 - To some extent the religion of most adults is a product of transference [移情].Most of us operate from a narrower frame of reference than that of which we are capable, failing to transcend the influence of our particular culture, our particular set of parents and our particular childhood experience upon our understanding. It is no wonder that the world of humanity is so full of conflict. We have a situation in which human being, who must deal with each other, have vastly different views as to the nature of reality, yet each one believes his/her own view to be the correct one since it is based on the microcosm of personal experience. And to make matters worse, most of us are not even fully aware of our own world views, much less the uniqueness of the experience from which they are derived.
 [许多成年人的信仰其实是移情的产物。我们毕竟不是超人，无法超越文化，父母和童年经验的影响，只能根据狭窄的人生参照系来待人处事。人们的感受和观点起源于过去的经验，却很少意识到经验并不是放之四海皆准的法则，他们对自己的世界观并没有完整而深入的认识。]
 
-<span color = "blue">Hui: Here is a short conversation with my best friend:  
+<font color = "blue">Hui: Here is a short conversation with my best friend:  
 Q: What is wrong with the world?  
-A: There are people.</span>  
+A: There are people.</font>  
 
 - 最有活力，最适合我们的信仰，理应从我们对现实的经验和认识中产生。经由质疑，挑战，检验的信仰，才是属于我们的信仰。…我想要真正地活着，就必须有自己的语言，拥有独一无二的怀疑与挑战的意识。我们有了自己的信仰，才能有成熟的心灵。[To be vital, to be best of which we are capable, our religion must be a wholly personal one, forged entirely through the fire of our questioning and doubting in the crucible of our own experience of reality…So for mental health and spiritual growth we must develop our own personal religion and not rely on that of our parents.]
 
@@ -1890,7 +1890,7 @@ A: There are people.</span>
 
 - Our failure to conduct — or to conduct fully and whole heartedly —this internal debate between good and evil is the cause of those evil actions that constitute sin … It is work to hold these internal debates. They require time and energy just to conduct them…For laziness takes forms other than that related to the bare number of hours spent on the job or devoted to one’s responsibilities to others. A major form that laziness takes is fear … Each of us represents the whole human race; within each of us is the instinct for godhood and the hope for mankind, and within each of us is the original sin of laziness. [我们回避内心的善恶辩论，就产生了许多构成原罪的邪恶行为。…完成心灵的辩论需要努力，需要时间，需要坚强的意志。…懒惰与你花多少时间工作，如何对待别人尽职尽责没有多少关系。懒惰的一个主要特征就是恐惧感。… 在每一个人的身体中都拥有向往神性的本能，都有达到完美境界的欲望，同时也都有懒惰的原罪。]
 
-<span color = "blue">Hui: 不仅仅是行为上的懒惰，更是思想上的懒惰。如La Rochefoucauld在Maxims中说的：“We have more idleness in the mind than in the body.” 我们觉得累了，不想进行善恶的争辩，于是就听之任之。</span>
+<font color = "blue">Hui: 不仅仅是行为上的懒惰，更是思想上的懒惰。如La Rochefoucauld在Maxims中说的：“We have more idleness in the mind than in the body.” 我们觉得累了，不想进行善恶的争辩，于是就听之任之。</font>
 
 - First, I have come to conclude that evil is real. It is not the figment of the imagination of a primitive religious mind feebly attempting to explain the unknown…My second conclusion then is that evil is laziness carried to its ultimate, extraordinary extreme…I define evil, then, as the exercise of political power—that is, the position of one’s will upon others by overt or covert coercion—in order to avoid extending one’s self for the purpose of nurturing spiritual growth…My third conclusion is that the existence of evil is inevitable, at least at this stage in human evolution…Last, I have come to conclude that while entropy is an enormous force, in its most extreme force of human evil. It is strangely ineffective as a social force. [首先，我相信邪恶是真实存在的，它并非原始宗教为解释某些不可知现象而凭空捏造的一种概念。…第二，所谓邪恶就是为所欲为，横行霸道式的懒惰。…关于“邪恶”，我们可以给出这样的定义：邪恶式运用一切影响力阻止他人心智成熟与自我完善的行为。…第三，至少到目前人类进化的这一阶段，邪恶式不可避免的。…最后，熵是一种强大的力量，是人性极恶的体现。]
 
@@ -1986,19 +1986,19 @@ Not so those who are evil. Theirs is a brand of narcissism so total that they se
 
 - The process of deep healing, at least within the psychoanalytic framework, requires the patient to regress on some level to some degree. it is no easy thing for adults, accustomed to independence and the psychologic trappings of maturity, to allow themselves to become like young children again, dependent and so very vulnerable. And the deeper the disturbance, the more hungry and painful and wounding the patient’s childhood, the more difficult it is to return to the childhood condition within the therapeutic relationship. It is like a death. Yet it can be accomplished. When it is, healing will result. When it does not, the foundation cannot be reconstructed. No regression, no healing; it is as simple as that.
 
-<span color = "blue">Hui: How to prove those psychoanalytic results?</sapn>
+<font color = "blue">Hui: How to prove those psychoanalytic results?</sapn>
 
 - The essence of maternal love for the infant is affirmation. The ordinary, healthy mother loves her infant for no reason other than simply the fact that it is there. The infant does not have to do anything to earn her love. There are no strings attached to it. The love is unconditional. She loves the infant for itself, as it is. This love is a statement of affirmation; it says, “You are of great value simply because you exist.”
 
-<span color = "blue"> Hui: It is unconditional. And as the author mentioned before, it was essential for parents to tolerate their own loneliness so as to allow and even encourage their children to eventually leave them. Conditional parental love is destructive.</span>
+<font color = "blue"> Hui: It is unconditional. And as the author mentioned before, it was essential for parents to tolerate their own loneliness so as to allow and even encourage their children to eventually leave them. Conditional parental love is destructive.</font>
 
 - Autism is narcissism in its ultimate form. For the complete narcissist, others have no more psychologic reality than a piece of furniture.
 
-<span color = "blue">Hui: Isn’t autism from gene? It is very hard for me to buy those psychoanalytic opinions.</span>
+<font color = "blue">Hui: Isn’t autism from gene? It is very hard for me to buy those psychoanalytic opinions.</font>
 
 - I know now that one of the characteristics of evil is its desire to confuse.
 
-<span color = "blue">Hui: Another non-falsifiable statement .</span>
+<font color = "blue">Hui: Another non-falsifiable statement .</font>
 
 - I have learned these past years that evil, whether it be demonic or human, is surprisingly obedient to authority. Why this is so I do not know. Let me stress that authority over the power of evil does not come easily. It is gained by enormous exertion in addition to knowledge. Such exertion can be born only of love.
 
@@ -2008,7 +2008,7 @@ Not so those who are evil. Theirs is a brand of narcissism so total that they se
 
 - All healthy children experience sexual desire for the parent of the opposite sex. This desire usually reaches its peak around 4 or 5 and is referred to as the Oedipal dilemma. It places the child in a dreadful predicament. The romantic love of the child for the parent is a hopeless love. The child will say to its parent,”I know you tell me that I can’t have sex with you because I’m a child, but just look at how grown-up I am acting and you will change your mind.” This grown-up act requires enormous energy, however, and ultimately cannot be sustained by the child. It becomes exhausted. Resolution of the dilemma finally occurs when the exhausted child accepts the reality that it is a child and cannot, and no longer desires to, pull off the appearance of adulthood. In so doing, the child also realizes it cannot have its cake and eat it too; it cannot both sexually possess its parent and at the same time be a child. It therefore opts for the advantages of being a child and renounces its premature sexuality. The Oedipal dilemma has be solved. Everyone breathes a sigh of relief, particularly the child, who becomes visible happier and more relaxed……A major reason children often fail to resolve the Oedipus complex is that they have failed to receive adequate parental love and attention in the years before the age of four, the so-called pre-Oedipal years.
 
-<span color = "blue">Hui: I doubt the Oedipus complex. Where is the evidence? I don’t see any controlled experiment.</span>
+<font color = "blue">Hui: I doubt the Oedipus complex. Where is the evidence? I don’t see any controlled experiment.</font>
 
 ### Of possession and exorcism
 
@@ -2032,7 +2032,7 @@ Not so those who are evil. Theirs is a brand of narcissism so total that they se
 
 - Perhaps the greatest problem of theodicy is the question why God, having created Satan in the first place, simply didn’t wipe it out after its rebellion. The question presupposes that God would wipe anything out. It assumes that God can punish and kill. Perhaps the answers is that God gave Satan free will and that God cannot destroy; He can only create……The point is that God does not punish. To create us in His image, God gave us free will. To have done otherwise would have been to make us puppets or hollow mannequins. Yet to give us free will God had to forswear the use of force against us. We do not have free will when there is a gun pointed at our back. It is not necessarily that God lacks the power to destroy us, to punish us, but that in His love for us He has painfully and terrible chosen never to use it. In agony He must stand by and let us be. He intervenes only to help, never to hurt. The Christian God is a God of restraint. Having forsworn the use of power against us, if we refuse His help, He has no recourse but, weeping, to watch us punish ourselves......This point is unclear in the Old Testament. There God is depicted as punitive. But it begins to become clear with Christ. In Christ, God Himself impotently suffered death at the hands of human evil. He did not raise a finger against His persecutors. Thereafter in the New Testament we hear echoes of the punitive Old Testament God, one way or another, saying that “the wicked will get what’s coming to them.” But these are only echoes; a punishing God does not enter the picture ever again.
 
-<span color = "blue">Hui: I still don’t understand the gap between Old Testament and New Testament. </span>
+<font color = "blue">Hui: I still don’t understand the gap between Old Testament and New Testament. </font>
 
 - Of the Holocaust as well as of lesser evils it is often asked, “How could a loving God allow such a thing to happen?” It is a bleeding, brutal question. The Christian answer may not suit our tastes, but it is hardly ambiguous. Having forsaken force, God is impotent to prevent the atrocities that we commit upon one another. He can only continue to grieve with us. He will offer us himself in all His wisdom, but He cannot make us choose to abide with Him…….Satan cannot do evil except through a human body.
 
@@ -2110,7 +2110,7 @@ the society at large —— partly through the self-selection process described 
 
 - The fact of the matter is that we cannot lead decent lives without making judgements in general and moral judgments in particular……The sentence “Judge not, that ye be not judged” is usually quoted out of context. Christ didn’t enjoin us to refrain from ever judging. What he went on to say in the next four verse is that we should judge ourselves before we judge others —— not that we should judge at all. “Thou hypocrite,” he said, “first cast out the beam our of thine own eyes; and then shalt thou see clearly to cast out the mote out of thy brother’s eye.”
 
-<span color = "blue">Hui: ”beam” v.s. “mote”</span>
+<font color = "blue">Hui: ”beam” v.s. “mote”</font>
 
 - We must also remember ** the purpose for which we judge. If it is to heal, fine. If it is to enhance our own self-esteem, our pride then the purpose is wrong.**
 
@@ -2236,7 +2236,7 @@ Robert A. Johnson， a noted lecturer and Jungian analyst
 
 ## 自卑与超越（What Life Could Mean to You）
 
-<span color = "blue">Hui: Alfred Adler是个体心理学的创始人。他强调自卑感，以及自卑情结在人格发展中的重要作用。Alfred Adler将人类视为一个个体，因此他将自己的学派称为“个体心理学”。Adler首次强调社会因素在人格形成调整中扮演重要角色。</span>
+<font color = "blue">Hui: Alfred Adler是个体心理学的创始人。他强调自卑感，以及自卑情结在人格发展中的重要作用。Alfred Adler将人类视为一个个体，因此他将自己的学派称为“个体心理学”。Adler首次强调社会因素在人格形成调整中扮演重要角色。</font>
 
 译者序：发生过什么并不重要，重要的是你以为发生过什么。每个人都在用精心挑选的记忆编造者自己的生活。无论这些记忆是真是假，都代表了你对这个世界的理解，以及你对自我的认知。......在处理人生中各种问题时，Adler一再强调，要心怀对他人和社会的关心，要培养对他人和社会的兴趣，要时刻以他人和社会的利益为先。而事实上，心怀善意和勇气，以谦卑合作的态度坦然面对生活中的各种问题和挑战，也正是每一个势单力薄的个体在这个纷繁复杂的社会中立足生根的秘诀所在。
 
@@ -2322,15 +2322,15 @@ Robert A. Johnson， a noted lecturer and Jungian analyst
 
 - The author pointed out that more of us turn to self-help books for answers to lives that feel in need of fixing. The phenomenon indicates our rising levels of insecurity and self-doubt and the stealthy(悄然的，秘密的) psychologising of American culture as a whole. Self-help industry is meme of popular psychology. Meme is defined by Richard Dawkins in his The Selfish Gene as “an idea, behaviour or style that spreads from person to person within a culture”. It is like today’s “Big Data” or “Data Science”......The major selling points of self-help book is to keep things simple and manageable. The social environment is complex. There are innumerable variables contribute to even a simple human activity. According to “chaos theory”, even small local variations can produce a truly bewildering variety of outcomes–so great in fact as to render prediction virtually impossible, even in a closed, deterministic system.
 
-<span color="blue"> Hui: In the era of “Internet of Things”, everything is connected. A slight move in one part may affect the situation as a whole. The consequence can be amplified/changed through the network. It is getting harder to predict and control. We badly need recipe to simplify this complicating world. At least, myself always wonder. The principle of Occam’s razor advocates the virtue of parsimony. In statistical world, it means when two models provide similar results, always choose the simpler one. However, for our current situation, I agree with the author that even the most economical explanations at our disposal may still be too complicate.</span>
+<font color="blue"> Hui: In the era of “Internet of Things”, everything is connected. A slight move in one part may affect the situation as a whole. The consequence can be amplified/changed through the network. It is getting harder to predict and control. We badly need recipe to simplify this complicating world. At least, myself always wonder. The principle of Occam’s razor advocates the virtue of parsimony. In statistical world, it means when two models provide similar results, always choose the simpler one. However, for our current situation, I agree with the author that even the most economical explanations at our disposal may still be too complicate.</font>
 
 - Oscar Wilde: The truth is rarely pure and never simple
 
 - In the mysterious world of particle physics, Superstring Theory remains the most promising candidate to provide us with a workable “Theory of Everything”. This is the Grail of modern physics, the theoretical framework that will finally allow physicists to reconcile the uneasy bedfellows of quantum physics and general relativity. However as Brian Greene points out in The Elegant Universe, although the theory looks sound, the maths involved is proving so complex that even the best mathematical brains in the world are currently struggling to make the highly convoluted sums add up.
 
-<span color = "blue">Hui: I don’t think it is a good example here. The general relativity also looks elegant but is mathematically hard to prove. An example on how the increasing information availability complicates people’s decision making may fit better here.</span>
+<font color = "blue">Hui: I don’t think it is a good example here. The general relativity also looks elegant but is mathematically hard to prove. An example on how the increasing information availability complicates people’s decision making may fit better here.</font>
 
-<span color = "blue">Hui: I agree that the world is complicated. But what can we do?</span>
+<font color = "blue">Hui: I agree that the world is complicated. But what can we do?</font>
 
 <!--
 ### Myth 1: The root of all your problems is low self-esteem
@@ -2370,7 +2370,7 @@ Hui: There is a reason for everything’s existence. We need both sides and the 
 
 - Depressed people are also better at sequential decision-making. they accept options less readily which led to longer search and better choices. Depression, by fostering greater persistence many improve performance in certain task.
 
-<span color = "blue"> Hui: I doubt it. 1) how to define better choice? 2) does longer search lead to better choice or increase the likelihood of making better choice? I think the ability of making choice is developed overtime. 3) persistence is personality which is relative stable across time and situation. I can’t imagine depressed people are more persistent or being depressed will make you hold on longer. How they collected the data and do analysis? How they choose samples? Are those samples representative?</span>
+<font color = "blue"> Hui: I doubt it. 1) how to define better choice? 2) does longer search lead to better choice or increase the likelihood of making better choice? I think the ability of making choice is developed overtime. 3) persistence is personality which is relative stable across time and situation. I can’t imagine depressed people are more persistent or being depressed will make you hold on longer. How they collected the data and do analysis? How they choose samples? Are those samples representative?</font>
 
 <!--
 3.24.8 Myth 7: We need to talk……
@@ -2507,7 +2507,7 @@ Hui: There is a reason for everything’s existence. We need both sides and the 
 
 ## 欲望心理学
 
-<span color = "blue">Hui: 作者休.麦凯。这本书是一篇篇文章的集结，试图解读驱使人行为背后的欲望。书中探讨了10种欲望，它们在本质上并无好坏之分，而只是人性中的一部分。作者在前言中说：“我们所有人都会受到一连串诸如欲望、激情、期许和需求的驱使，它们对谁而言都是很难权衡的，更不用说控制它们了。我们需要太多不同的东西，甚至有时想同时占有它们，这也就是我们经常会感到纠结的原因。” 欲望激励我们前进，但当欲望得不到满足时，很可能会产生恶意的想法。理解学习人性的欲望，有助于我们更好的控制它们，选择生活而不是被生活选择。</span>
+<font color = "blue">Hui: 作者休.麦凯。这本书是一篇篇文章的集结，试图解读驱使人行为背后的欲望。书中探讨了10种欲望，它们在本质上并无好坏之分，而只是人性中的一部分。作者在前言中说：“我们所有人都会受到一连串诸如欲望、激情、期许和需求的驱使，它们对谁而言都是很难权衡的，更不用说控制它们了。我们需要太多不同的东西，甚至有时想同时占有它们，这也就是我们经常会感到纠结的原因。” 欲望激励我们前进，但当欲望得不到满足时，很可能会产生恶意的想法。理解学习人性的欲望，有助于我们更好的控制它们，选择生活而不是被生活选择。</font>
 
 ### 涂鸦、发表言论、恶霸行为的目的——渴望重视的心理
 
@@ -2533,7 +2533,7 @@ Hui: There is a reason for everything’s existence. We need both sides and the 
 
 - 对宠物（如狗）并对人好的原因：对关注、对尊重和对认同的欲望。我们希望成为别人重视的明星，即使时小狗的重视也一样。
 
-<span color = "blue">Hui: 还有炫富也出于渴望受重视的心理，我们应该清楚渴望重视和值得重视是两回事，我们本应该将精力放在使自己值得重视上。</span>
+<font color = "blue">Hui: 还有炫富也出于渴望受重视的心理，我们应该清楚渴望重视和值得重视是两回事，我们本应该将精力放在使自己值得重视上。</font>
 
 - 倾听是一门艺术，它对于我们大多数人说并不是那么自然或从容的，它不仅仅是简单地倾听，而是需要尽力进入说话者的想法，尽力想象这样对他或她会是怎么样的，在想象中，要有换位思考的艺术。...如果我们没准备好倾听另一个人说话，那么会出现两个结果：
 
@@ -2545,11 +2545,11 @@ Hui: There is a reason for everything’s existence. We need both sides and the 
 
 - “自我空间”感对于我们大多数人来说最重要的意义：它不仅可以帮助我们找到自己，还可以构建我们、界定我们、帮助我们形成自我身份感——我属于这里，这是我的空间，我在这里感到自在。如果有一段事件，我们不能在这里，那么当我回来时，这种依然属于我的空间感就会像是一盏明灯在记忆中点燃。
 
-<span color = "blue">Hui: 我们习惯于坐在同一个位子上也是源于相同的心理。作者还提出，因为同样的原因，那些和我们早期态度价值观形成相联的地点让我们念念不忘。我不是太赞同。怀旧更多来源于记忆的选择性，当我们回忆过去，只会记得那些让我们印象深刻的事情，而地点是这些过去的故事中不可缺的元素，比起现在的生活来说，过去总是更加浓烈，有味，而不似当下的无趣。此外作者还将网络上更容易出现欺诈等极端行为也归于这种自我空间的欲望，我觉得实在不合适。这和空间需求没有关系，而是因为对另一方的陌生削弱了采取这种行为的负罪感。对家的眷恋也不一是空间需求，而是对心理情感支持的需求。作者在这一章讲的我大部分都不认同，除了买房是源于对空间的需要以外。</span>
+<font color = "blue">Hui:我们习惯于坐在同一个位子上也是源于相同的心理。作者还提出，因为同样的原因，那些和我们早期态度价值观形成相联的地点让我们念念不忘。我不是太赞同。怀旧更多来源于记忆的选择性，当我们回忆过去，只会记得那些让我们印象深刻的事情，而地点是这些过去的故事中不可缺的元素，比起现在的生活来说，过去总是更加浓烈，有味，而不似当下的无趣。此外作者还将网络上更容易出现欺诈等极端行为也归于这种自我空间的欲望，我觉得实在不合适。这和空间需求没有关系，而是因为对另一方的陌生削弱了采取这种行为的负罪感。对家的眷恋也不一是空间需求，而是对心理情感支持的需求。作者在这一章讲的我大部分都不认同，除了买房是源于对空间的需要以外。</font>
 
 ## 直面内心的恐惧
 
-<span color = "blue">Hui: 作者弗里兹.李曼通过他行医多年的经历，归纳出四种恐惧的原型：害怕把自己交出去（分裂），害怕做自己（忧郁），害怕改变（强迫），害怕既定规律（歇斯底里）。大部分人都是四种原型的混合，极度偏向任何一种都是病态的。因此我们可能经历过每种基本的恐惧，但是没有哪一个在我们身上独霸一方，因此我们能够克服这些恐惧，每战胜一次恐惧，我们就淬炼的更加坚韧。了解自己心中不安和恐惧的来源，或许能够帮助我们更好的克服它们取得心智的成长。</span>
+<font color = "blue">Hui: 作者弗里兹.李曼通过他行医多年的经历，归纳出四种恐惧的原型：害怕把自己交出去（分裂），害怕做自己（忧郁），害怕改变（强迫），害怕既定规律（歇斯底里）。大部分人都是四种原型的混合，极度偏向任何一种都是病态的。因此我们可能经历过每种基本的恐惧，但是没有哪一个在我们身上独霸一方，因此我们能够克服这些恐惧，每战胜一次恐惧，我们就淬炼的更加坚韧。了解自己心中不安和恐惧的来源，或许能够帮助我们更好的克服它们取得心智的成长。</font>
 
 ### 序言
 
@@ -2590,7 +2590,7 @@ Hui: There is a reason for everything’s existence. We need both sides and the 
     - 过多刺激：婴儿时期缺乏关怀与爱是形成分裂人格的一个主因，同样的，过多刺激，譬如母亲不让婴儿安静，不知道孩子究竟要什么，是另外一个主因。孩子的器官尚未发育完整，就苛求他达到某些目标也会形成分裂人格。
     - 特定环境：婴儿时期缺少安全感加上不利的环境因素（如战争）很容易造成分裂人格
     
-    <span color = "blue">Hui: 如何证明这些成因？</span>
+    <font color = "blue">Hui: 如何证明这些成因？</font>
 
 5. 分裂人格的行为模式
     - 淹没：他把恐惧转换成外在世界的一个物体，可以稍加回避、抗拒或者消灭，但藏在内心的恐惧却让他举手投降。
@@ -2665,7 +2665,7 @@ Hui: There is a reason for everything’s existence. We need both sides and the 
 歇斯底里人格者追求离心力，他们才不把那股聚拢且集中的万有引力放在眼里，只是翘首期待新鲜感，不断追求新鲜、惊险和刺激，随时臣服于外在的引诱和内心的呼喊。他们讨厌传统、束缚和既定的规律，害怕自由受到束缚，责任，义务和前后一致是他们最大的恐惧。追求改变与自由，好奇心强烈，追求刺激，喜欢冒险；热情洋溢，调情高手，花样百出，肯定所有新的事物；夸张，自吹自擂，装腔作势，爱慕虚荣，任性，口不择言，不想后果，及时行乐，不负责任，逃避束缚，自欺欺人，渴望被肯定，排拒最终的，既定的人事物，害怕自由受到束缚，冲动，无力抗拒诱惑，无原则，易怒，脆弱，不理性，不和逻辑…… 1. 歇斯底里人格诊断 - 摆脱约束 - 向诱惑屈服，尼采的形容很适合这样的人：“记忆告诉我这件事是我做的，但我的自尊心却说不是我干的，它不容反驳。最后记忆妥协了。” - 当不负责任的小孩。负者任让他感到不快。至于衰老，他可以想办法慢一点变老，心理年轻就好，用不找告诉每一个人他真实的年龄；只要看起来不老，就可以青春永驻。从衣饰着手，穿年轻一点儿的服装，使用化妆品，靠着美容整形支撑不老的传奇；千万不能忧虑或激动，告诉别人他受不了这些折损，躲不掉的时候宣称身体微恙，不必烦恼或生气。他以同样的态度看待伦理与道德。既然不喜欢这些大道理，何必死守呢？一次也不行，谁能够分辨是非善恶，立场观点都是比较而来的。他的世界可塑性极高，柔顺随和，犯错都是有理由的。更何况，谁知道他现在做什么，以前又做过什么事呢？他的想法海阔天空，只要他能按照自己的版本说服自己，谁又能提出相反的论调？ - 活在当下。歇斯底里的人就想变色龙，可以适应每一种新的情况，只是从中发展出自我的持续性，一般称之为个性，十分稀少。他莫测高深，总是根据当下的需求扮演某一个角色，比较像千变万化的某一个人，到后来连自己都认不得自己。他的个性不真实，没有连续性，欠缺清晰的轮廓和陶铸出来的性情。 1. 歇斯底里人格的感情世界 - 调情高手 - 自恋。让人想到一则寓言，一只孔雀执意要和朴实无华的母鸡结婚，到了公证处，乌鸦诧异地问，美丽的它怎么会娶一只毫不出色的母鸡呢？孔雀正色答道：“我和我的妻子都爱死了我自己。” - 父母的坏榜样。歇斯底里的人格成形于童年结束前的阶段，大约4到6岁，寻找典范，是为日后对待自己于异性态度的养成时期。 - 分裂人格的人一眼就看穿歇斯底里的人，不打算肯定他，欣赏他。分裂人格喜欢和忧郁人格在一起，予取予求，日子久了通常忧郁人格要承担这种关系的不幸。 1. 歇斯底里人格的侵略性 - 与强迫人格不同，歇斯底里的人的侵略性灵活、随性，显得并不十分在意，常常不假思索就出手，因此实践不会太久，也不会过于耿耿于怀。口不择言，任性，矛头对准人，而非事情本身。 - 耍手段 1. 歇斯底里人格的成因 - 榜样缺失 - 父母角色错位 - 起源：压迫、轻视、箝制、强迫以及不了解自己的伴侣和社会，hysteria变成一种反弹行为，与性别无关；其他会造成hysteria的环境也非关性别。
 
 患者惧怕既定的规律，前后一致以及责任义务，未达父母期待而感到失望，那些期待来的太快太早，以至于不满自己的无能；这些增加了他的虚荣心，长大后用微薄的力量打天下，造成歇斯底里似的恶性循环，导致崩溃。老想改变的是被人而不是自己。  
-有帮助的认知：接近真实的世界，熟悉游戏规则。需要勇气于过去一刀两断（<span style="color:blue">Hui: 哪种人格障碍不是呢？ </span>）
+有帮助的认知：接近真实的世界，熟悉游戏规则。需要勇气于过去一刀两断（<font style="color:blue">Hui: 哪种人格障碍不是呢？ </font>）
 歇斯底里人格的行为模式
 否认过错。战争、种族仇恨与宗教战争，往往是这一类失去控制、腥风血雨的投影心理所引爆的。谁不希望卸下心头的重担，洗涤罪孽呢？忧郁的人所有的不安与歉疚都往自己身上揽，歇斯底里的人走相反的路线，他忘记或者否认自己的过错。
 阴晴不定。歇斯底里的父母让他们的矮子带着方枘圆凿的态度踏上人生之路。强迫人格的父母不愿承认错误是为了保持权威，而歇斯底里的父母则是虚荣心与自恋作怪。赋予儿女重大责任，让自己有面子。喜欢做大而无当的承诺。领袖气质浑然天成，因为领导者只需发布命令，指点新路线，无须从事繁琐细碎的工作就能实现理想。
