@@ -9,7 +9,7 @@ Zipf’s law: Human behavior and the principle of least effort. Principle of lea
 
 Chomsky’s dictum: “Probability theory is inappropriate for formalizing the notion of grammaticality.”
 
-7.3 ASA on p-value
+## ASA on p-value
 
 It is science’s dirtiest secret: The ‘scientific method’ of testing hypotheses by statistical analysis stands on a flimsy foundation. (Siegfried, 2010)
 
@@ -35,7 +35,7 @@ By itself, a p-value does not provide a good measure of evidence regarding a mod
 Also try other available methods
 Other approaches: confidence, credibility or prediction intervals (?), Bayesian methods, likelihood ratios (?) or Bayes Factors, decision-theoretic modeling (?) and false discovery rates (?).
 
-8.1 A company’s 5 levels of analytical maturity
+## A company’s 5 levels of analytical maturity
 
 The first theme is a company’s 5 levels of analytical maturity and its application to several companies.
 
@@ -43,17 +43,19 @@ Level 1: reporting data Level 2: building predictive models Level 3: streamline 
 
 Many companies get stuck from level 2 to 3 that they cannot turn the predictive models into a repeatable process for analytics. The difficulty lies within communication and collaboration between data scientist building models and data engineers deploy models. There’s a general chasm between modeling environment and deployment environment. It can be filled with the right people, right senior buy in and a LOT of meetings.
 
-8.2 Practical text analytics
+## Practical text analytics
 
 Big data does not have a consistent and concise definition. We might say somewhat lightheartedly that it appears to involve more data than you can handle comfortably with whatever software and hardware you now own.
 
-8.3 Data science team
+## Data science team
 
 It is an article for data science in startups but we can still learn some general points.
 
-What can data science do?
-Improving the products： -Rely on a virtuous cycle where products collect usage data that becomes the fodder for algorithms which in turn offer users a better experience.
-The first version of your product has to address what data science calls the “cold start” problem — it has to provide a “good enough” experience to initiate the virtuous cycle of data collection and data-driven improvement. It needs product managers and engineers to implement solution. (需要至少开始有人使用产品，进入“数据收集-数据驱动改进产品”的循环)
+- What can data science do?
+    1. Improving the products： 
+        - Rely on a virtuous cycle where products collect usage data that becomes the fodder for algorithms which in turn offer users a better experience.
+        - The first version of your product has to address what data science calls the “cold start” problem
+        — it has to provide a “good enough” experience to initiate the virtuous cycle of data collection and data-driven improvement. It needs product managers and engineers to implement solution. (需要至少开始有人使用产品，进入“数据收集-数据驱动改进产品”的循环)
 Data scientists collaborate with engineers
 Decide whether data scientists implement product enhancements themselves or partner with engineers who implement them. Either approach can work, but it’s important to formalize it and establish shared expectations across the organization. Otherwise, you’ll struggle to get improvements into production, and you’ll lose talented data scientists who feel unproductive and undervalued.
 Skills: machine learning knowledge and production-level engineering skills
@@ -110,7 +112,29 @@ Over time, the impact that a data science team has will be far higher if you bui
 
 This will ensure they think as holistically as possible about their domain, and will encourage creativity and innovation over time.
 
-8.4 Data Quality
+## Hadoop v.s. Spark
+
+Hadoop and Spark are both Big Data frameworks – they provide some of the most popular tools used to carry out common Big Data-related tasks. 
+
+Hadoop, for many years, was the leading open source Big Data framework but recently the newer and more advanced Spark has become the more popular of the two Apache Software Foundation tools. 
+
+However they do not perform exactly the same tasks, and they are not mutually exclusive, as they are able to work together. Although Spark is reported to work up to 100 times faster than Hadoop in certain circumstances, it does not provide its own distributed storage system. 
+
+Distributed storage is fundamental to many of today’s Big Data projects as it allows vast multi-petabyte datasets to be stored across an almost infinite number of everyday computer hard drives, rather than involving hugely costly custom machinery which would hold it all on one device. These systems are scalable, meaning that more drives can be added to the network as the dataset grows in size. 
+
+As I mentioned, Spark does not include its own system for organizing files in a distributed way (the file system) so it requires one provided by a third-party. For this reason, many Big Data projects involve installing Spark on top of Hadoop, where Spark’s advanced analytics applications can make use of data stored using the Hadoop Distributed File System (HDFS). 
+
+What really gives Spark the edge over Hadoop is speed. Spark handles most of its operations “in memory” – copying them from the distributed physical storage into far faster logical RAM. This reduces the amount of time-consuming writing and reading to and from slow, clunky mechanical hard drives that need to be done under Hadoop’s MapReduce system. 
+
+MapReduce writes all of the data back to the physical storage medium after each operation. This was originally done to ensure a full recovery could be made in case something goes wrong – as data held electronically in RAM is more volatile than that stored magnetically on disks. However, Spark arranges data in what is known as Resilient Distributed Datasets, which can be recovered following failure. 
+
+Spark’s functionality for handling advanced data processing tasks such as real-time stream processing and machine learning is way ahead of what is possible with Hadoop alone. This, along with the gain in speed provided by in-memory operations, is the real reason, in my opinion, for its growth in popularity. Real-time processing means that data can be fed into an analytical application the moment it is captured, and insights immediately fed back to the user through a dashboard, to allow the action to be taken. This sort of processing is increasingly being used in all sorts of Big Data applications, for example, recommendation engines used by retailers, or monitoring the performance of industrial machinery in the manufacturing industry.
+
+Spark includes its machine learning libraries, called MLib, whereas Hadoop systems must be interfaced with a third-party machine learning library, for example, Apache Mahout. 
+
+Many of the big vendors (i.e. Cloudera) now offer Spark as well as Hadoop, so will be in a good position to advise companies on which they will find most suitable, on a job-by-job basis. For example, if your Big Data consists merely of a huge amount of very structured data (i.e customer names and addresses) you may not need the advanced streaming analytics and machine learning functionality provided by Spark. This means you would be wasting time, and probably money, having it installed as a separate layer over your Hadoop storage. Spark, although developing very quickly, is still in its infancy, and the security and support infrastructure is not as advanced. 
+
+## Data Quality
 
 Kaushak, Data Quality Sucks, Let’s Just Get Over It, (2006)
 Assume those managing the data have a level of comfort with the data;
