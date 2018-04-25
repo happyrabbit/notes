@@ -1,0 +1,46 @@
+--- 
+title: "Learn Unix"
+author: "Hui Lin"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: 
+  bookdown::gitbook:
+   config:
+     toc:
+       collapse: subsection
+       scroll_highlight: yes
+       before: null
+       after: null
+     toolbar:
+       position: fixed
+     edit : null
+     download: ["pdf", "epub", "mobi"]
+     search: yes
+     fontsettings:
+       theme: white
+       family: sans
+       size: 2
+     sharing:
+       facebook: yes
+       twitter: yes
+       google: no
+       weibo: no
+       instapper: no
+       vk: no
+       all: ['facebook', 'google', 'twitter', 'weibo', 'instapaper']
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is my notes on Unix"
+---
+
+```{r,echo=FALSE}
+# bookdown::render_book("index.Rmd", "bookdown::gitbook")
+```
+
+# Statement{-}
+
+This is my learning notes on Unix. It is initially from [Sean Kross](https://github.com/seankross)’ Coursera course “The Unix Workbench.” He has a [book](http://seankross.com/the-unix-workbench) with the same name. I will be adding material while I learn. The notes here only includes topics that I was not familiar with, or I want to understand in more detail.
+
+Thank you, Sean Kross, for getting me started with learning Unix systematically!

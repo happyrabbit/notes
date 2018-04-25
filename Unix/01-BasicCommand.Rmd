@@ -1,0 +1,163 @@
+# Basic Command Line
+
+## Hello Terminal!
+
+You type command line commands after the prompt.
+
+- Every command line command is actually a little computer program, even commands as simple as clear. These commands all tend to have the following structure:
+    
+```pre
+[command] [options] [arguments]
+```
+
+- Options are usually preceded by a hyphen (-) and they tweak the behavior of the command
+- `clear` will clean up your terminal.
+- `echo` prints text to your terminal. 
+
+```bash   
+echo 'Hello World!'
+```
+
+## Navigating the Command Line
+
+- `pwd` prints the working directory
+- `cd ..` changes the working directory to the folder above the current working directory
+- `cd ~/` goes to your home folder
+- `ls` command will list files and folders in a directory
+
+## Creation and Inspection
+
+- `mkdir` create a new directory (`mkdir week1`)
+- ` touch` create a blank file (`touch newfile.txt`)
+- `ls -l` get long listing of files in a directory
+
+```pre
+drwxr-xr-x  24 happyrabbit  staff   816 Oct 25 20:15 anaconda
+drwxr-xr-x  10 happyrabbit  staff   340 Jan 22  2015 nltk_data
+drwxr-xr-x  10 happyrabbit  staff   340 Mar 25  2016 scrapy-newagtalk
+-rw-r--r--   1 happyrabbit  staff   418 Sep 23 11:47 unknown-0.0-py36_0.tar.bz2
+```
+
+    > - There is a row in the resulting table for each file or folder. If the entry in the first column is a **d**, then the row in the table corresponds to a **d**irectory, otherwise the information in the row corresponds to a file.
+    > - The string of characters following the **d** in the case of a directory or following the first **-** in the case of a file represent the _**permissions**_ for that file or directory.
+    > - The columns of this table also show:      
+        (1) who created the file
+        (2) the group that the creator of the file belongs to
+        (3) the size of the file
+        (4) the time and date when the file was last modified
+        (5) then finally the name of the file
+
+- `wc` view the word count and other information about the file 
+```pre
+Huis-MacBook-Pro-2:happyrabbit.github.com happyrabbit$ wc Salt.html 
+      73     143    2342 Salt.html
+```
+
+    > The wc command displays the number of lines in a file followed by the number of words and then the number of characters. 
+- `cat` prints file to the console
+    > The `cat` command is often used to print text files to the terminal, despite the fact that it’s really meant to concatenate files. You can see this con**cat**enation in action in the following example: 
+    `cat Salt.html archive.html`
+- `less` view multi-page files
+    > you can scroll up and down the file line-by-line using the up and down arrow keys, and if you want to scroll faster you can use the spacebar to go to the next page and the b key to go to the previous page. 
+    > - In order to quit less and go back to the prompt press the **q** key.
+- You can specify the number of lines printed with the -n option followed by the number of lines you’d like to see:
+        `head -n 4 Salt.html`
+- The `tail` program works exactly the same way: `tail -n 4 Salt.html`
+
+### More on creating and editing files
+
+One easy way to create a file is using output redirection. Output redirection stores text that would be normally printed to the command line in a text file. You can use output redirection by typing the greater-than sign (>) at the end of a command followed by the name of the new file that will contain the output from the proceeding command. Let’s try an example using echo:
+
+```{bash}
+echo "I am in the file." > archive.html
+cat archive.html
+```
+
+ou can also append text to the end of a file using two greater-than signs (>>). Let’s try this feature out:
+
+```{bash}
+echo "I have been appended." >> archive.html
+cat archive.html
+```
+
+Unfortunately I have unintentionally overwritten what was already contained in archive.html. There’s no undo button in Unix so I’ll have to live with this mistake. Luckly, I am using Github so that I can recover. This is the first of several lessons demonstrating the damage that you should try to avoid inflicting with Unix. Make sure to take extra care when executing commands that can modify or delete a file, a typo in the command can be potentially devastating. Thankfully there are a few strategies for protecting yourself from mistakes, including managing permissions for files, and tracking versions of your files with Git.
+
+Finally we should discuss how to edit text files. There are several file editors that are available for your terminal including `vim` and `emacs`. Entire books have been written about how to use both of these text editors, and if you’re interested in one of them you should look for resources online about how to use them. The one text editor we will discuss using is called nano. Just like less, nano uses your entire terminal window. Let’s edit todo.txt using `nano`:
+
+```bash
+nano archive.html
+```
+
+Once you’ve started `nano` you can start editing the text file. The top line of the `nano` editor shows the file you’re currently working on, and the bottom two lines show a few commands that you can use in nano. **The carrot character (^) represents the Control key on your keyboard**, so you can for example type `Control + O` in order to save the changes you’ve made to the text file, or `Control + X` in order to exit `nano` and go back to the prompt.
+
+### Summary
+
+- Use `mkdir` to create new directories.
+- The `touch` command creates empty files.
+- You can use `>` to redirect the output of a command into a file.
+- `>>` will append command output to the end of a file.
+- Print a text file to the command line using `cat`.
+- Inspect properties of a text file with `wc`.
+- Peak at the beginning and end of a text file with `head` and `tail`.
+- Scroll through a large text file with `less`.
+- `nano` is simple text editor.
+
+## Migration and Destruction
+
+### moving
+
+- Make a new directory to store `readme.txt`
+
+```bash
+mkdir Journal
+mv readme.txt Journal
+```
+
+- move `Journal` directory into the `Others` folder
+
+```bash
+mv Journal Others
+```
+
+### renaming
+
+- You can use `mv` to rename files and folders
+
+```bash
+mv readme.txt readme_new.txt
+```
+
+### copying
+
+- `cp` command copies a file or folder from one location to another
+
+```bash
+cp readme.txt Desktop
+```
+
+-  when copying folders you need to specify the `-r` option, which is short for `recursive`. This ensures that the underlying directory structure of the directory you wish to copy remains intact. Let’s try copying my `Documents` directory into the `Desktop` directory:
+
+```bash
+cp -r Documents Desktop
+```
+
+### deleting
+
+- **A word of extreme caution**: in general I don’t recommend deleting files or folders on the command line because there is no undo button on the command line. If you delete a file that is critical to your computer functioning you may cause irreparable damage. I highly recommend moving files or folders to a designated trash folder and then deleting them the way you would normally delete files and folders outside of the command line (The path to the Trash Bin is **`~/.Trash`** on Mac and **`~/.local/share/Trash`** on Ubuntu). If you decide to delete a file or folder on your computer make absolutely sure that the command you’ve typed is correct before you press Enter. If you do delete a file or folder by accident stop using your computer immediately and consult with a computer professional or your IT department so they can try to recover the file.
+
+```bash
+rm readme.txt
+```
+
+- `rm` command requires you to use the -r option when deleting entire directories:
+
+```bash
+# create a new folder
+mkdir RemoveMe
+# add new files to the folder
+touch RemoveMe/file1.txt
+touch RemoveMe/file2.txt
+touch RemoveMe/file3.txt
+# remove the folder
+rm -r RemoveMe
+```

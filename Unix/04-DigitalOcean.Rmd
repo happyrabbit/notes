@@ -1,0 +1,55 @@
+# Use DigitalOcean to setup your Shiny App
+
+- Sign up for DigitalOcean
+- Create a new Droplet
+- (Optional) Set Up SSH Keys: https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2
+- Create a Sudo User: https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart
+
+- Error Permission denied solution:
+    - Add ssh keys to the new user: https://www.digitalocean.com/community/questions/error-permission-denied-publickey-when-i-try-to-ssh
+
+- Connect to computers on the internet with the ssh (Secure Shell) program
+
+```pre
+ssh [username]@server_ip_address
+```
+
+- installing R on ubuntu:  https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-16-04-2
+- Download RStudio Server: https://www.rstudio.com/products/rstudio/download-server/
+- Download Shiny Server: https://www.rstudio.com/products/shiny/download-server/
+- Install Shiny: https://www.digitalocean.com/community/tutorials/how-to-set-up-shiny-server-on-ubuntu-14-04
+- Swap space (look at the fast way):
+https://www.digitalocean.com/community/tutorials/how-to-add-swap-on-ubuntu-14-04
+
+- Stop and start shiny server:
+
+```pre
+sudo systemctl stop shiny-server
+sudo systemctl start shiny-server
+```
+
+- Change the conf file:
+
+```pre
+sudo nano etc/shiny-server/shiny-server.conf
+```
+
+- Upload local app code:
+
+```pre
+scp [local file] [username]@server_ip_address:~/
+```
+
+- Make a new directory and move the app to the folder:
+
+```pre
+sudo mkdir [new folder name]
+# we upload the file from local to ~/
+cd ~
+mv ~/[file name]/srv/shiny-server/sample-apps/[new folder name]
+```
+
+Questions:
+
+- how do they charge
+- Destroy v.s. turn off
