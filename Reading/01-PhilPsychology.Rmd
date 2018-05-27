@@ -1651,20 +1651,34 @@ Hui: 这些好像有重复？寻根，身份感以及定位都是为了定义自
 
 ## Maxims 
 
-The constancy of the wise is only the talent of concealing the agitation of their hearts.
-Neither the sun nor death can be looked at without winking.[直视太阳和死亡，不能不眨眼。]
-If we had no pride we should not complain about that of others.
-We have not enough strength to follow all our reason
-We are never so happy or so unhappy as we suppose.
-What grace is to the body, good sense is to the mind.[优雅之于身体，犹如良知之于精神。]
-Our distrust of another justifies his deceit.
-In the intercourse of life, we please more by our faults than by our good qualities.
-There are different kinds of curiosity: one springs from interest, which makes us desire to know everything that may be profitable to us; another from pride, which springs from a desire of knowing what others are ignorant of.
-There are relapses in the diseases of the mind as in those of the body; what we call a cure is often no more than an intermission or change of disease.
-We easily forget those faults which are known only to ourselves.
-Sovereign ability consists in knowing the value of things.
-There is great ability in knowing how to conceal one’s ability.
-Interest sets at work all sorts of virtues and vices.
+- The constancy of the wise is only the talent of concealing the agitation of their hearts.
+
+- Neither the sun nor death can be looked at without winking.[直视太阳和死亡，不能不眨眼。]
+
+- If we had no pride we should not complain about that of others.
+
+- We have not enough strength to follow all our reasons
+
+- We are never so happy or so unhappy as we suppose.
+
+- What grace is to the body, good sense is to the mind.[优雅之于身体，犹如良知之于精神。]
+
+- Our distrust of another justifies his deceit.
+
+- In the intercourse of life, we please more by our faults than by our good qualities.
+
+- There are different kinds of curiosity: one springs from interest, which makes us desire to know everything that may be profitable to us; another from pride, which springs from a desire of knowing what others are ignorant of.
+
+- There are relapses in the diseases of the mind as in those of the body; what we call a cure is often no more than an intermission or change of disease.
+
+- We easily forget those faults which are known only to ourselves.
+
+- Sovereign ability consists in knowing the value of things.
+
+- There is great ability in knowing how to conceal one’s ability.
+
+- Interest sets at work all sorts of virtues and vices.
+
 Humility is often a feigned （ 假装的）submission which we employ to supplant others. It is one of the devices of pride to lower us to raise us; and truly pride transforms itself in a thousand ways, and is never so well disguised and more able to deceive than when it hides itself under the form of humility. [谦卑往往是一种假装的顺从，人们利用它来排挤掉别人。谦虚还是骄傲的一种诡计，它以退为进，以贬求扬。虽然骄傲形式各异，却没有任何一种能比隐藏在谦卑的形象下更具隐蔽性和欺骗性了。]
 Good taste arises more from judgment than wit. [良好的品味更多来自判断而非理性]
 What we call liberality is often but the vanity of giving which we like more than that we give away. [被称之为“慷慨”，往往不过是赠予者的虚荣心，人们对这种虚荣心花费的心思远远超过自己所赠送出去的东西]
@@ -3519,22 +3533,40 @@ Tartakovsky, M. (2013). 3 Myths about vulnerability. Psychology Central.
 
 Barnum Effect: To be seen as accurate, astrology and graphology do not have to be accurate. Instead, you simply give people a general statement about personality and their brains will trick them into believing that it is insightful and individual. In the 1950s, the psychologist Paul Meehl christened Forer’s original finding the “Barnum Effect”, after that American showman Phineas Taylor Barnum, who once famously said that any good circus should have something for everyone. Many Barnum statements appear accurate because most people tend to think and behave in surprisingly predictable ways. [From Quirkology]
 
+## 王阳明/人生即修行
+
+- 偏执的人大都不喜欢与人沟通，没有同理心，只是专注于自己的目标和理想，固执己见，心外无物，无人。......总能把不相关的事物硬塞到自己追求的逻辑中来。......沉下心做一件事，就必须要做到极致。
+
+- 如果不能消灭负面情绪，就转移到正面情绪中去。
+
+
+
 ## 治心经（曾国藩）
 
-思胸襟广大，宜从“平，淡”二字用功。凡人我之际，须看得平，功名之际，须看得淡。庶几（连词，表示在上述情况之下才能避免某种后果或实现某种希望）胸怀日阔，咬得菜根百事可做，世味淡薄，身心无累。
-以庄子之道自怡，以荀子之道自克。
-庄子：闻在宥（宽恕）天下，不闻治天下也。
-心无定旨，人如浮萍，终将无成。七情所偏，惟怒尤甚。须涵养其气质，广大其心胸。先事常思，情恕理遣。
-人情难知，天道难测，别处得事情不要毫无忌惮的大加议论。
-世路多歧未许游，得休休处且休休。
-鱼不忍饥钩上死，鸟因贪食网中亡。——韩贞
-平时不能耐，不能静，所以致病也。
-天下之事，有其功必有其效，功未至而求效之遽（ju 匆忙，急）臻，则妄矣。
-成功与失败之间往往是一步之遥，进则花团锦簇，退则万丈深渊。——梁启超
-古今庸人，以惰字败。古今才人，以傲字败。
-欲动天下者，先动天下心。——毛泽东
-一毫之拂，即勃然而怒；一事之违，即愤然而发；一善之长，即为炫暴；一言之誉，即为动容。皆无涵养之力，薄福之人也。昔人谓量随识长，闻事不喜不惊，乃可以当大事。
-3.77 心理学文章
+- 思胸襟广大，宜从“平，淡”二字用功。凡人我之际，须看得平，功名之际，须看得淡。庶几（连词，表示在上述情况之下才能避免某种后果或实现某种希望）胸怀日阔，咬得菜根百事可做，世味淡薄，身心无累。
+
+- 以庄子之道自怡，以荀子之道自克。
+> 庄子：闻在宥（宽恕）天下，不闻治天下也。
+
+- 心无定旨，人如浮萍，终将无成。七情所偏，惟怒尤甚。须涵养其气质，广大其心胸。先事常思，情恕理遣。
+
+- 人情难知，天道难测，别处得事情不要毫无忌惮的大加议论。
+
+- 世路多歧未许游，得休休处且休休。
+
+- 鱼不忍饥钩上死，鸟因贪食网中亡。——韩贞
+
+- 平时不能耐，不能静，所以致病也。
+
+- 天下之事，有其功必有其效，功未至而求效之遽（ju 匆忙，急）臻，则妄矣。
+
+- 古今庸人，以惰字败。古今才人，以傲字败。
+
+- 欲动天下者，先动天下心。——毛泽东
+
+- 一毫之拂，即勃然而怒；一事之违，即愤然而发；一善之长，即为炫暴；一言之誉，即为动容。皆无涵养之力，薄福之人也。昔人谓量随识长，闻事不喜不惊，乃可以当大事。
+
+## 心理学文章
 
 ### What makes things cool?
 
