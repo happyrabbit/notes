@@ -1,0 +1,25 @@
+# SELECT EMPLOYEE WHO ARE MANAGER.
+
+SELECT DISTINCT e.EmpId AS 'ManagerId', e.EmpName AS 'ManagerName'
+FROM Employees e, Employees m WHERE e.EmpId = m.ManagerId
+
+# SELECT ALL MANAGER NAME WITH THERE TOTAL SUBORDINATES EMPLOYEES.
+
+SELECT COUNT(emp.EmpId) AS 'EmployeeCount', mng.ManagerName AS 'ManagerName'
+FROM employees emp,
+(SELECT DISTINCT e.EmpId AS 'ManagerId', e.EmpName AS 'ManagerName'
+ FROM employees e, employees m
+ WHERE e.EmpId = m.ManagerId) mng
+WHERE emp.ManagerId = mng.ManagerId
+GROUP BY mng.ManagerId, mng.ManagerName
+
+# SELECT ALL MANAGER NAME WHOSE TOTAL SUBORDINATES
+# EMPLOYEES ARE GREATER THAN 1.
+
+SELECT COUNT(emp.EmpId) AS 'EmployeeCount', mng.ManagerName AS 'mng_name'
+FROM employees emp,
+(SELECT DISTINCT e.EmpId 'ManagerId', e.EmpName AS 'ManagerName'
+ FROM employees e, employees m
+ WHERE e.EmpId = m.ManagerId) mng
+WHERE emp.ManagerId = mng.ManagerId
+GROUP BY mng.ManagerId,mng.ManagerName HAVING COUNT(emp.EmpId) > 1;
