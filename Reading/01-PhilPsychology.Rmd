@@ -1275,7 +1275,7 @@ Part Four: The end
 
 （1）运用经验法则。当人们掌握一些知识但却未曾认真梳理时，经常会混淆自己的判断。 反过来，如果保持适度的盲目无知，积极运用已有的经验探索，反倒能显著增大选择正确的几率。这里的“盲目无知”指的是一种“简单、简化”，就像爱因斯坦说的“凡事力求简单”。
 
-<font color = "blue">Hui: 不明白，这里所谓的经验法则是什么鬼？这里所谓的“简单、简化”也太笼统了，如何“简化”问题本身就是很难获得的能力，不然怎么只有一个爱因斯坦？这里给的建议和没有建议一样。好像再说，面对风险的好决策就是积极探索找到好决策。</font>
+<font color = "blue">Hui: 不明白，这里所谓的经验法则是什么鬼？这里所谓的“简单、简化”也太笼统了，如何“简化”问题本身就是很难获得的能力，不然怎么只有一个爱因斯坦？这里给的建议和没有建议一样。好像说，面对风险的好决策就是积极探索找到好决策。</font>
 
 （2）运用直觉。直觉也是经验法则的一种形式。它具备3个要点：1）直觉比意识快，往往会第一时间产生；2）我们并不知道为什么会产生这种感觉；3）这种感觉很强烈，促使我们立即采取行动。
 
@@ -1285,7 +1285,7 @@ Part Four: The end
 
 ## How Women Decide 
 
-Therese Huston: cognitive psychologist
+> Therese Huston: cognitive psychologist
 
 How Women Decide examines a much overlooked truth: men and women approach decisions differently, and often in surprising ways. Stress? It makes women more focused. Confidence? Caution can lead to stronger decisions. And despite popular misconceptions, women are just as decisive as men—though they may pay for it. Pulling from the latest science on decision-making, as well as lively stories of real women and their experiences, Huston teaches us how we can best shape our habits, perceptions, and strategies, not just to make the most of our own opportunities, but to reshape the culture and bring out the best decisions—regardless of who’s making them.
 
