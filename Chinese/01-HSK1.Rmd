@@ -1,6 +1,47 @@
 # HSK 1
 
 ## Week1: Greetings and numbers
+### Lesson 1: 你好 : )
+
+1	你好	nǐ hǎo	hello
+2	叫	jiào	to call
+3	什么	shénme	what
+4	名字	mínɡzi	name
+5	我	wǒ	I, me
+6	很	hěn	very
+7	高兴	ɡāoxìnɡ	happy
+8	认识	rènshi	to know
+
+A: Nǐ hǎo！
+你 好！Hello!
+
+B: Nǐ hǎo！
+你 好！Hello!
+
+A: Nǐ jiào shénme mínɡzi？
+你 叫 什 么 名 字？What is your name?
+
+B: Wǒ jiào Tínɡnà. Nǐ jiào shénme mínɡzi？
+我 叫 婷 娜。你 叫 什 么 名 字？I am Tingna. What is your name?
+
+A: Wǒ jiào Xùdōnɡ. Hěn ɡāoxìnɡ rènshi nǐ.
+我 叫 旭 东。很 高 兴 认 识 你! I am Xudong. Nice to meet you!
+
+B: Hěn ɡāoxìnɡ rènshi nǐ.
+很 高 兴 认 识 你。Nice to meet you!
+
+### Lesson 2: 你是哪国人？
+
+1	是	shì	to be
+2	哪	nǎ	which
+3	国	ɡuó	country or nation
+4	人	rén	person or people
+5	中国	Zhōnɡɡuó	China
+6	*美国	Měiɡuó	The United States of America
+7	她	tā	she
+8	也	yě	also
+
+### Lesson 3: 你多大了？
 
 ## Week2: Family and school/university
 
