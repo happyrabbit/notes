@@ -10,10 +10,12 @@ The author discussed the cause and effects of division of labour.
 
 The division of labour arises from a propensity in human nature to exchange [分工不是人类智慧的结晶，是因为我们需要互相帮忙，人类这种需要交换的趋势促成了分工的产生。]
 The division of labour (not natural differences) gives rise to differences of talent. [分工导致了人们在不同事业不同领域表现各种才能，而不是天赋的差异导致分工]
+
 10.1.1.2 Of the Principle which gives Occasion to the Division of Labour [论分工如何受到市场范围的限制]
 
 分工的程度会被当时的交换能力限制住，而分工又起因于交换能力，当然这个范围限制决定了分工的范围。市场小：不鼓励专一职业。因为人们没有能力把自己消费不了的劳动产品中的剩余部分哪去交换别人的剩余物品。
-10.2 Principles of Economics [Alfred Marshall]
+
+## Principles of Economics [Alfred Marshall]
 
 10.2.1 Introduction
 
@@ -23,7 +25,8 @@ Hui: I agree. Religion and economy set the frame.
 10.2.2 The substance of economics
 
 Economics is a study of men as they live and move and think in the ordinary business of life. But it concerns itself chiefly with those motives which affect, most powerfully and most steadily man’s conduct in the business part of his life……the steadiest motive to ordinary business work is the desire for the pay which is the material reward of work.
-10.3 Fishing for Phools (钓愚)
+
+## Fishing for Phools (钓愚)
 
 一、古今中外的诈骗案例
 
@@ -31,6 +34,7 @@ Economics is a study of men as they live and move and think in the ordinary busi
 这类诈骗主要利用信息的不对称，故意隐瞒信息来骗人，也就是我们平常说的下套，故意布个局让别人往里跳。
 
 心理型诈骗 这类骗局通常就比较难识别，或者说就算你识别了，你也没有办法摆脱，因为骗子会让被骗的人觉得“这是我心甘情愿做的决定，这是我的自由意志做的决定”。
+
 二、我们被骗的原因：我们之所以总被骗，是因为我们每个人身上都有弱点。
 
 特别崇尚礼尚往来
@@ -38,6 +42,7 @@ Economics is a study of men as they live and move and think in the ordinary busi
 不喜欢挑战权威：电视上的那些推销广告，他们一定要反复地说：我这个产品有什么权威机构认证过，有什么人给我代言。他们就喜欢利用权威来博取别人的信任。
 喜欢随大流：周边的人买我们也会更容易买。
 损失厌恶
+
 三、行骗行业的十诫：
 
 （1）永远要耐心地倾听对方。
@@ -51,41 +56,23 @@ Economics is a study of men as they live and move and think in the ordinary busi
 （9）永远要衣冠整洁。
 （10）永远不要喝醉。
 
-10.4 Critical Perspectives on Management [MOOC]
+## Critical Perspectives on Management [MOOC]
 
-A firm is an organizational solution to a transaction cost problem.—–Ronald Coase
+> A firm is an organizational solution to a transaction cost problem.—–Ronald Coase
 
-Principal-agent problem describes the difficulties that arise when there is a divergence of interests between two parties, where one party is contracted to act in the best interests of the other. [For example: the people who want the profits, and the people who have to go make the profits]
+> Principal-agent problem describes the difficulties that arise when there is a divergence of interests between two parties, where one party is contracted to act in the best interests of the other. [For example: the people who want the profits, and the people who have to go make the profits]
 
-Rome: a city of a million people, the largest, twice as large as the next largest city, lasted for half a millennium.
-In order to maintain that size. It has to be the beneficiary of a very successfully functioning market.
-When we look at the market itself that provided grain to Rome, we see a problem. We see a market that is characterized by
-persistent informational uncertainty
-doesn’t have the information that it needs
-a market that we would predict cannot function.
-We did our Gedankenexperiment (thought experiment). We gave the market the information that it needed and we did so quite well. But the problem was that when Fernando then went into the bakery in Rome to buy his bread. So, no functioning market. What is the problem?
-we have an entrepreneurial driven market, so in other words when we have individual intermediaries in the market, the result is unacceptably high transaction costs.
-The mechanism that we use to control for transaction cost, and I suggested the Coaseian framework from 1937. The nature of the firm is simply an organizationally efficient response to a transaction cost problem. It’s cheaper in the end, to use the market by domesticating those transaction costs. Under the umbrella of a single organization. And so that the entrepreneur moves within the organization and the coordination of production then takes place under the mantle of that organization. That solves for the cost problems. And we saw then that the Romans had these found institutions that enabled their market to function. So they have a robust legal frame work, which allows them to sign contracts in triplicate, and actually in force the terms of contractual obligation. They also have these ability to measure, to impose quality control mechanisms which allow for the grain to move in you know you could be confident that it is what you’re contracting for. But most importantly, they had a mechanism of slavery. This idea that slavery is a found institution, that is to say an institution that predates the rise of the Roman corporation, turned out to be a very useful mechanism to control the fundamental problem of agency that a firm inevitably engenders. That is to say, when I give somebody my money. How do I know that, that person is going to go out and use it well and efficiently? How do I know they’re not just going to take it and buy themselves a nice yacht or a nice house or hire their friends or whatever. How do I know? The answer to that we would say is monitoring. I monitor what those agents do.
-10.5 Content Strategy [MOOC]
+- Rome: a city of a million people, the largest, twice as large as the next largest city, lasted for half a millennium.
+    - In order to maintain that size. It has to be the beneficiary of a very successfully functioning market.
+    - When we look at the market itself that provided grain to Rome, we see a problem. We see a market that is characterized by
+        - **persistent informational uncertainty**
+        - doesn’t have the information that it needs
+        - a market that we would predict cannot function.
+    - We did our **Gedankenexperiment** (thought experiment). We gave the market the information that it needed and we did so quite well. But the problem was that when Fernando then went into the bakery in Rome to buy his bread. So, no functioning market. What is the problem?
+        - we have an entrepreneurial driven market, so in other words when we have individual intermediaries in the market, the result is unacceptably high transaction costs.
+        - The mechanism that we use to control for transaction cost, and I suggested the Coaseian framework from 1937. The nature of the firm is simply an organizationally efficient response to a transaction cost problem. It’s cheaper in the end, to use the market by domesticating those transaction costs. Under the umbrella of a single organization. And so that the entrepreneur moves within the organization and the coordination of production then takes place under the mantle of that organization. That solves for the cost problems. And we saw then that the Romans had these found institutions that enabled their market to function. So they have a robust legal frame work, which allows them to sign contracts in triplicate, and actually in force the terms of contractual obligation. They also have these ability to measure, to impose quality control mechanisms which allow for the grain to move in you know you could be confident that it is what you’re contracting for. But most importantly, they had a mechanism of slavery. This idea that slavery is a found institution, that is to say an institution that predates the rise of the Roman corporation, turned out to be a very useful mechanism to control the fundamental problem of agency that a firm inevitably engenders. That is to say, when I give somebody my money. How do I know that, that person is going to go out and use it well and efficiently? How do I know they’re not just going to take it and buy themselves a nice yacht or a nice house or hire their friends or whatever. How do I know? The answer to that we would say is monitoring. I monitor what those agents do.
 
-10.5.1 Ensuring Your Content’s Impact
-
-10.5.1.1 Theory and Practice of Visual Communication
-
-Visual Communication is important
-Gestalt theory: You grasp the totality of something before you worry about the details. Gestalt psychology claims that there exits a fundamental unity among the external structure, artistic form, human consciousness organization and the internal feelings.
-10.5.1.2 Ways to Implement Visual Communication
-
-Text and Typography
-Two major categories of typefaces:
-Serif [英文字体(Typeface)，衬线(指字母主线外起装饰作用的细线，如I上下两端的细线、T左右两端的细线等)]: Times New Roman, Garamond
-Sans Serif [没有Serif, more modern and clean]: Helvetica, Ariel
-Size and Weight
-Kerning [space between letters]: make something breathe or suffocate [压制,阻碍] it
-Leading [space between lines]: content readability [how easy your eyes pick up the next line]
-Padding: can be abused and make things hard to read
-Capitalization: like yelling on the Internet
-10.6 Shareology [分享时代]
+## Shareology [分享时代]
 
 Sharelogy explores the history, art and science of sharing, and illustrates why sharing is what gives us a unique competitive advantage as individuals and brands.
 
@@ -115,9 +102,15 @@ Sharelogy explores the history, art and science of sharing, and illustrates why 
 
 【案例】冰桶挑战(Ice Bucket Challenge)
 
-被疯狂转发的视频符合哪些特征？ 秘诀一，你有一个简单的概念吗？是的，把冰水浇在你的头上，捐款，就这么简单。
+被疯狂转发的视频符合哪些特征？
+
+秘诀一，你有一个简单的概念吗？是的，把冰水浇在你的头上，捐款，就这么简单。
+
 秘诀二，有计划么？对于这个案例来说，计划就是完成挑战的强大感召力，挑战者有24小时完成冰桶挑战。
-秘诀三，他邀请人们参与了吗？当然，这个活动在营造“归属感”方面简直登峰造极——每个视频都会点名三个人，视频会分享在社交网站上，所有朋友都会看到。你在观看的同时，也许就在等着某个人点你的名呢。 秘诀四，不断完善。随着时间的发酵，人们期盼更多乐趣，个人挑战已经无法满足公众了，大家开始以团队的身份互相挑战，所有美国国家橄榄队联盟的球队都在挑战其他队！
+
+秘诀三，他邀请人们参与了吗？当然，这个活动在营造“归属感”方面简直登峰造极——每个视频都会点名三个人，视频会分享在社交网站上，所有朋友都会看到。你在观看的同时，也许就在等着某个人点你的名呢。 
+
+秘诀四，不断完善。随着时间的发酵，人们期盼更多乐趣，个人挑战已经无法满足公众了，大家开始以团队的身份互相挑战，所有美国国家橄榄队联盟的球队都在挑战其他队！
 
 五、让每位员工成为影响者
 
@@ -133,7 +126,9 @@ Sharelogy explores the history, art and science of sharing, and illustrates why 
 
 六、把握分享时机的标准就是，受众是否会“产生共鸣”
 
-何时分享才是最佳时间？你可以在社交网络多发布几条状态来测试，比如，你可能发现，在星期六大家的积极性并不高，因为大多数人忙于各自的事情无法关注你的分享，这样，你就要在除周六的时间多做测试。你需要通过耐心地测试找到自己的最佳频率。 当然，你分享的内容和频率都应该适度，并不是越多越好。第一时间公布好消息可能会产生负面效果，大大降低分享的影响力，好消息的分享和公布需要事先进行合理安排，坏消息也一样。衡量你分享的信息量是否超标的标准就是，受众是否会“产生共鸣”，过剩了就会把关注者们都吓跑。除非你对某些事情知道的比我多得多，否则我对你说的话可没什么兴趣，我们已经掌握了太多信息了。
+何时分享才是最佳时间？你可以在社交网络多发布几条状态来测试，比如，你可能发现，在星期六大家的积极性并不高，因为大多数人忙于各自的事情无法关注你的分享，这样，你就要在除周六的时间多做测试。你需要通过耐心地测试找到自己的最佳频率。
+
+当然，你分享的内容和频率都应该适度，并不是越多越好。第一时间公布好消息可能会产生负面效果，大大降低分享的影响力，好消息的分享和公布需要事先进行合理安排，坏消息也一样。衡量你分享的信息量是否超标的标准就是，受众是否会“产生共鸣”，过剩了就会把关注者们都吓跑。除非你对某些事情知道的比我多得多，否则我对你说的话可没什么兴趣，我们已经掌握了太多信息了。
 
 Hui: how to figure out the right time/content/prequency?
 
@@ -155,7 +150,7 @@ Hui: how to figure out the right time/content/prequency?
 
 当所有人都可以毫无顾忌地浏览信息并且随时分享自己的信息，我们才真正变成一个整体。我们将会有能力做到任何事，从缝补裤子上的一个小洞到让地球上的每一个人喝上纯净水。届时我们会非常清楚一件事该由谁去做。现在这一构想正被一针一针地缝进我们的社会中，而我们在迈进的终点，将会是分享型社会的幕布在徐徐拉开。
 
-10.7 Known
+## Known
 
 关于本书: 在如今信息过剩的时代，本书颠覆性地分析了“内容不再是王道”的观点，揭示了内容引爆背后的秘密，并告诉你打造爆款内容的具体策略和步骤。
 
@@ -190,6 +185,7 @@ Hui: how to figure out the right time/content/prequency?
 想强化或者培养某种关系；
 在有自我成就感的时候去转发；
 当内容是讨论某种理想或者品牌的时候
+
 （4）在内容里加入一点个性
 
 比如，“三个玉米的食谱”就比“玉米如何拯救了我枯燥的晚餐”这个标题更容易让人点击和分享。
@@ -234,7 +230,8 @@ Hui: how to figure out the right time/content/prequency?
 人们愿意不愿意转发一篇文章，和这篇文章所涉及的行业有密切关系。换句话说，选题本身就决定了文章的传播量。
 作为内容创业者，一定要考虑自己创作的内容能不能成为分享者穿在身上的衣服，能不能给他们一个标签。
 和粉丝建立信任是特别难的一件事，但是如果能利用好互惠原理，就能更快速地和用户建立信任。
-10.8 The Attention Merchants
+
+## The Attention Merchants
 
 1883, Benjamin Day, New York Sun
 
@@ -330,7 +327,7 @@ Hui: how to figure out the right time/content/prequency?
 
 当今时代吸引注意力越来越难，黄金时间也远不如前。
 
-10.9 The Essential Drucker (德鲁克管理思想精要)
+## The Essential Drucker (德鲁克管理思想精要)
 
 这本“精华”集合了德鲁克60年来十余本经典著作的思想，从管理、个人和社会三个角度来讲述管理学。分别对应三个最有影响力的理念，分别是“目标管理”“知识工作者”和“企业社会责任”。
 
@@ -374,7 +371,7 @@ Hui: how to figure out the right time/content/prequency?
 
 当然，企业的社会责任和职权都有限度。企业为了“做对事”，必须要先“做得好”。企业的首要社会责任就是执行其职能，因为企业正是为了这种职能和贡献才存在的，忽略了这一点，盲目承担超出其能力范围的责任，或者以承担社会责任为名来谋取利益，才是对社会最大的不负责任。
 
-10.10 Blockbuster(爆款)
+## Blockbuster(爆款)
 
 这是一本关于IP运营与产品管理方法的教科书，是翻转长尾理论的重要著作。作者采访大量公司，收集大量真实案例改编而成。
 
@@ -394,6 +391,7 @@ IP是什么？
 大规模发行，也叫做主流发行。特点是全面、大规模、火力全开的全网覆盖，比有限发行更容易成功。因为宣传的范围比较广，铺天盖地的，你想不知道都难。
 
 如何投资超级明星及其回报
+
 （1）投资巨星
 
 娱乐产品的一项重要组成部分就是明星。很多时候，我们就是冲着明星去的。明星自己就是品牌，是IP。他们有自己的粉丝，资源，能帮助实现IP到利润的转化。产品的潜在关总群越庞大，可利用的收益渠道越丰富。
@@ -416,9 +414,9 @@ IP是什么？
 
 IP在未来会成为真实世界的商业入口。如果你不理解IP，也不会利用这些IP，那么你就会和这一拨机会擦肩而过。
 
-10.11 Luxury Marketing (奢侈品营销)
+## Luxury Marketing (奢侈品营销)
 
-10.11.1 Demand curve: why doesn’t Hermes want you to buy their amazingly expensive bag? (1843)
+Demand curve: why doesn’t Hermes want you to buy their amazingly expensive bag? (1843)
 
 Veblen Good: 韦伯伦商品价格越高需求越大。
 
@@ -430,9 +428,8 @@ Veblen Good: 韦伯伦商品价格越高需求越大。
 
 关于“炫耀式消费”，经济学家有个更加中性的称呼“发信号 (sending signal)”。
 
-10.12 品牌洗脑 [Brand Washed, Martin Lindstrom]
 
-10.13 关键时刻 (Moments of Truth)
+## 关键时刻 (Moments of Truth)
 
 关于本书作者：
 
