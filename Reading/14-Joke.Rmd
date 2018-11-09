@@ -316,6 +316,7 @@ He now works for Microsoft, writing error messages.
 The Physicist says: “The measurement wasn’t accurate.”
 The Biologist concludes: “They have reproduced.”
 The Mathematician says: “Now if another person enters the house, it’ll be empty again.”
+
 Hui: Mathematical induction?! Statistician would say:“The sample size is too small to get any conclusion.” Statistician can never be wrong because all is chance : )
 
 Mark Twain once said, “The coldest winter I ever had was one summer in San Francisco.” [from Prof. Norm Matloff]
@@ -338,13 +339,14 @@ Engineers think that equations approximate the real world.
 Scientists think that the real world approximates equations.
 Mathematicians don’t care.
 
-An engineer, a physicist, and a mathematician were on a train heading north, and had just crossed the border into Scotland.
+- An engineer, a physicist, and a mathematician were on a train heading north, and had just crossed the border into Scotland.
 The engineer looked out of the window and said “Look! Scottish sheep are black!”
+
 The physicist said, “No, no. Some Scottish sheep are black.”
 The mathematician looked irritated. “There is at least one field, containing at least one sheep, of which at least one side is black.”
-The statistician : “It’s not significant. We only know there’s one black sheep”
-The computer scientist : “Oh, no! A special case!”
-Neuroscientist joke: the hypothalamus regulates the four essential F’s of life: flighting, fleeing, feeding and mating. [T.S]
+The statistician : “It’s not significant. We only know there’s one black sheep” The computer scientist : “Oh, no! A special case!”
+
+- Neuroscientist joke: the hypothalamus regulates the four essential F’s of life: flighting, fleeing, feeding and mating. [T.S]
 
 (This one was told by the famous statistician Manny Parzen.) A university class was taking a multiple-choice exam. One student was busy flipping a coin to determine his answers. Even after all the other students finished the exam and left, the student was still flipping the coin. The professor said, “I can’t stop you from flipping the coin, but everyone else is done.” The student answered, “Oh, I’m done too. I’m just checking my answers.” [from Prof. Norm Matloff]
 
