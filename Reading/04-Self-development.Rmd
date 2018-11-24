@@ -259,6 +259,125 @@ Henri Poincare: 混沌理论告诉我们，初始条件的一个极小的差异�
 
 总的说来，将知识进行融合的关键是能够洞察出知识背后的深层结构。在表面上不相干的知识背后，发现潜在的相似性、互补性和启发性，找到知识与知识间隐含的联系。
 
+###  How to Solve It?
+
+1. Understand the problem
+
+- What is the unknown?
+- What are the data?
+- What is the condition?
+
+1. Devise A Plan
+
+- How the various items are connected?
+- How the unknown is linked to the data?
+- Is there any related problem?
+
+Mere remembering is not enough for a good idea, but we cannot have any good idea without recollecting some pertinent facts.
+
+1. Carry Out Plan
+
+- Check each step
+
+1. Replay
+
+- Can you check the result?
+- Can you derive the result differtly?
+- Can you check the argument?
+- Can you see it at a glance?
+- Can you use the result, or the method for some other problem?
+
+### Learning How to Learn [MOOC]
+
+#### What is Learning?
+
+- Two modes:
+
+1. focused mode: centered in the prefrontal cortex, involve thinking about things you are somewhat familiar with.
+2. diffuse mode: broad-ranging perspective, representative of the brain’s many neural resting state
+
+It often takes time for neural processing to take place, and time as well to build the new neural structures that allow us to learn something new. It’s through practice and repetition that we can help enhance and strengthen the neural structures we’re building as we’re learning something new. Practice and repetition is particularly important for more abstract topics.
+
+- Tackle procrastination
+  1. Pomodoro technique: brief 25 minute stretch of focused concentration, followed by a bit of mental relaxation.
+  2. Keep a planner journal so you can easily track when you reach your goals and observe what does and doesn’t work.
+  3. Commit yourself to certain routines and tasks each day.
+  4. Write your planned tasks out the night before so your brain has time to dwell on your goals and help ensure success.
+  5. Arrange your work into a series of small challenges.
+  6. Get rewards [养成习惯的一个步骤]. Deliberately delay rewards until you’ve finished a task.   
+     
+  7. Watch for procrastination cues. Try putting yourself in new surroundings with few procrastination cues, such as the quiet section of a library. Gain trust in your new system. You want to work hard during times of focused concentration and also to trust your system enough so that when it comes time to relax, you actually relax without feelings of guilt or worry. Have back up plans for when you still procrastinate. No one is perfect after all. Eat your frogs first every day.
+
+- Memory
+  - Working memory
+  - Long term memory: storage warehouse.
+- Learning
+  - ILearning well often involves bit by bit, day by day building of solid neural scaffolds. This is why tackling procrastination is so incredibly important. It helps you build better memories. Because you start earlier. You want to keep up with your learning and avoid last minute cramming.
+  - Sleep is important in washing away the toxins that develop during our day’s activities. You want to avoid taking tests or doing anything difficult with little sleep the night before, because it’s like trying to think with poison on the brain.
+  - As importantly, exercise is surprisingly valuable in helping improve both our memory and our ability to learn.
+
+#### Chunking
+
+- Chunks are pieces of information, neuroscientifically speaking, that are bound together through use and often through meaning. You can think of a chunk as a scintillating [scintillate vi. 发出火花；闪烁] network of neurons that compactly synthesizes key ideas or actions.
+- Chunks can get bigger and more complex. But at the same time, they’re a single easy to access item that you can fit like a ribbon into the slot on your working memory.
+- Chunks are best built with focused, undivided attention, understanding of the basic idea, and practice to help deepen your patterns and to help you gain big picture context.
+- Simple recall, trying to remember the key points without looking at the page, is one of the best ways to help the chunking process along. It seems to help build neural hooks. They help you better understand the material. Also try recalling material in places that are different from where you originally learned the material, so it becomes more deeply ingrained and accessible
+- Transfer is the idea that a chunk you’ve mastered in one area can often help you much more easily learn chunks of information in different areas that can share surprising commonalities.
+- Interleave your learning by practicing your choice of different concepts, approach, and techniques all in one session. Chunks are very important, but they don’t necessarily build flexibility, which is also important in becoming an expert with the material you’re learning.
+- Illusions of competence in learning
+  - Learn to recognize when you’re fooling yourself about whether you’re actually learning the material.
+  - Test yourself frequently. Using little mini-tests to see whether you’re actually learning the material, or whether you’ve been fooling yourself, thinking you’re learning when you’re actually not.
+  - Recall is actually a form of mini-testing.
+  - Try to avoid depending too much on highlighting, which can fool you into thinking that the material is going into your brain when it actually isn’t.
+  - Mistakes are a good thing to make when you’re learning. They allow you to catch illusions of competence. Avoid practicing only the easy stuff, which can bring the illusion that you’ve mastered the material. Deliberately practice what you find more difficult to gain full mastery of the material.
+- Einstellung [思维定势] is when your initial thought, an idea you’ve already had in mind, or a neural pattern you’ve already developed well and strengthened, prevents a better idea or solution from being found. Or keeps you from being flexible enough to accept new, better, or more appropriate solutions. The Law of Serendipity is helpful:
+  1. In order to discover anything, you must be looking for something.
+  2. If you wish to make an improved product, you must already be engaged in making an inferior one.
+
+#### Renaissance Learning and Unlocking Your Potential
+
+- Metaphors and analogies aren’t just for art and literature. One of the best things you can do to not only remember, but more easily understand concepts in many different fields, is to create a metaphor or analogy for them.
+- If you change your thoughts, you can really, truly change your life. It seems people can enhance the development of their neuronal circuits by practicing thoughts that use those neurons.
+- Overconfidence in your results can result from using only one mode of thinking. Through sharing with others and hearing others’ opinions, you can more easily catch where your thinking has gone astray.
+- Counterintuitive strategies such as the hard start jump to easy technique, can give your brain a chance to reflect on harder challenges even as you’re focusing on other more straightforward problems.
+
+### How we learn? (如何学习)
+
+本书深入浅出地解释了学习时，大脑的工作机制，包括记忆是如何形成和存储的，记忆的遗忘规律又是什么。在了解大脑工作原理的基础上，作者介绍了众多脑科学、心理认知学领域中，具有里程碑意义的研究成果，从中总结出了一系列颠覆传统认知的学习方法，帮你在同样的时间里，学得更快，记得更牢。
+
+一、记忆是如何形成、被存储和提取的？
+
+人的大脑中，用来记忆的核心部位有三个：内嗅皮层、海马体和新皮层。
+
+内嗅皮层类似一个过滤器，负责过滤涌入大脑的海量信息。
+
+海马体负责组合这些信息，把和这些新信息相关的神经细胞，通过神经突触连接起来，新记忆就这样构建起来了。
+
+新信息被打上“记忆”的标记后，就会存储到新皮层上，新皮层就是大脑最外面那层褶皱。 每次提取这些记忆的时候，这部分皮层细胞就会活跃起来，同时，跟记忆有关的神经细胞之间的突触就被加厚一次，每次神经突触被加厚，神经信号就会传递得更快些，记忆就这样被加深了。
+
+不过，海马体是一个编故事的高手。为了让每一段情节都合情合理，它要根据现有材料找出关系、做出判断，把松散的信息拼合成一个能让人理解的整体。海马体的这种“脑补”机制，到时我们在提取记忆的时候，总是出来一连串信息，没办法做到十分精确。
+
+二、遗忘是怎么回事，遗忘的规律是什么？
+
+作者认为，遗忘是大脑中很重要的一个功能，它能帮助过滤垃圾信息，使大脑专注在某一件事情上，只让跟这件事有关的信息被提取出来。 关于遗忘的规律，科研人员已经探索了一百多年： 19世纪80年代，柏林大学的教师赫尔曼·艾宾浩斯发明了著名的遗忘曲线。他提出，人们对新事物的记忆会随着时间的推移而不断减弱，而且最初几天遗忘的速度还特别快。 20世纪80年代，加州大学洛杉矶分校的比约克教授夫妇，提出了“记忆失用理论”。他们认为，人的记忆其实有两个纬度，一个是存储强度，一个是提取强度。存储强度不会随着时间减弱，而提取强度会随着时间慢慢减弱，但通过复习，提取强度和存储强度都是可以越用越高的。
+
+三、如何学习才更科学有效？
+
+1. 学习的时候多换几个场所，会帮你把学到的东西记得更牢。
+
+传统的学习观念认为，学习就要找一个固定的安静场所。 但是作者的建议恰恰相反：学习的时候多换几个场所，会帮你把学到的东西记得更牢。每当我们要提取记忆的时候，大脑总会冒出一连串信息，比如当时学习的场景。 研究人员就推断并实验证明：如果能还原到最初的学习环境里，记忆的效果会更好。但是，还原最初的学习场景是一件可遇而不可求的事，要想让记忆的提取能力越来越不被周围环境影响，把学到的东西记得越来越牢，就要改变一些习惯，比如多换几个学习场所。
+
+1. 交替学习，能快速提升辨别能力。
+
+    交替学习的意思是把既相关又不相同的题材混合到一起来学习，和交替学习相对应的是集中学习。交替学习以前一直被用在音乐教育和体育训练中，比如，体育教练会让运动员交替进行力量训练和耐力训练，来保证运动员的局部肌肉有足够的恢复时间。
+
+    后来，心理学家们发现，交替学习可以增强大脑的辨认能力，从而提高数学解题能力。在数学学习过程中，不同题型掺杂到一起，会迫使我们去分辨每道题属于哪种类型，把题型跟我们已知的解题方法相匹配，才能找到解决方法。
+
+    比如说，很多人都觉得应用题太难，就是因为应用题很少会明确指出应该用什么概念，用哪个方法来解题，总搞得人措手不及。这时候，交替学习的好处就凸显了，它能让我们的大脑准备好随时面对意想不到的事情，快速分辨出这种情况应该用什么方法应对。
+
+1. 脑科学家认为，睡眠可以巩固我们的学习成果。
+
+脑科学领域有一个主流共识，睡眠可以帮助大脑巩固记忆，还可以把一些分散的、看起没有关联的信息给联接起来，另辟蹊径地解决某个难题。(periodic table of elements) 现代睡眠之父、芝加哥大学教授柯莱特曼和他的学生阿瑟发现，人在睡觉的时候，大脑皮层还在活动，尤其在“快速眼动期”，大脑皮层的活动跟醒着的时候一样剧烈。这时候，大脑做了很多信息整理工作，深化和巩固我们醒着的时候学到的技艺，让碎片化知识形成更完整的“图景”。脑科学家甚至认为，睡觉本身就是学习。
 
 ## Emotion Management
 
