@@ -379,6 +379,39 @@ It often takes time for neural processing to take place, and time as well to bui
 
 脑科学领域有一个主流共识，睡眠可以帮助大脑巩固记忆，还可以把一些分散的、看起没有关联的信息给联接起来，另辟蹊径地解决某个难题。(periodic table of elements) 现代睡眠之父、芝加哥大学教授柯莱特曼和他的学生阿瑟发现，人在睡觉的时候，大脑皮层还在活动，尤其在“快速眼动期”，大脑皮层的活动跟醒着的时候一样剧烈。这时候，大脑做了很多信息整理工作，深化和巩固我们醒着的时候学到的技艺，让碎片化知识形成更完整的“图景”。脑科学家甚至认为，睡觉本身就是学习。
 
+###  暗时间
+
+提到的心理学相关书籍：
+
+1. Think Straight About Psychology: 与“众”不同的心理学
+2. Nudge: 助推——我们如何做出最佳选择，Richard Thaler (经济学和心理学联姻)
+3. Made to Stick: 让创意更有黏性，研究创意点子之所以流行之本质原因
+4. The Social Animal: 社会性动物
+5. Searching for Memory: 找寻逝去的自我，讲大脑记忆原理
+6. The Tipping Point: 引爆点
+7. Blink: 决断2秒间
+8. Outliers: 异类
+9. Psychology of Judgment and Decision Making: 决策与判断
+10. Predictable Irrational
+11. Miskates were made, but not by Me: 错不在我
+12. Mean Genes
+13. Influence
+14. Sway: 摇摆
+15. Evolutionary Psychology: 进化心理学
+16. Asking the Right Questions
+17. Nonsense
+18. Crimes Against Logic
+
+- 善于利用思维时间的人，可以无形中比别人多出很多时间，从而能比别人多活很多年。思考得多得人往往心理年龄更大…讲临时得记忆变成硬编码的行为。……每个人的手表都走的一样快，但是每个人的生命却不是。衡量一个人生活了多少年应该用思维时间来计算。......用投入时间和效率的乘积来衡量。......看书并记住书中的东西只是记忆，并没有涉及推理，只有靠推理才能深入理解一个事物，这部分推理过程就是思维时间。......充分利用走路，买菜，洗脸，出游，吃饭，睡觉等所有这些时间进行思考，反刍和消化读过的东西，日积月累将产生庞大效应，无形中多出一大块生命。
+
+#### 设计自己的进度条
+
+为什么要进度条？没有的话我们不知道什么时候能完成。可以分割任务，设计进度条。这需要你对整个目标的几个重大步骤有清晰的界定，能够对每个步骤的耗时作出靠谱的上界估计。（Hui:我觉得这个“靠谱估计”本身就非常难（Planning fallacy））。
+
+学习新事物时总会遇到各种各样的困难，在面对未来不确定性时会过早退出。其实我们畏惧的不是困难本身，而是其所暗示的时间经济学意义。可以上网查下遇到相似问题的人，绝大多数时候你并不孤单，你踩过的坑里尽是前人的脚印。不要仅仅因为一时摸不着头绪，找不着出路就退出，问一问自己的决策是否基于足够的信息。
+
+
+
 ## Emotion Management
 
 ### Emotional First Aid (情绪急救)
