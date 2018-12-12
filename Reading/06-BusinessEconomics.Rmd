@@ -2,27 +2,21 @@
 
 ## The Wealth of Nations [Adam Smith]
 
-10.1.1 Of the Causes of Improvement in the productive Powers of Labour, and of the Order according to which its Produce is naturally distributed among the different Ranks of the People
+- The division of labour arises from a propensity in human nature to exchange [分工不是人类智慧的结晶，是因为我们需要互相帮忙，人类这种需要交换的趋势促成了分工的产生。]
 
-10.1.1.1 Of the Division of Labour
+- The division of labour (not natural differences) gives rise to differences of talent. [分工导致了人们在不同事业不同领域表现各种才能，而不是天赋的差异导致分工]
 
-The author discussed the cause and effects of division of labour.
-
-The division of labour arises from a propensity in human nature to exchange [分工不是人类智慧的结晶，是因为我们需要互相帮忙，人类这种需要交换的趋势促成了分工的产生。]
-The division of labour (not natural differences) gives rise to differences of talent. [分工导致了人们在不同事业不同领域表现各种才能，而不是天赋的差异导致分工]
-
-10.1.1.2 Of the Principle which gives Occasion to the Division of Labour [论分工如何受到市场范围的限制]
-
-分工的程度会被当时的交换能力限制住，而分工又起因于交换能力，当然这个范围限制决定了分工的范围。市场小：不鼓励专一职业。因为人们没有能力把自己消费不了的劳动产品中的剩余部分哪去交换别人的剩余物品。
+- 分工的程度会被当时的交换能力限制住，而分工又起因于交换能力，当然这个范围限制决定了分工的范围。市场小：不鼓励专一职业。因为人们没有能力把自己消费不了的劳动产品中的剩余部分哪去交换别人的剩余物品。
 
 ## Principles of Economics [Alfred Marshall]
 
-10.2.1 Introduction
+### Introduction
 
-Political Economy or Economics is a study of mankind in the ordinary business of life……it is on the one side a study of wealth; and on the other and more important side, a part of the study of man…….two great forming agencies of the world’s history have been religious and economic.
+Political Economy or Economics is a study of mankind in the ordinary business of life......it is on the one side a study of wealth; and on the other and more important side, a part of the study of man......two great forming agencies of the world’s history have been religious and economic.
+
 Hui: I agree. Religion and economy set the frame.
 
-10.2.2 The substance of economics
+### The substance of economics
 
 Economics is a study of men as they live and move and think in the ordinary business of life. But it concerns itself chiefly with those motives which affect, most powerfully and most steadily man’s conduct in the business part of his life……the steadiest motive to ordinary business work is the desire for the pay which is the material reward of work.
 
@@ -37,11 +31,11 @@ Economics is a study of men as they live and move and think in the ordinary busi
 
 二、我们被骗的原因：我们之所以总被骗，是因为我们每个人身上都有弱点。
 
-特别崇尚礼尚往来
-习惯对喜欢的人表现出友善： 很多上门推销的人就是在这一点上做足了工夫，他非常清楚怎样让你喜欢上他、而不能拒绝他。
-不喜欢挑战权威：电视上的那些推销广告，他们一定要反复地说：我这个产品有什么权威机构认证过，有什么人给我代言。他们就喜欢利用权威来博取别人的信任。
-喜欢随大流：周边的人买我们也会更容易买。
-损失厌恶
+- 特别崇尚礼尚往来
+- 习惯对喜欢的人表现出友善：很多上门推销的人就是在这一点上做足了工夫，他非常清楚怎样让你喜欢上他、而不能拒绝他。
+- 不喜欢挑战权威：电视上的那些推销广告，他们一定要反复地说：我这个产品有什么权威机构认证过，有什么人给我代言。他们就喜欢利用权威来博取别人的信任。
+- 喜欢随大流：周边的人买我们也会更容易买。
+- 损失厌恶
 
 三、行骗行业的十诫：
 
@@ -56,25 +50,11 @@ Economics is a study of men as they live and move and think in the ordinary busi
 （9）永远要衣冠整洁。
 （10）永远不要喝醉。
 
-## Critical Perspectives on Management [MOOC]
-
-> A firm is an organizational solution to a transaction cost problem.—–Ronald Coase
-
-> Principal-agent problem describes the difficulties that arise when there is a divergence of interests between two parties, where one party is contracted to act in the best interests of the other. [For example: the people who want the profits, and the people who have to go make the profits]
-
-- Rome: a city of a million people, the largest, twice as large as the next largest city, lasted for half a millennium.
-    - In order to maintain that size. It has to be the beneficiary of a very successfully functioning market.
-    - When we look at the market itself that provided grain to Rome, we see a problem. We see a market that is characterized by
-        - **persistent informational uncertainty**
-        - doesn’t have the information that it needs
-        - a market that we would predict cannot function.
-    - We did our **Gedankenexperiment** (thought experiment). We gave the market the information that it needed and we did so quite well. But the problem was that when Fernando then went into the bakery in Rome to buy his bread. So, no functioning market. What is the problem?
-        - we have an entrepreneurial driven market, so in other words when we have individual intermediaries in the market, the result is unacceptably high transaction costs.
-        - The mechanism that we use to control for transaction cost, and I suggested the Coaseian framework from 1937. The nature of the firm is simply an organizationally efficient response to a transaction cost problem. It’s cheaper in the end, to use the market by domesticating those transaction costs. Under the umbrella of a single organization. And so that the entrepreneur moves within the organization and the coordination of production then takes place under the mantle of that organization. That solves for the cost problems. And we saw then that the Romans had these found institutions that enabled their market to function. So they have a robust legal frame work, which allows them to sign contracts in triplicate, and actually in force the terms of contractual obligation. They also have these ability to measure, to impose quality control mechanisms which allow for the grain to move in you know you could be confident that it is what you’re contracting for. But most importantly, they had a mechanism of slavery. This idea that slavery is a found institution, that is to say an institution that predates the rise of the Roman corporation, turned out to be a very useful mechanism to control the fundamental problem of agency that a firm inevitably engenders. That is to say, when I give somebody my money. How do I know that, that person is going to go out and use it well and efficiently? How do I know they’re not just going to take it and buy themselves a nice yacht or a nice house or hire their friends or whatever. How do I know? The answer to that we would say is monitoring. I monitor what those agents do.
-
 ## Shareology [分享时代]
 
 Sharelogy explores the history, art and science of sharing, and illustrates why sharing is what gives us a unique competitive advantage as individuals and brands.
+
+![](http://hui1987.com/images/Shareology.png)
 
 关于本书
 
@@ -90,11 +70,17 @@ Sharelogy explores the history, art and science of sharing, and illustrates why 
 
 二、我们分享了什么样的内容，决定了我们会建立什么样的个人品牌
 
-数字化时代，我们获得了一种新的交流方式，那就是社交科技，我们在社交媒体上跟世界上的其他人联系起来。这种联系变得更广泛了，我们有能力在全球范围内进行分享。 作为人类，创造和分享信息很重要。但是科技时代，创造和分享个人品牌就变得更加重要。因为只有创造和分享个人品牌才能改变人们对你的认知，并以此相互联系，在此基础上才能找到跟你志趣相同的人。 公式：一个人的个人品牌=别人如何评价你分享的信息内容和信息来源。
+数字化时代，我们获得了一种新的交流方式，那就是社交科技，我们在社交媒体上跟世界上的其他人联系起来。这种联系变得更广泛了，我们有能力在全球范围内进行分享。 作为人类，创造和分享信息很重要。但是科技时代，创造和分享个人品牌就变得更加重要。因为只有创造和分享个人品牌才能改变人们对你的认知，并以此相互联系，在此基础上才能找到跟你志趣相同的人。
+
+公式：一个人的个人品牌=别人如何评价你分享的信息内容和信息来源。
 
 三、把分享作为商业之道进行分享营销
 
-从品牌角度而言，数字化时代最大的缺点就是统一的品牌认知与个性化的客户之间的矛盾。如果你的品牌能够与你的用户成为潜在的朋友，而不是被当做一个冷淡又漠然的存在，无法与用户沟通，那么你就能优于你的竞争对手。 公式：你的用户愿意分享你的言论=他们信任你分享的内容和你信息的来源。你要尽量人性化，人性化就代表着具有可分享性。未来的商业模式就是在人际关系之上建立顾客关系，并和顾客保持互动。从广而告之的传播方式转变为寻求怎样才能创造出有趣的分享内容，也就是进行分享营销。
+从品牌角度而言，数字化时代最大的缺点就是统一的品牌认知与个性化的客户之间的矛盾。如果你的品牌能够与你的用户成为潜在的朋友，而不是被当做一个冷淡又漠然的存在，无法与用户沟通，那么你就能优于你的竞争对手。
+
+公式：你的用户愿意分享你的言论=他们信任你分享的内容和你信息的来源。
+
+你要尽量人性化，人性化就代表着具有可分享性。未来的商业模式就是在人际关系之上建立顾客关系，并和顾客保持互动。从广而告之的传播方式转变为寻求怎样才能创造出有趣的分享内容，也就是进行分享营销。
 
 四、只有触动了人性的内容才值得被分享
 
@@ -255,10 +241,12 @@ Hui: how to figure out the right time/content/prequency?
 
 以前人们对广告的理解是提供信息，在消费者和产品之间牵线搭桥——你有需求，我告诉你哪家产品最好。可是高层次的广告，是要在原本没有需求的情况下去创造需求。
 
-用新需求解决老问题
+- 用新需求解决老问题
+
 我们现在喝的橙汁在1920年代是刚出来的新产品，那时没有喝橙汁的要求，这就是广告人的用武之地。当时就有一个广告说明喝橙汁的好处。鼓吹什么维生素C之类的，说给婴儿哺乳时应该加橙汁。而今天科学家认为婴儿其实是不适合喝橙汁的。广告取得了巨大的成功，橙汁从此成了家庭必备品。
 
-用新需求解决一个此前根本没有的问题
+- 用新需求解决一个此前根本没有的问题
+
 口臭本来不是问题，1920年代厂商发明了牙膏和漱口水，广告于是给美国发明了口臭问题。广告说你是个漂亮的女孩，周围朋友都喜欢你，可你知道么？他们接近你的时候都强忍着你的口臭。你说女孩听到这个能不刷牙漱口么？《纽约时报》曾经发表谴责文章说广告人正在给公众制造恐慌。
 
 （2） 品牌
@@ -289,7 +277,7 @@ Hui: how to figure out the right time/content/prequency?
 
 希特勒在1910年代的时候，曾经在维也纳以绘制广告海报为生，那时就对广告产生了深刻的理解，之后将广告思维升级，用到了国家宣传上。
 
-收音机在二战前已经非常普遍，覆盖率70%。但是希特勒之前的德国广播电台经常犯一个知识分子特别容易犯的错误——在还咩有获得听众注意力的时候就把道理说的特别复杂。
+收音机在二战前已经非常普遍，覆盖率70%。但是希特勒之前的德国广播电台经常犯一个知识分子特别容易犯的错误——在还没有获得听众注意力的时候就把道理说的特别复杂。
 
 希特勒的宣传套路：
 
@@ -583,7 +571,7 @@ Robert Heath started his career with Unilever, and worked as an Account Planner 
 
 这是因为，一方面，根据注意力的定义——用清晰鲜活的思维记住同时出现的信息，如果信息以能够被感知到的方式出现，但你却没有觉察到自己在感知该信息，那么可以说你并没有对该信息投入注意力。另一方面，相关研究表明，那些富有创意的广告常常不具有威胁性，其中包含的信息无意间进入了我们的视野，又很快消失在我们的脑海，我们对此并没有觉知。因此综合来看，创意并不能让消费者更加注意广告本身。值得一提的是，尽管如此，创意却能够以其他方式促进广告的最终目的——影响消费者的购买行为。
 
-Hui: 有创意的广告不就是能够让人印象深刻么？容易忘的叫创意广告么？
+<font color = "blue"> Hui: 有创意的广告不就是能够让人印象深刻么？容易忘的叫创意广告么？</font>
 
 第四、周边曝光在广告中的运用
 
@@ -737,15 +725,20 @@ SWOT, PEST, STP (Segmentation, Targeting, Positioning)，Michael Porter (1980s) 
 总体成本领先
 差异化
 专一化
-Don Schultz (1934) in Mid-1980s IMC(Integrated Marketing Communication): > 其核心是将企业与市场营销相关的一切传播一元化。广告、促销、公关、直销、CI、包装、PR全部纳入营销的范畴。另一方面要求企业能够将统一的信息传达给消费者Speak With One Voice。
+- Don Schultz (1934) in Mid-1980s， IMC(Integrated Marketing Communication):
 
-Peter Drucker：量化分析无法替代营销者的主观思考和直觉
+> 其核心是将企业与市场营销相关的一切传播一元化。广告、促销、公关、直销、CI、包装、PR全部纳入营销的范畴。另一方面要求企业能够将统一的信息传达给消费者Speak With One Voice。
 
-移动时代的营销本质——价值驱动
-David Ricardo came up in his “On the Principles of Political Economy and Taxation” (1817)—–Theory of Comparative Advantage
-Heckscher-Ohiln theory (H-O 理论) ——Factor Proportions Theory
+- Peter Drucker：量化分析无法替代营销者的主观思考和直觉
 
-10.17.1 Customer Decision Journey
+- 移动时代的营销本质——价值驱动
+    - David Ricardo came up in his “On the Principles of Political Economy and Taxation” (1817)—–Theory of Comparative Advantage
+    Heckscher-Ohiln theory (H-O 理论) ——Factor Proportions Theory
+
+
+![](http://hui1987.com/images/SDi.png)
+
+### Customer Decision Journey
 
 Build awareness: Do consumers recall and recognize my brand?
 
@@ -757,63 +750,4 @@ Reposition the brand: Do the experiences I deliver fulfill customer expectations
 
 Grow loyalty: Do consumers advocate for my brands?
 
-
-10.18 China Outlook 2016
-
-10.18.1 Business Environment
-
-China’s growth benefited from the contributions of the consumption and service-realted sector E-commerce turned to a pillar of growth
-Reducing costs and other barriers to entry
-Increasing competition
-Driving down prices
-Unlocking new demand
-
-Two track economy:
-Slow growing: Traditional sectors (steel shipbuilding, real estate and industrial products sectors), increasing pressure to restructure, overcapacity problems, comply with stricter international and environmental standards
-Faster growing: E-commerce & logistics, medical devices, services high-end, manufacturing, agribusiness, spur innovation entrepreneurial activity
-Investment-intensive export-led ——> consumption & innovation driver
-
-10.18.2 Out Direct Investment (ODI)
-
-Teritary inducsty: services & consumer-related sectors, Healthcare, entertainment, high-tech
-Looking forward:
-Sectors
-Acquiring experience, technology, brands and human capital to become more competitive
-Accessing high-quality products and services, agriculture and food production, healthcare and eldercare
-Creating new sources of demand for products and services affected by overcapacity issues in the domestic market
-Sourcing investments which allow Chinese companies to diversity their portfolio risk and earn more stable returns
-Building a credible track record that facilitates expansion into new markets, particularly in developed economies
-Types of investors
-Insurance companies
-Financial investors
-Chinese private equity funds
-Chinese-backed venture capital firms
-Countries
-More investments will be made in NA, Europe and other developed economies
-More projects and investments will be undertaken along the “Belt and Road”
-Government initiativs
-The “Belt and Road” initiative
-International Production Capacity Cooperation
-Third-country Market Cooperation
-New funding sources
-Free trade agreements
-
-### Foreign Direct Investment (FDI)
-
-Services, advanced manufacturing, consumer market, basic manufacturing & heavy industry
-FDI flows by destination region in China
-Yangtze River Delta Economic Zone
-Free Trade Zones (FTZs) in Tianjin
-Fujian and Guangdong
-Looking forward
-Sectors
-Need for foreign technology,knowhow(专门技术) and capital in the service sector (demands of expanding middle class), generate FDI opportunities in: healthcare, logistics, e-commerce, computer technology and consumer goods.
-Strong aspirations for a cleaner healthier and more inclusive society
-increase the productivity and international competitiveness of China’s manufacturing sector (made in China 2025, opportunity for advanced manufacturing and automation)
-Need for advanced technology and expertise in highly specialized field within traditional sectors in order to reduce operating cost. This includes the development of non-conventional energy resources and technologies that provide for more efficient, cleaner utilization of current energy sources.
-The government’s capacity to provide public goods is being strained by the high local debt levels and the country’s rapid urbanization rates. This will drive significant opportunities fro foreign capital to participate in social infrastructure projects including healthcare and education, among other ares.
-Government initiatives
-Increasing market openness (Draft Foreign Investment Law, Revised Foreign Investment Industrial Guidance Catalogue, New FTZs,)
-Urbanisation and private-public partnerships
-SOE reform
-Made in China 2025 and internet plus: set out a path for China to move up the value chain in the next decade by leveraging the latest advances in information communication technology, advanced manufacturing and automation technologies to increase the productivity of then country’s traditional industries. Data management technologies such as cloud computing and big data analytics, “internet of things” , allow Chinese firms to better address consumers’ demands, lower operating costs, and increase the added-value of their products. New opportunities: modernise its agricultural industry, agro-inductrial automation, big data, cloud computing and modern machinery
+![](http://hui1987.com/images/CustDecisionJourney.png)
