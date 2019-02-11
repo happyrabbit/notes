@@ -105,6 +105,13 @@ Axelord 发现，哪怕是在很恶劣的环境下，合作也会逐渐出现。
 
 ## Other Notes
 
+- From Prof. Richard M. Golden's book: Statistical Machine Learning: A Unified Framework
+    - Genius is 1% inspiration and 99% perspiration. [Thomas Alva Edison, 20th Century American Inventor] 
+    - From one thing, know ten thousand things. [Miyamoto Musashi, 16th Century Samurai Warrior]
+    - There are many paths to enlightenment. Be sure to take one with a heart. [Lao Tzu, 1st Century Chinese Philosopher]
+    - The good God is in the detail. [Gustave Flaubert, 19th Century French Novelist]
+    - The Devil is in the details. [Ludwig Mies van der Roche, 20th Century German Architect]
+    
 - Every saint has a past and every sinner has a future. 每个圣人都有过去，每个罪人都有未来。
 
 - To live is the rarest thing in the world. Most people exist, that is all. 生活是世上最罕见的事情，大多数人只是存在，仅此而已。
