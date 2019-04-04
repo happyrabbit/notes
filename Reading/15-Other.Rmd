@@ -105,6 +105,10 @@ Axelord 发现，哪怕是在很恶劣的环境下，合作也会逐渐出现。
 
 ## Other Notes
 
+- Life is a train ride and you're a passenger. There are certain people with you. Some people get on this train, and some stay with you, some leave at different stops, new ones may enter. This metaphor is quite linear. You are off to some particular destination. Another way is to think of yourself as an atom, bumping up against other atoms, maybe transferring energy with them, bonding with them a little and maybe creating something new on your travels through the social universe. [TED talk](https://www.ted.com/talks/tanya_menon_the_secret_to_great_opportunities_the_person_you_haven_t_met_yet)
+
+- Almost 150 million people worldwide are born intersex -- with biology that doesn't fit the standard definition of male or female? (That's as many as the population of Russia.) [TED talk]
+
 - From Prof. Richard M. Golden's book: Statistical Machine Learning: A Unified Framework
     - Genius is 1% inspiration and 99% perspiration. [Thomas Alva Edison, 20th Century American Inventor] 
     - From one thing, know ten thousand things. [Miyamoto Musashi, 16th Century Samurai Warrior]
