@@ -49,13 +49,15 @@ The reading notes are arranged according to book category in my reading list sin
 
 ```{r, message=FALSE, warning=FALSE}
 library(dplyr)
+library(readr)
 library(DT)
 library(ggplot2)
-dat <- read.csv("1_KnowledgeStructure/RawData/ReadingListHui.csv", stringsAsFactors = F)
+dat <- read_csv("1_KnowledgeStructure/RawData/ReadingListHui.csv")
 idx <- grep("Novel",dat$Category)
 dat$Category[idx] <- "Fiction"
 dat %>%
   select(Name, ProDetail, Category, Topic) %>%
+  arrange(Topic)%>%
   datatable(filter = "top", options = list(pageLength = 50))
 ```
 
@@ -80,7 +82,7 @@ dat %>%
   datatable(filter = "top", options = list(pageLength = 50))
 ```
 
-## Rules of Generating book ID
+## Rules of Generating book ID {-}
 
 It is tentative. I don’t think I will label my books. It was originally motivated by being able to find a book more easily. But it seems that I remember where to get a book when I need it.
 
@@ -90,9 +92,9 @@ It is tentative. I don’t think I will label my books. It was originally motiva
     1. search for the maximum number in that category (`mn`)
     2. use `mn+0.01` as number for the new book
 
-## Basic Statistical Analysis
+## Basic Statistics{-}
 
-Here is a plot for counts of books in each category……
+Here is a plot for counts of books in each category
 
 ```{r}
 pdat <- dat %>%
