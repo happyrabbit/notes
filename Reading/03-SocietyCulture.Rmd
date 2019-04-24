@@ -301,6 +301,17 @@ Hui: Deferred gratification
 
 穷人思维是普遍存在的，不仅仅是穷人。但如果你生在贫穷的家庭，那么只有摆脱了这种思维才能改变现状。
 
+## Supper Better
+
+The author Jane McGonigal is a supporter for game while Philip Zimbardo opposes it.
+
+- 不同的游戏目的决定了游戏结果，菜刀理论，菜刀是切菜还是砍人，是使用者的问题，而菜刀本身是没有好坏的。
+
+- 游戏的好处：
+    - 认知：（使命召唤，极限竞速这类需要精准操作，快速反应的动作、射击、赛车类游戏）加强视觉注意力，提升空间智力，提高压力下的决策速度，准确度，增加我们处理多个信息的能力（增加工作记忆）。星际争霸这类策略性游戏可以提高收集信息的能力，提升制定执行计划能力。这些游戏的效果比那些专门设计来增强人们脑力的应用要好得多。
+    - 情绪：休闲类小游戏能够立即改善心情，降低焦虑。
+    - 社交：英雄联盟这类团队作战能力，魔兽还能提高人的领导力
+
 ## The Clash of Civilizations (文明的冲突)
 
 There can be no true friends without true enemies. Unless we hate what we are not, we cannot love what we are.
