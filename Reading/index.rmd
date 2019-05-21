@@ -97,6 +97,14 @@ It is tentative. I don’t think I will label my books. It was originally motiva
 Here is a plot for counts of books in each category
 
 ```{r}
+require(RCurl)
+u <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vT5o04RE2sSqFGbA_iyhjAUYDE3TpGXzQMjyBrMvHUk1RpSDJ22SB0F7SLMoqXim5hn733oHYYsok0s/pub?gid=0&single=true&output=csv"
+tc <- getURL(u, ssl.verifypeer=FALSE, .encoding = "CE_UTF8")
+dat <- read.csv(textConnection(tc))
+```
+
+
+```{r}
 pdat <- dat %>%
   group_by(Category) %>%
   summarise(Count = n())
