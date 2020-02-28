@@ -52,9 +52,16 @@ library(dplyr)
 library(readr)
 library(DT)
 library(ggplot2)
-dat <- read_csv("1_KnowledgeStructure/RawData/ReadingListHui.csv")
+# dat <- read_csv("1_KnowledgeStructure/RawData/ReadingListHui.csv")
+require(RCurl)
+
+u <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vT5o04RE2sSqFGbA_iyhjAUYDE3TpGXzQMjyBrMvHUk1RpSDJ22SB0F7SLMoqXim5hn733oHYYsok0s/pub?gid=0&single=true&output=csv"
+tc <- getURL(u, ssl.verifypeer=FALSE, .encoding = "CE_UTF8")
+dat <- read.csv(textConnection(tc))
+
 idx <- grep("Novel",dat$Category)
 dat$Category[idx] <- "Fiction"
+
 dat %>%
   select(Name, ProDetail, Category, Topic) %>%
   arrange(Topic)%>%
@@ -95,13 +102,6 @@ It is tentative. I don’t think I will label my books. It was originally motiva
 ## Basic Statistics{-}
 
 Here is a plot for counts of books in each category
-
-```{r}
-require(RCurl)
-u <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vT5o04RE2sSqFGbA_iyhjAUYDE3TpGXzQMjyBrMvHUk1RpSDJ22SB0F7SLMoqXim5hn733oHYYsok0s/pub?gid=0&single=true&output=csv"
-tc <- getURL(u, ssl.verifypeer=FALSE, .encoding = "CE_UTF8")
-dat <- read.csv(textConnection(tc))
-```
 
 
 ```{r}

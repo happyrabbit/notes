@@ -309,7 +309,9 @@ This theory is seriously wrong because it ignores the fact that utility depends 
 - 前景理论引入了参考点，降低的敏感度和损失厌恶这三个原则
 - 前景理论的局限性在于它无法应对“失望”——这时候参考点会被拉向损失（后悔自己怎么没有得）
 
-## What intelligence tests miss (超越智商)
+## What intelligence tests miss 
+
+(超越智商)
 
 Key words: human rationality, judgement under uncertainty
 
@@ -587,7 +589,9 @@ Operation Barbarrossa, Hitler expected a rapid triumph in the fight against the 
 
 - It is tempting to speculate that optimism was selected for during evolution precisely because positive expectations enhance the probability of survival......Yet with all the good that optimistic illusions have to offer, there are relatively small biases of different individuals will combine to create a much larger illusion, which can lead to disaster (the credit crunch of 2008). Each investor, homeowner, banker, and economic regulator expected slightly better profits than were realistically warranted. On its own, each bias would not have created huge losses. However, when bubble, which when it burst, generated large losses for many individuals.
 
-## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
+## Art of Thinking Clearly 
+
+[Rolf Dobelli,清醒思考的艺术]
 
 - 幸存偏差：由于日常生活中更容易看到成功而非失败，使得人们高估成功的希望（创业）
 
@@ -1206,7 +1210,9 @@ Part Four: The end
 > 案例：船长斯德穆通过试错法打捞价值不菲的海底沉船
 > 案例：创业领域中的MVP（最小可行性产品）
 
-## Superforecasting (超预测)
+## Superforecasting 
+
+(超预测)
 
 这是一本教我们怎么可以更好地预测未来的书，方法具体、可操作性强，是关于预测的杰作。
 
@@ -1469,7 +1475,9 @@ B engaged with the material at a deeper level.
 
 我们越了解本性（先天），我们越能改进自己（后天）。
 
-## The Human Advantage [最强大脑]
+## The Human Advantage 
+
+[最强大脑]
 
 大脑皮层的神经元数量决定了动物的智力水平，人类大脑皮层中的神经元数量远高于其他物种，所以人类比其他物种更聪明。由于神经元数量越多，大脑的重量越大，对应的身体重量也越大。因此在进化过程中，可用卡路里量的有限性强迫大型类人猿在身体重量和脑子重量之间做出选择。人类因为掌握了烹饪技术而使在短时间内摄入大量卡路里以支持大脑运转成为可能。其他物种则不得不牺牲神经元数量，将摄入的卡路里用于维持身体运转。
 
@@ -2224,7 +2232,7 @@ Robert A. Johnson， a noted lecturer and Jungian analyst
 
 这一步和释梦的第四步操作是一样的，也就是通过一个仪式，把想象的启示带入现实世界中。
 
-## 耶鲁大学公开课——死亡
+## 耶鲁大学公开课——死亡  {#death}
 
 一、人是什么？人有灵魂吗？
 
@@ -2264,13 +2272,15 @@ Robert A. Johnson， a noted lecturer and Jungian analyst
 
 人们往往对未知感到恐惧，当心中有了一个队死亡清晰的概念之后，笼罩在死亡之上的阴影就消失了。除了思考死亡，我们也可以用理性严谨的态度去反思生活中那些未经深思却又习以为常的概念，比如亲情爱情、时间、金钱和工作等等，当对人生中的重大议题有了清晰的认知之后，我们也许就不会再感到恐惧或是迷茫了。
 
-## 自卑与超越（What Life Could Mean to You）
+## What Life Could Mean to You
+
+自卑与超越
 
 <font color = "blue">Hui: Alfred Adler是个体心理学的创始人。他强调自卑感，以及自卑情结在人格发展中的重要作用。Alfred Adler将人类视为一个个体，因此他将自己的学派称为“个体心理学”。Adler首次强调社会因素在人格形成调整中扮演重要角色。</font>
 
 译者序：发生过什么并不重要，重要的是你以为发生过什么。每个人都在用精心挑选的记忆编造者自己的生活。无论这些记忆是真是假，都代表了你对这个世界的理解，以及你对自我的认知。......在处理人生中各种问题时，Adler一再强调，要心怀对他人和社会的关心，要培养对他人和社会的兴趣，要时刻以他人和社会的利益为先。而事实上，心怀善意和勇气，以谦卑合作的态度坦然面对生活中的各种问题和挑战，也正是每一个势单力薄的个体在这个纷繁复杂的社会中立足生根的秘诀所在。
 
-### 生活的意义
+### 生活的意义 {#meaningoflife}
 
 我们通过赋予生活意义来理解所谓的现实。但意义并不等于生活本身，它是我们从生活中解读出来的东西。充满意义的地方往往也遍布着错误。……我们在日常生活中的一言一行无不反映着我们赋予生活的意义。如果仔细观察一个人的言行举止，我们就会发现这个人对于“生活的意义”有着自己独特的理解，而他所有的立场、态度、行为、表达、举止、志向、习惯、个性等都是与这个“意义”一致的。
 
@@ -2280,7 +2290,7 @@ Robert A. Johnson， a noted lecturer and Jungian analyst
 
 生活经历并不能决定人生的成败。…我们对生活的理解决定了我们是谁。
 
-## 20世纪最伟大的心理学实验
+## 20世纪最伟大的心理学实验 {#psychologicalexp}
 
 -、斯金纳箱
 
@@ -2326,7 +2336,7 @@ Robert A. Johnson， a noted lecturer and Jungian analyst
 
 实验：海蜗牛实验
 
-## 不正常人类研究所
+## 不正常人类研究所 {#weirdoinstitute}
 
 边缘型（borderline personality disorder）
 普遍存在的人际关系、自我形象和感情的不稳定以及显著的冲动性。
@@ -2452,7 +2462,7 @@ Hui: There is a reason for everything’s existence. We need both sides and the 
 3.29 博伽梵歌 [印度经典]
 -->
 
-## 南怀瑾谈心兵难防
+## 南怀瑾谈心兵难防 {#xinbingnanfang}
 
 - 所谓“喜怒哀乐之未发谓之中”，是指“情绪”没有发动的境界。
 
@@ -2533,7 +2543,7 @@ Hui: There is a reason for everything’s existence. We need both sides and the 
 
 -->
 
-## 欲望心理学
+## 欲望心理学 {#yuwangxinli}
 
 <font color = "blue">Hui: 作者休.麦凯。这本书是一篇篇文章的集结，试图解读驱使人行为背后的欲望。书中探讨了10种欲望，它们在本质上并无好坏之分，而只是人性中的一部分。作者在前言中说：“我们所有人都会受到一连串诸如欲望、激情、期许和需求的驱使，它们对谁而言都是很难权衡的，更不用说控制它们了。我们需要太多不同的东西，甚至有时想同时占有它们，这也就是我们经常会感到纠结的原因。” 欲望激励我们前进，但当欲望得不到满足时，很可能会产生恶意的想法。理解学习人性的欲望，有助于我们更好的控制它们，选择生活而不是被生活选择。</font>
 
@@ -2575,7 +2585,7 @@ Hui: There is a reason for everything’s existence. We need both sides and the 
 
 <font color = "blue">Hui:我们习惯于坐在同一个位子上也是源于相同的心理。作者还提出，因为同样的原因，那些和我们早期态度价值观形成相联的地点让我们念念不忘。我不是太赞同。怀旧更多来源于记忆的选择性，当我们回忆过去，只会记得那些让我们印象深刻的事情，而地点是这些过去的故事中不可缺的元素，比起现在的生活来说，过去总是更加浓烈，有味，而不似当下的无趣。此外作者还将网络上更容易出现欺诈等极端行为也归于这种自我空间的欲望，我觉得实在不合适。这和空间需求没有关系，而是因为对另一方的陌生削弱了采取这种行为的负罪感。对家的眷恋也不一是空间需求，而是对心理情感支持的需求。作者在这一章讲的我大部分都不认同，除了买房是源于对空间的需要以外。</font>
 
-## 直面内心的恐惧
+## 直面内心的恐惧 {#fear}
 
 <font color = "blue">Hui: 作者弗里兹.李曼通过他行医多年的经历，归纳出四种恐惧的原型：害怕把自己交出去（分裂），害怕做自己（忧郁），害怕改变（强迫），害怕既定规律（歇斯底里）。大部分人都是四种原型的混合，极度偏向任何一种都是病态的。因此我们可能经历过每种基本的恐惧，但是没有哪一个在我们身上独霸一方，因此我们能够克服这些恐惧，每战胜一次恐惧，我们就淬炼的更加坚韧。了解自己心中不安和恐惧的来源，或许能够帮助我们更好的克服它们取得心智的成长。</font>
 
@@ -3348,7 +3358,8 @@ $自尊 = \frac{实际的成就}{对自己的期待}$
 
 我们有自由认识到我们对蒙羞的忧虑完全取决于一定的社会群体，我们充分理解和尊重这个社会群体的判断方法。[We are at liberty to ensure that our worries about being disgraced will arise principally in relation to an audience whose methods of judgement we both understand and respect.]
 
-## 生活中的道德怪圈 （By Rainer Eringer）
+## 生活中的道德怪圈 {#daodeguaiquan}
+
 
 ### 引言
 
