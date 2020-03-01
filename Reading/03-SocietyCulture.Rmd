@@ -1,6 +1,6 @@
 # Society and Culture
 
-## 动物精神
+## 动物精神 {#dongwujingshen}
 
 什么是动物精神？贪婪和恐惧这两种动物精神保证了整个物种的繁衍和继续。
 
@@ -90,7 +90,7 @@
 
 5.我是谁？著名的Financial Times曾经建立了一个名人档案，问他们20岁的你会对现在的自己说什么。我们换一个视角，不问20岁的自己，而是想象一下70、80岁或者100岁的自己会怎么看待现在的自己——你能确定现在的决定能够对得起未来的自己吗？
 
-## Empire and Communications (帝国与传播)
+## Empire and Communications 
 
 Harold Innis: Harold Adams Innis (November 5, 1894 – November 8, 1952) was a Canadian professor of political economy at the University of Toronto and the author of seminal works on media, communication theory, and Canadian economic history. Innis’s writings on communication explore the role of media in shaping the culture and development of civilizations.
 
@@ -130,7 +130,7 @@ Empire and Communications examines the impact of media such as stone, clay, papy
 
 “Mass production and standardization are the enemies of the West,” he warned. “The limitations of mechanization of the printed and the spoken word must be emphasized and determined efforts to recapture the vitality of the oral tradition must be made.”
 
-## Amusing ourselves to death [娱乐至死]
+## Amusing ourselves to death
 
 这是一本讲媒介对人们意识形态所产生的影响的书。写于1985年，美国当时的电视行业已经非常发达了，将近有一代人的童年就是在电视的陪伴下度过的。因此，很多人开始大量尝试通过制作特定的电视节目来引导大家的价值观和思想。作者就给大家泼了一盆冷水，认为电视行业的行为很可能在未来导致一个现象，就是所有的文化会娱乐至死。
 
@@ -173,7 +173,7 @@ Empire and Communications examines the impact of media such as stone, clay, papy
 有两种方法可以让文化精神枯萎，一种是奥威尔式的——文化成为一个监狱，另一种是赫胥黎式的——文化成为一场滑稽戏。
 如果一个民族分心于繁杂琐事，如果文化生活被重新定义为娱乐的周而复始，如果严肃的公众对话变成了幼稚的婴儿语言，总而言之，如果人民蜕化为被动的受众，而一切公共事务形同杂耍，那么这个民族就会发现自己危在旦夕，文化灭亡的命运就在劫难逃。在美国，奥威尔的预言似乎和我们无关，而赫胥黎的预言却正在实现。
 
-## Discipline and Punish (规训与惩罚)
+## Discipline and Punish 
 
 Michel Foucaul: 20th century French philosopher, the most influential philosopher since Sartre
 
@@ -221,7 +221,7 @@ Such vaunted reforms as the abolition of torture and the emergence of the modern
 
 福柯并不在意这些学说到底谁是谁非，他要揭示的，就是我们所接受的知识，是权力作用的结果，而并不是正确战胜了错误的结果。这一点，在科学前沿问题中表现得尤为突出。
 
-## Class [格调：社会等级与生活品味]
+## Class 
 
 这本书说的是品味还是社会等级？
 不同的社会等级有不同的生活品味，可以从生活品味去判断一个人处于哪个社会等级。“社会等级” 似乎是个敏感的话题，无论是在中国还是美国。划分社会等级的不仅仅是财富，还有风范、品味和认知水平。一个人不需要拥有很多金钱，可以通过提高品味和格调，达到较高的社会地位。
@@ -259,7 +259,7 @@ Such vaunted reforms as the abolition of torture and the emergence of the modern
 
 富有创造性，以一种创造者的态度对待事物，热爱自己的工作，没有“退休”的概念。
 
-## 贫穷的本质
+## 贫穷的本质 {#pingqiongdebenzhi}
 
 是两位作者历经15年实证调查写成，它主要讨论的是贫穷的原因，以及对主流“扶贫观念”的反思。
 
@@ -312,7 +312,7 @@ The author Jane McGonigal is a supporter for game while Philip Zimbardo opposes 
     - 情绪：休闲类小游戏能够立即改善心情，降低焦虑。
     - 社交：英雄联盟这类团队作战能力，魔兽还能提高人的领导力
 
-## The Clash of Civilizations (文明的冲突)
+## The Clash of Civilizations
 
 There can be no true friends without true enemies. Unless we hate what we are not, we cannot love what we are.
 
@@ -338,14 +338,15 @@ The survival of the West depends on Americans reaffirming their Western identity
 
 欧美文化与中国文化缺乏一个最大公约数，不能算作同一种文明。作者认为，目前世界上可能发生冲突、有国际影响力的文明包括：
 
-西方文明
-中国儒家文明
-日本文明
-伊斯兰文明
-印度文明
-东正文明
-拉丁美洲文明
-非洲文明
+- 西方文明
+- 中国儒家文明
+- 日本文明
+- 伊斯兰文明
+- 印度文明
+- 东正文明
+- 拉丁美洲文明
+- 非洲文明
+
 以上这些文明已什么样的形态存在？
 
 有的国家只有一种文明，如日本。有的文明分散在几个国家或地区，比如中国儒家文明。还有些文明散落在各地，盘根错杂于其他文明中，比如中东既有外来的西方文明，同时又是伊斯兰文明的大本营。再如，欧洲法国等地形成多民族、多文明混居的形态——这类文明的交错区被称为“文明的断层线”。在断层线地区，文明的冲突将很活跃。
@@ -371,7 +372,9 @@ The survival of the West depends on Americans reaffirming their Western identity
 文明冲突论
 作者预言的很多冲突都已经发生：伊斯兰文明和西方文明的矛盾，中国文明和日本文明的冲突，东正文明和西方文明的交锋
 
-5.9 菊与刀 (Chrysanthemum and Sword)
+## Chrysanthemum and Sword
+
+菊与刀
 
 这是一本深入剖析日本人性格的文化经典书籍。1951年，这本书被列入“日本教养文库”后，到1963年就已经重印了36次。不仅如此，作为美国政府委托研究的产物，这本书更是成了美国战后决定对日政策的决策依据，深刻影响了战后日本的命运和格局。
 
@@ -403,13 +406,10 @@ The survival of the West depends on Americans reaffirming their Western identity
 
 二战后，德国人能深刻反省自己的战争罪恶，但唯独日本人不行。就是因为德国属于罪感文化，而日本人属于耻感文化。两者最大的区别就在于对待罪的态度上，耻感文化只有耻辱感，而没有什么罪恶感。它本来的文化里就没有太多的善恶观念。哪怕干的是十恶不赦的大罪，也没有忏悔和赎罪的观念，即使认识到自己的确犯了罪，也要想方设法不承认，掩盖罪行，不让世人知道。因为只要别人不知道，就可以避免这种耻辱。
 
-5.10 Connectography
+## Connectography
 
 A future shaped less by national borders than by global supply chains:
 
-The Second World: Empires and Influence in the New Global Order
-Run the World: Charting a Course to the Next Renaissance
-Connectography: Mapping the Future of Global Civil
 Connectivity is the most revolutionary force of the twenty-first century. Mankind is re-engineering the planet, investing up to ten trillion dollars per year in transportation, energy, and communications infrastructure linking the world’s burgeoning megacities together. This has profound consequences for geopolitics, economics, demographics, the environment, and social identity. Connectivity, not geography, is our destiny.
 
 He shows how militaries are deployed to protect supply chains as much as borders, and how nations are less at war over territory than engaged in tugs-of-war over pipelines, railways, shipping lanes, and Internet cables. The new arms race is to connect to the most markets—a race China is now winning, having launched a wave of infrastructure investments to unite Eurasia around its new Silk Roads. The United States can only regain ground by fusing with its neighbors into a super-continental North American Union of shared resources and prosperity.
@@ -440,24 +440,27 @@ New energy discoveries and technologies have eliminated the need for resource wa
 
 对欧洲、日本以及其他老龄化社会而言，移民已经成为了维持社会进行必要运转的重要组成部分。没有移民的支持，基础设施建设以及税收和社会服务都无法实现。大量移民的聚居也改变了移民流入国家的文化和政治形态。 全球性文明融合带来的巨大影响也包括了身份认同问题。在作者看来，未来的城市将会是各个移民消弭旧有的身份，融入新生活最好的平台。
 
-5.11 Much Depends on Dinner [Margaret Visser]
+## Much Depends on Dinner
 
-5.11.1 Introduction
+### Introduction
 
 We prefer, as De Quincey’s essay says, “to throw the grace of intellectual enjoyment over an animal necessity.” （正如De Quincey在文章中说的，我们喜欢“用优雅的精神享受来掩盖动物性的需要”。）
 Again, we should be aware that our meal is almost totally female in connotation. Corn is the American Indian “mother and nourisher”; chicken (pale meat, no red blood, and little fat in evidence) is for us a typically “female” choice; rice, a delicate grain—–especially when it is “fluffy”, as we like it—–white like chicken, and in its mythical origins a girl-child; lettuce is light and unfattening, but also cold, milky, and female; lemons nippled, olive oil virgin, ice cream cold milky, and served in definitely womanly, rounded shapes; salt is the on exception, but even it is neuter and not masculine; butter from cream is again female.
-5.11.2 Corn
+
+### Corn
 
 玉米片(Corn Flakes) 凯洛格所用的“谷物回火”方法在1894年取得专利。(The Kellogg “grain-tempering” process was patented in 1894.) － 玉米和遗传学(Corn and Genetics) 在美洲殖民地无所不在的玉米，除了食用之外又发展出上千种用途，其中一个用途就是用玉米穗轴制成的烟斗。(The ubiquity of the corn plant in Colonial America had made it standard material for a thousand uses which had nothing to do with food. One devive was the corncob smoking pipe.)
 玉米植株兼具雄性（穗）与雌性（须）两种性别，杂交玉米通过摘除自身的穗来完成，这样以来，玉米植株就不会自身授粉，而是必须接受来自其它植株的花粉。……通过受制遗传，培育出雄花不育的植株。(A corn plant is both male (its tassels) and female (its silks). Hybrid corn seed is to bear the grain, so that the plant cannot seed itself but will receive pollen from the other inbred parent chosen to be planted in the same field……by genetic manipulation, to produce no pollen.)
 同一性是一个现代社会特有的诅咒，它伪装着自己，以多样化的形式装在超市的罐头里，盒子里，瓶子里和纸板箱中。每一件摆在架子上的东西里都含有玉米，因此我们依赖着玉米，玉米也依赖着我们。我们自己证明出来的无能为力，却让我们承担起越来越多不可逃避的责任。(Uniformity, disguise itself as it may behind the multiplicity of cans, boxes, bottles, and cartons in our supermarkets, is a peculiarly modern curse. Everything on the shelves contains corn. We therefore depend on corn. But corn depends increasingly, because of our wanton（荒唐的） wastefulness, on us. Our own demonstrations of our incapacity to manage have placed us more exclusively and inescapably in charge.)
-5.11.3 Salt
+
+### Salt
 
 盐税，中国从公元前7世纪开始由政府垄断了盐。(China had a salt monopoly from the 7th century BC. Salt was also one of the first commodities to be taxed. “The art of taxation consists of plucking the goose so as to obtain the most feathers with the least hissing.)
 1825年，经过了400年的怨恨与诅咒，英国废除了盐税，是第一个废除盐税的国家。(In 1825, after four hundred years of resentment, England abolished her salt tax. She was the first country to do so.)
 为夺回印度的盐并在不加税的情况下进行买卖，印度人民的非暴力不合作运动开始了。(Non-violent activities undertook to get India’s salt and sell it free of tax.)
 盐，明亮，干燥，愉快，强悍，在许多种语言中，都是聪明与睿智的同义词。(Salt, bright, dry, titillating, and dynamic, is synonymous in several languages with wit and wisdom.)
-5.11.4 Ice-cream
+
+### Ice-cream
 
 至少在1100BC，中国人就知道如何在地下建造冰库。
 Hui: 有种说法是，唐朝的《酉阳杂俎（yǒu yáng zá zǔ）》[是笔记小说集]里头，已经提到过冰与奶制品混一的玩意，叫做“酪饮”。宋朝时，大家也习惯类似东西叫冰酪，可能那就是冰淇淋的雏形。但法国人相信，冰淇淋是美第奇嫁到法国之后，才真正进入文明世界的——那就天晓得了。[“美第奇家族”（Medici Family）是佛罗伦萨13世纪至17世纪时期在欧洲拥有强大势力的名门望族。Maria de’ Medici于1600年嫁给亨利四世，成为其第二任妻子，法国王后，路易十三的母亲。她是意大利豪门美第奇家族的重要成员。]
@@ -465,7 +468,8 @@ Hui: 有种说法是，唐朝的《酉阳杂俎（yǒu yáng zá zǔ）》[是�
 第一个影响深远并且享有声望(influential and lasting fame)的咖啡馆(Cafe)，是巴黎的Cafe Procope。Francesco Procopio dei Coltelli在1686年开办了这座咖啡馆，他是意大利人(Italian)，可能经由弗洛伦萨(Florence)从西西里岛(Sicily)而来。
 The first automatic cane-rolling machine（蛋筒制造机）was invented in 1909.
 1932年，冰激凌工业进入岛一个全新的阶段(entirely new phase)，这是Clarence W. Vogt 发明了连续冰激凌冷冻制造机(continuous ice-cream freezer)。
-5.11.5 Sugar (from an article)
+
+### Sugar (from an article)
 
 东汉明帝驾崩，马皇后成了马太后，大臣疑心她要专权，太后就说，咱以后，含饴弄孙——含着麦芽糖逗逗孙子，这就能过日子了。罗马帝国时期，甜品单里大多是新鲜或干透的水果，以此取甜。
 
@@ -475,17 +479,20 @@ The first automatic cane-rolling machine（蛋筒制造机）was invented in 190
 
 如此，口味甜不甜，在欧洲像个阶级问题。
 
-福塞尔(Paul Fussell, American cultural and literary historian, author and university professor)《格调(Class)》里认为，现代社会，下等人才会迷恋甜味。上流社会也因此摇旗鼓吹，认为懂得品茶与咖啡的苦味，才能谏果回甘，体会到深层的味道云云……大概可以这么说：上等人觉得，甜味经常显得女性化、脆弱、下等、世俗、不够高雅，能尝得苦味才显得品味非凡、耐得住寂寞等等，但抛去一切形而上的想象，我们普通人类本性的DNA里，还就是喜欢甜的东西。
+福塞尔(Paul Fussell, American cultural and literary historian, author and university professor)《格调(Class)》里认为，现代社会，下等人才会迷恋甜味。上流社会也因此摇旗鼓吹，认为懂得品茶与咖啡的苦味，才能谏果回甘，体会到深层的味道云云......大概可以这么说：上等人觉得，甜味经常显得女性化、脆弱、下等、世俗、不够高雅，能尝得苦味才显得品味非凡、耐得住寂寞等等，但抛去一切形而上的想象，我们普通人类本性的DNA里，还就是喜欢甜的东西。
 
 Hui: 《格调》是一本精确而刺痛人的社会等级指南。等级是什么？它不是你的职业，不是你居住的地方，不是你的餐桌举止，不是你有多少钱或者你能挣多少钱。等级是一系列细微事物的组合，你很难说清楚。正是这些细微的品质确立了你在这个世界上的位置。作者通过敏锐的观察、独特的视角、鞭辟入里的分析和机智幽默的文笔，把美国社会中的社会等级现象和三六九等人的品味做了细致入微的对比。
 
-5.12 The European Coffeehouse Culture [咖啡馆里的欧洲文化，克劳士.提勒多曼]
+## 咖啡馆里的欧洲文化 {#eucoffeehouseculture}
+
 
 根据一个有趣而且听起来可信的说法，咖啡不是由人，而是由动物发现的。大概在500年前，衣索比亚的牧羊人注意到他们的山羊吃了灌木丛中一种红色的莓子之后，突然兴奋的跳起来；牧羊人也好奇地尝尝这种看起来像樱桃的果子，结果也感受到类似的兴奋感。于是咖啡在世界各地的流传便开始了。
-5.12.1 Venice [威尼斯]
+
+- Venice [威尼斯]
 
 弗洛里安咖啡馆：19世纪巴尔扎克用文字表达出他对弗洛里安咖啡馆的偏好
-5.12.2 Zurich [苏黎世]
+
+- Zurich [苏黎世]
 
 欧笛翁咖啡馆
 

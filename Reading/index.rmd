@@ -57,14 +57,16 @@ require(RCurl)
 
 u <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vT5o04RE2sSqFGbA_iyhjAUYDE3TpGXzQMjyBrMvHUk1RpSDJ22SB0F7SLMoqXim5hn733oHYYsok0s/pub?gid=0&single=true&output=csv"
 tc <- getURL(u, ssl.verifypeer=FALSE, .encoding = "CE_UTF8")
-dat <- read.csv(textConnection(tc))
+dat <- read.csv(textConnection(tc), stringsAsFactors =  F)
 
 idx <- grep("Novel",dat$Category)
 dat$Category[idx] <- "Fiction"
 
+dat$KnowledgeType[which(dat$KnowledgeType == '')] = 'none'
+
 dat %>%
+  arrange(KnowledgeType)%>%
   select(Name, ProDetail, Category, Topic) %>%
-  arrange(Topic)%>%
   datatable(filter = "top", options = list(pageLength = 50))
 ```
 
