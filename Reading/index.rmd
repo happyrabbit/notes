@@ -65,9 +65,9 @@ dat$Category[idx] <- "Fiction"
 dat$KnowledgeType[which(dat$KnowledgeType == '')] = 'none'
 
 dat %>%
-  arrange(KnowledgeType)%>%
+  arrange(KnowledgeType, desc(Category))%>%
   select(Name, ProDetail, Category, Topic) %>%
-  datatable(filter = "top", options = list(pageLength = 50))
+  datatable(filter = "top", options = list(pageLength = 10))
 ```
 
 - **Name**: Book name
