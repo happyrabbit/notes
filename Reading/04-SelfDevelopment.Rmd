@@ -876,3 +876,46 @@ Getting over heartbreak is not a journey. It is a fight, and your reason is your
 
 企业文化决定企业员工的价值取向，家庭文化同样决定家庭成员的价值取向。特定的家庭文化一旦形成，孩子们不再需要做每件事之前都来征求父母的意见，因为他们知道父母希望他们怎样做，怎样做符合这个家庭的文化。
 
+## Seeing the Forest for the Trees
+
+> Dennis Sherwood now runs his own consulting business, The Silver Bullet Machine Manufacturing Company Limited, which specialises on organisational creativity and innovation. Dennis studied physics at Clare College, Cambridge University (MA), molecular biophysics at Yale University (MPhil), and biology at the University of California at San Diego (PhD); Dennis is also a Sloan Fellow (with distinction) of London Business School. Dennis was for 12 years a consulting partner with Deloitte, Haskins and Sells, and subsequently Coopers & Lybrand; he was an Executive Director with Goldman Sachs; a partner in Bossard Consultants; and Managing Director of the UK operations of SRI Consulting.
+
+书中列举了大量运用系统思考解决问题的案例，并详细阐述了什么是系统思考，为什么需要系统思考，如何使用系统循环图来思考问题，是一本比较详实的介绍系统思考的入门书籍。
+
+如何才能掌握系统思考的能力？系统思考本质上就是一种整体性的思维方式，它要求我们用整体的观点观察周围的事物，看清事件背后的结构和各要素之间的互动关系，并主动地“建构”和“解构”的思维能力。要掌握系统思考的能力，必须认清系统中的增强回路和调节回路，并学会利用系统循环图来帮助自己实现系统思考。
+
+- 掌握系统思考的两个关键：增强回路和调节回路
+
+1. 什么是回路
+
+    回路简单说就是一种闭合的因果循环。回路当中包含了两个要素：一是实体，二是关系。而在关系中又分为两种，正反馈和负反馈。正反馈指的是一个实体如果表现出增强，另一个实体也表现出增强的状态；而负反馈就是一个实体增强导致另一个实体衰弱。
+
+2. 增强回路
+
+    增强回路就是不存在负反馈，事物之间的关系全部都是正反馈。事物之间的关系全部都是增强的效果，都是一方力量上涨，另一方的力量也随之增加。增强回路能够不断推动局势的强化，不管是好的还是坏的，一旦回路形成，就会开始不断的增强。
+    
+3. 调节回路    
+
+    没有一个增强回路可以独立存在，在不同时间或是条件下，它都会碰上一些限制因素，而这些限制因素就是调节回路。调节回路的变化是慢慢趋于稳定的，如果这个回路呈现下降趋势，开始时会下降得很快。但随着时间的推移，下降的速度会越来越小，最终不再下降，达到一个稳定的平衡状态；如果事情呈现上升趋势，开始会上升得很快，但随着时间的推移，上升速度也会越来越慢，最终不再上升，达到一个稳定、平衡的状态。
+    
+4. 延迟
+
+    延迟不是一个孤立的因素，它附着在增强回路或调节回路上。比如调节回路的特点是平滑、稳定地向一个目标前进，如果存在延迟，就可能产生其他问题或者调节过头的现象。
+
+- 掌握系统思考的有效工具——系统循环图
+
+系统循环图也叫因果回路图，因为它用因果关系链表示系统的结构。绘制系统循环图的5个步骤：
+
+- 第1步：准备一张 A4纸和笔，选一个较为舒适安静的环境。
+- 第2步：找问题。在纸上写下你工作或是生活中经常遇到的问题或是非常困扰你的问题。
+- 第3步：找原因。思考这个问题可能发生的原因有哪些，即找出问题产生的原因。你可以把问题写在一张纸的中间，在问题周围写上三到五条原因。
+- 第4步：找后果。找出现在的问题可能进一步导致的后果。
+- 第5步：找回路。所谓的找回路，就是说思考你找出问题原因与问题导致的后果之间有没有相互连接和闭合的回路。如果有，就用带有箭头的直线标出，从原因指向结果，如果原因和结果之间是正反馈的关系，在箭头处标记一个加号，如果原因和结果之间是负反馈的关系，在箭头处标记一个减号。
+
+绘制系统循环图的两个关键点：
+
+- 不要使用动词，要使用名词。用动词来表述，得到的往往不是系统的结构，更像是在描述一个故事。
+- 要注意箭头的方向，箭头方向代表了特定的含义，如果箭头的方能画反，很可能会陷入思考的误区。
+    
+
+
