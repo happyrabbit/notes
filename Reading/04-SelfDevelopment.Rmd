@@ -917,5 +917,60 @@ Getting over heartbreak is not a journey. It is a fight, and your reason is your
 - 不要使用动词，要使用名词。用动词来表述，得到的往往不是系统的结构，更像是在描述一个故事。
 - 要注意箭头的方向，箭头方向代表了特定的含义，如果箭头的方能画反，很可能会陷入思考的误区。
     
+## Asking the right questions
 
+<font color = "blue"> Hui: 通过一系列的短小的课程式章节，这本书帮助我们培养批判性思维。它教读者如何分解一个论证过程：问题，结论，理由，证据，假设还有使用语言。我是看的英文版，但其中讲到的思维方式和语言无关。里面讲到了很多逻辑谬误。我总结了书中讲到的一系列逻辑谬误：http://hui1987.com/self-development.html#chapter-7-are-there-any-fallacies-in-the-reasoning
+但和很多教授各种学习方法的书一样，告诉你这些逻辑谬误，以及如何拆解论证过程，注意其中哪些部分并不能保证你能拥有批判性思维，因为在现实中，这种一连串的理解，分析，提问的过程通常要在很短的时间内完成。所以，需要你通过练习，将这个思维方式熟悉到直接在潜意识中，这样每次使用的时候就只要调用大脑的一个模块（chunk）而不是多个模块，因为同一时间大脑能够处理的模块数目是有限的。（目前我看到的是7（ ± 2）个）。所以需要……练习！</font>
+
+### The benefits of asking the right questions
+
+Other’s mental slave?
+
+1. Critical thinking to the rescue (begins with the desire to improve what we think, beliefs & conclusions)
+2. Critical thinking consists of an awareness of a set of interrelated critical questions
+
+- Non-selective: sponge reacts to water
+- Selective: panning for gold (need question-asking attitude: ask herself a number of questions designed to uncover the best available decisions or beliefs)
+- Weak sense critical thinking: defend your beliefs, resist & annihilate different opinions and reasoning
+- Strong sense critical thinking: evaluate all claims, beliefs, especially your own
+
+<font color = "blue">  Hui: Being critical != 鸡蛋里挑骨头 </font>
+
+- You want to learn from the speaker or writer (需要知识储备: can’t be critical about things you don’t know). 
+
+- Many of your most valuable social interaction or learning experience starts with communication among those with similar value priorities. Our challenge is to understand the reasoning of those have different value priorities.
+
+- Value: importance one assigns to abstract ideas
+
+Value of critical thinker:
+    - Autonomy: 兼听则明，偏听则暗
+    - Curiosity
+    - Humility: We know that we don’t know
+    - Respect for good reasoning
+
+Be open: We bring lots of personal baggage to every decision we make—–experiences, dreams, values, training, and cultural habits. Emotional involvement should not be the primary basis for accepting or rejecting a position.
+
+When you argue with someone/are critical, the goal is to learn not to win. You have to be respectful, make certain that your face and body suggest humility rather than the demeanor of a know-it-all.
+
+Argument = conclusion + reason
+
+Attention: the danger of group thinking.
+
+### What are the issue and conclusion?
+
+Getting straight about the person’s conclusion and issue is an essential first step in effective human interaction. Two kinds of issues (it is oversimplified but still helpful): 
+
+1. Descriptive issue: questions about the accuracy of descriptions of the past, present or future 
+2. Prescriptive issue: questions about what we should do or what is right or wrong, good or bad (social controversies are often prescriptive issues)
+
+Conclusion: message that the speaker or writer wishes you to accept When the conclusion is implicit, you need to infer the conclusion from what you believe the author is trying to prove by the set of ideas presented. When you have figured out the conclusion, use it as the focus of your evaluation.
+
+How to find the conclusion: 
+
+1. Ask what the issue is 
+2. Look for indicator words: consequently, suggests that, therefore, thus, it follows that, the point I’m trying to make, shows that, proves that, indicates that, the truth of the matter is 
+3. Looking in likely locations: usually beginning and end 
+4. Remember what a conclusion is not: examples, statistics, definitions, background information, and evidence 
+5. Check the context of the communication and the author’s background 
+6. Ask the question “and therefor?” (Conclusions are often implied, ask “and therefore?” to draw it)
 

@@ -35,6 +35,8 @@ options(
 
 #bookdown::render_book("index.Rmd", "bookdown::gitbook")
 #bookdown::render_book("index.Rmd", "bookdown::pdf_book")
+# <font color = "blue">   </font>
+
 ```
 
 # Introduction{-}
