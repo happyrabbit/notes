@@ -589,7 +589,7 @@ Operation Barbarrossa, Hitler expected a rapid triumph in the fight against the 
 
 - It is tempting to speculate that optimism was selected for during evolution precisely because positive expectations enhance the probability of survival......Yet with all the good that optimistic illusions have to offer, there are relatively small biases of different individuals will combine to create a much larger illusion, which can lead to disaster (the credit crunch of 2008). Each investor, homeowner, banker, and economic regulator expected slightly better profits than were realistically warranted. On its own, each bias would not have created huge losses. However, when bubble, which when it burst, generated large losses for many individuals.
 
-## Art of Thinking Clearly 
+## Art of Thinking Clearly {#artofthinkingclearly}
 
 [Rolf Dobelli,清醒思考的艺术]
 
@@ -659,7 +659,7 @@ Operation Barbarrossa, Hitler expected a rapid triumph in the fight against the 
 
 - 在群体里容易按照他人的想法生活，在孤独中容易按照自己的想法生活，但值得记住的只是那些在群体中保持独立的人。—— 爱默生
 
-## Bad Arguments — Logical Fallacies
+## Bad Arguments — Logical Fallacies {#badarguments}
 
 <font color = "blue">Hui: 这本短小的书对常见的逻辑谬误（Art of Thinking Clearly）进行了清晰直观的解释，比如straw man fallacy，the slippery slope argument，ad hominem attack等。
 

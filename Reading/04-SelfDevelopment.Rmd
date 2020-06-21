@@ -1019,6 +1019,285 @@ Characteristics of arguments:
 
 - Meanings usually come in one of the three forms: synonyms, examples, and specific criteria. Synonyms and examples are inadequate when evaluating most controversial issues.
 
+### What are the value and descriptive assumptions?
+
+- The end-product of critical thinking is someone who is open to multiple points of view, assesses those perspectives with reason, and then uses that assessment to make decisions about what to believe and what actions to take.
+
+- Assumptions (unstated ideas) are:
+    - hidden or unstated (in most cases)
+    - taken for granted
+    - influential in determining the conclusion
+    - potentially deceptive
+    
+- An assumption is an unstated belief that supports the explicit reasoning. Look for assumptions needed for the reasons to support the conclusion and look for ones necessary for a reason to be true.
+
+- Value conflicts and assumptions: By value assumption,we mean a taken-for-granted belief about the relative desirability of certain competing value.
+
+- Discovering values: Values are the unstated ideas that people see as worthwhile. It is the importance one assigns to abstract ideas that has the major influence on one’s choices and behavior. Values are standards of conduct that we endorse and expect people to meet.
+
+- From values to value assumptions
+
+A value assumption is an implicit preference for one value over another in a particular context. Unstated assertions about value priorities function as value assumptions. Remember value assumptions are very contextual.
+
+| Typical value conflict             | Sample controversies                                         |
+|------------------------------------|--------------------------------------------------------------|
+| Loyalty-honesty                    | Should you tell your parents about your sister’s drug habit? |
+| Competiiton-cooperation            | Do you support the grading system?                           |
+| Freedom of press-national security | Is it wise to hold weekly presidential press conferences?    |
+| Equality-individualism             | Are racial quotas for employment fair?                       |
+| Order-freedom of speech            | Should we imprison those with radical ideas?                 |
+| Security-excitement                | Should you choose a dangerous profession?                    |
+| Generosity-material success        | Is it desirable to give financial help to a beggar?          |
+| Rationality-spontaneity            | Should you check the odds before placing a bet?              |
+| Tradition-novelty                  | Should divorces be easily available?                         |
+
+- Clues for identifying value assumptions:
+    1. Investigate the author’s background
+    2. Ask “Why do the consequences of the author’s position seem so important to her?”
+    3. Search for similar social controversies to find analogous value assumptions
+    4. Use reverse role-playing. Take a position opposite the author’s position and identify which values are important to that opposite position.
+    5. Look for common value conflicts, such as individual responsibility versus community responsibility
+
+- **Descriptive assumptions**: **beliefs about the way the world is**; prescriptive or value assumptions are beliefs about **how the world should be**.
+
+- Illustrating descriptive assumptions
+
+One important kind of descriptive assumption to look for is a **definitional assumption**——the taking for granted of one meaning for a term that has multiple possible meanings.
+
+1. "On what basis can that conclusion be drawn from that reason?"  
+2. "Is there any basis for accepting the assumptions?"
+
+- Clues for discovering descriptive assumptions
+
+1. Keep thinking about the gap between the conclusion and reasons
+    - How do you get from the reason to the conclusion?
+    - If the reason is true, what else must be true for the conclusion to follow?
+    - Supposing the reason(s) were true, is there any way in which the conclusion nevertheless could be false?
+
+2. Look for ideas that support reasons
+3. Identify with the opposition
+4. Recognize the potential existence of other means of attaining the advantages referred to in the reasons
+5. Avoid stating incompletely established reasons as assumptions
+
+### Are there any fallacies in the reasoning?
+
+Refer to Section \@ref(badarguments) and \@ref(artofthinkingclearly).
+
+- Examine the reasoning structure to spot the reasoning fallacies. Three common tricks:
+    1. providing reasoning that requires erroneous or incorrect assumptions
+    2. distracting us by making information seem relevant to the conclusion when it is not
+    3. providing support for the conclusion that depends on the conclusion’s already being true
+
+List of reasoning fallacies
+
+- **Ad hominem**: An attack, or an insult, on the person, rather than directly addressing the person’s reasons.
+- **Slippery Slope**: Making the assumption that a proposed step will set off an uncontrollable chain of undesirable events, when procedures exist to prevent such a chain of events.
+- **Searching for perfect solution**: Falsely assuming that because part of a problem would remain after a solution is tried, the solution should not be adopted.
+- **Equivocation**: A key word or phrase is used with two or more meanings in an argument such that the argument fails to make sense once the shifts in meaning are recognized.
+- **Appeal to popularity (Ad populum)**: An attempt to justify a claim by appealing to sentiments that large groups of people have in common; falsely assumes that anything favored by a large group is desirable.
+- **Appeal to questionable authority**: Supporting a conclusion by citing an authority who lacks special expertise on the issue at hand.
+- **Appeal to Emotions**: The use of emotionally charged language to distract readers and listeners from relevant reasons and evidence. Common emotions appealed to are fear, hope, patriotism, pity and sympathy.
+- **Straw person**: Distorting our opponent’s point of view so that it is easy to attack; thus we attach a point of view that does not truly exist.
+- **Either-or (False dilemma)**: Assuming only two alternatives when there are more than two.
+- **Wishful thinking**: Making the faulty assumption that because we wish X were true or false, then X is indeed true or false.
+- **Explaining by naming**: Falsely assuming that because you have provided a name for some vent or behavior, you have also adequately explained the event.
+- **Begging the questions**: An argument in which the conclusion is assumed in the reasoning
+- **Glittering Generality**: The use of vague emotionally appealing virtue words that dispose us to approve something without closely examine the reasons
+- **Red herring**: An irrelevant topic is presented to divert attention from the original issue and help to “win” an argument by shifting attention away from the argument and to another issue. The fallacy sequence in this instance is as follows:
+    - Topic A is being discussed;
+    - Topic B is introduced as though it is relevant to topic A, but it is not;
+    - Topic A is abandoned
+- **Fallacies on cause and effect**
+    - **Causal oversimplification**: Explaining an event by relying on causal factors that are insufficient to account for the event or by overemphasizing the role of one or more of these factors
+    - **Confusion of cause and effect**: Confusing the cause with the effect of an event or failing to recognize that the two events may be influencing each other
+    - **Neglect of a common cause**: Failure to recognize that two events may be related because of the effects of a common third factor
+    - **Post hoc fallacy**: Assuming that a particular event, B, is caused by another event, A, simply because B follows A in time
+
+- Locating fallacies:
+    1. Identify the conclusions and reasons
+    2. keep the conclusion in mind and consider reasons that might be relevant to it
+    3. contrast these reasons with the author’s reasons
+    4. If the conclusion supports an action, determine whether the reason states a specific and/or concrete - advantage or a disadvantage; if not, be wary!
+    5. Identify any necessary assumption by asking yourself, “If the reason were true, what would on have to believe for it to logically support the conclusion, and what does one have to believe for the reason to be true?”
+    
+- Factual claims can be conclusions, reasons or assumptions. Questions to ask:
+    1. Why should I believe it?
+    2. Does the claim need evidence to support it?
+    3. How good is the evidence?
+  
+- The major difference between claims that are opinions and those that are facts is **the present state of the relevant evidence**
+
+- Sources of evidence:
+    - When the claim appears to be undisputed common knowledge
+    - When the claim is the conclusion from a well-reasoned argument
+    - When the claim is adequately supported by solid evidence in the same communication or by other evidence that we know
+
+### How good is the evidence?
+
+- **Intuition**
+    - Be wary
+    - No way to judge its dependability
+- **Personal experience**
+    - **Hasty generalization fallacy**: A person draws a conclusion about a large group based on experiences with only a few members of the group
+    - Selectivity: what was the experience like for those whom we have not heard from?
+    - Personal interest
+    - Omitted information
+    - The human factor
+- **Appeals to Authority**
+    - Keeping alert to authority doesn’t mean that we should doubt everything but to identify better explanations and make better choice
+    - When we go online, virtually everyone becomes a potential “authority” because people are free to claim whatever they wish, and there is no built-in process to evaluate each claims
+    - Problems with citers citing other citers
+- **Clues for evaluation the evidence**
+    - Intuition
+        - Does the intuition have any other kind of evidential support?
+    - Testimony
+        - What biases or interests might be affecting the person’s testimony?
+        - Does the person have any expertise to assist his or her judgement?
+        - How do the person’s value assumptions affect his or her testimony?
+        - Whose personal testimony might be helpful in assessing this person’s testimony?
+        - What information has been left out in this personal testimony?
+    - Authority
+        - How much expertise or training does the authority have on this particular subject?
+        - Was the authority in a position to have especially good access to pertinent facts?
+        - Is there good reason to believe that the authority is relatively free of distorting influences?
+        - Has the authority developed a reputation for frequently making dependable claims?
+        - Have we been able to rely on this authority in the past?
+
+- **Personal Observation**: Consider observer’s value, raises, attitudes, and expectations
+- **Research Study**: attempts to avoid biases
+- **Character of scientific method**: reproducible, controllable, precision in language
+- **Clues for evaluation research studies**: 
+    - Quality of the source of report? Sample? Analytical method?
+    - Reproducibility
+    - How selective has the communicator been in choosing studies?
+    - Is there any reason for someone to have distorted the research? Distortion in surveys?
+- **Case examples**
+    - Is there counterexample?
+    - Are there biases in how the example is reported?
+- **Analogy**
+    - To evaluate the quality of an analogy
+        - The number of ways the two things being compared are similar and different
+        - The relevance of the similarities and the differences
+        - Generate alternative analogies
+    - Faulty Analogy: Occurs when an analogy is proposed in which there are important relevant dissimilarities
+
+### Are there rival cause?
+
+- A rival cause is a plausible alternative explanation that can explain why a certain outcome occurred. You need to look for rival causes when you have good reason to believe that the writer or speaker is using evidence to support a claim about the cause of something.
+
+- When you recognize situations in which rival causes are possible, you want to ask yourself questions like:
+
+1. Can I think of any other way to interpret the evidence?
+2. What else might have caused this act or these findings?
+3. If I looked at this from another point of view, what might I see as important causes?
+4. If this interpretation is incorrect, what other interpretation might make sense?
+
+- We need to remember that any single cause that we identify is much more likely to be a contributory cause than the cause.
+
+###  Are the statistics deceptive?
+
+- Blind yourself to the communicator’s statistics and ask yourself, “What statistical evidence would be helpful in proving her conclusion?” Then, compare the needed statistics to the statistics given.
+
+- examine the author’s statistics very closely while blinding yourself to the conclusion; then ask yourself :”what is the appropriate conclusion to be drawn from those statistics?”
+
+- Deceiving by omitting information
+    1. what further information do you need before you can judge the impact of them statistics?
+    2. when only absolute numbers are presented, ask whether percentages might help you make a better judgment; when only percentages are presented, ask whether absolute numbers would enrich their meaning
+    3. Another important kind of potential missing information is relevant comparisons. It is often useful to ask the question,”As compared to …?"
+
+- Clues for assessing statistics
+    1. Try to find out as much as you can about how the statistics were obtained. Ask, “How does the author or speaker know?”
+    2. Be curious about the type of average being described
+    3. Be alert to users of statistics concluding one thing, but proving another
+    4. Blind yourself to the writer’s or speaker’s statistics and compare the needed statistical evidence with the statistics actually provided
+    5. From your own conclusion from the statistics. If it doesn’t match the author’s or speaker’s conclusion, then something is probably wrong
+    6. Determine what information is missing. Be especially alert for misleading numbers and percentages and for missing comparisons
+
+### What significant information is omitted?
+
+- It’s wise to hesitate and to think about what the author may not have told you. Omitted information is inevitable for at least five reasons.
+    1. time and space limitations
+    2. limited attention span
+    3. inadequacies in human knowledge
+    4. deception
+    5. existence of different perspectives
+
+- Clues for finding common kinds of significant information
+
+1. Common counterarguments
+    - What reasons would someone who disagrees offer
+    - Are there research studies that contradict the studies presented
+    - Are there missing examples, testimonials, or analogies that support that other side of then argument?
+    
+2.  Missing definitions
+    - How would the arguments differ if key terms were defined in other ways?
+    
+3. Missing value preferences or perspectives
+    - Would different values create a different approach to this issue?
+    - What arguments would flow from values different from those of the speaker or writer?
+4. Origins of “facts” referred to in the argument
+    - What is the source for the “facts”?
+    - Are the factual claims supported by competent research or by reliable sources?
+5. Details of procedures used for gathering facts
+    - How many people completed the questionnaire?
+    - How were the survey questions worded?
+    - Did respondents have ample opportunity to provide answers different from those reported by the person using the responses?
+6. Alternative techniques for gathering or organizing the evidence
+    - How might the results from an interview study differ from written questionnaire results?
+    - Would a laboratory experiment have created more reliable and informative results?
+7. Missing or incomplete figures, graphs, tables or data
+    - Would the data look different if it include evidence from earlier or later years?
+    - Has the author “stretched” the figure to make the differences look larger?
+8. Omitted effects, both positive and negative, and both short and long term, of what is advocated and what is opposed
+    - Has the argument left out important positive or negative consequences of a proposed action?
+    - Do we need to know the impact of the action on any of the following areas: political, social, economic, biological, spiritual, health or environmental?
+9. Context of quotes and testimonials
+    - Has a quote or testimonial been taken out of context?
+    - Would a different context have stimulated divergent responses?
+10. Benefits accusing to the author from convincing others to follow her advice
+    - Will the author benefit financially if we adopt her proposed policy?
+    - Does the author’s career depend on some manner on a particular conclusion?
+
+### What reasonable conclusions are possible?
+
+- We form different conclusions from reasons because our diverse backgrounds and goals cause us to be attracted to different assumptions when we decide to link reasons to conclusions.
+
+- Dichotomous thinking is the impediment to considering multiple conclusions
+
+- You can always use the when, where, and why questions to help generate alternative conclusions
+
+- Productivity of If-Clauses
+    - Each optional conclusion is possible because we are missing certain information, definitions, assumptions, or the frame of reference of the person analyzing the reasons. Consequently, we can create multiple conclusions by the judicious use of if-clauses. In an if-clause, we state a condition that we are assuming in order to enable us to reach a particular conclusion.
+    - When reasons in a prescriptive argument are statements of practical problems, look for different solutions to the problems as possible conclusions.
+    
+- Clues for identifying alternative conclusions
+    - Try to identify as many conclusions as possible that would follow from the reasons
+    - Use if-clauses to qualify alternative conclusions
+    - Reword the issue to “what should we do about Y?”
+
+### Practice and Review
+
+1. What are the issue and the conclusion?
+2. What reasonable conclusions are possible?
+3. What are the reasons?
+4. Which words or phrases are ambiguous?
+5. What are the value conflicts and assumptions?
+6. What are the descriptive assumptions?
+7. Are there any fallacies in the reasoning?
+8. How good is the evidence?
+9. Are there rival causes?
+10. Are the statistics deceptive?
+11. What significant information is omitted?
+
+- Strategies for effective critical thinking
+    - Be certain to demonstrate that you really want to grasp what is being said. Ask questions that indicate your willingness to grasp and accept new conclusions.
+    - Restate what you heard or read and ask whether your understanding of the argument is consistent with what was written or spoken.
+    - Voice your critical questions as if you are curious. Nothing is more deadly to the effective use of critical thinking than an attitude of “Aha, I caught you making an error.”
+    - Request additional reasons that might enable the person to make a stronger argument than the one originally provided.
+    - Work hard to keep the conversation going. If critical thinking is deployed like a bomb, thinking on that topic is halted.
+    - Ask the other person for permission to allow you to explore any weaknesses in the reasoning. The idea with this strategy is to encourage the other person to examine the argument with you.
+    - Convey the impression that you and the other person are collaborators, working toward the same objective: improved conclusions.
+
 ## Innovation
 
 ### The Ten Faces of Innovation
