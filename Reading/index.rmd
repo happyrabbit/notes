@@ -55,12 +55,13 @@ library(readr)
 library(DT)
 library(ggplot2)
 # dat <- read_csv("1_KnowledgeStructure/RawData/ReadingListHui.csv")
-require(RCurl)
+# library(RCurl)
 
 u <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vT5o04RE2sSqFGbA_iyhjAUYDE3TpGXzQMjyBrMvHUk1RpSDJ22SB0F7SLMoqXim5hn733oHYYsok0s/pub?gid=0&single=true&output=csv"
-tc <- getURL(u, ssl.verifypeer=FALSE, .encoding = "CE_UTF8")
-dat <- read.csv(textConnection(tc), stringsAsFactors =  F)
 
+# tc <- getURL(u, ssl.verifypeer=FALSE, .encoding = "CE_UTF8")
+# dat <- read.csv(textConnection(tc), stringsAsFactors =  F)
+dat <- read.csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vT5o04RE2sSqFGbA_iyhjAUYDE3TpGXzQMjyBrMvHUk1RpSDJ22SB0F7SLMoqXim5hn733oHYYsok0s/pub?gid=0&single=true&output=csv")
 idx <- grep("Novel",dat$Category)
 dat$Category[idx] <- "Fiction"
 

@@ -737,7 +737,11 @@ B就是我们对具体发生的人或 事的思考、判断。
 用“我想要……”，“我喜欢……”，“如果……就更好了”
 -->
 
-### Others
+### Feeling Good
+
+- Depression is one of the worst forms of suffering, because of the immense feelings of shame, worthlessness, hopelessness, and demoralization. 
+
+### Others {sdothers}
 
 - From TED talk: [How to fix a broken heart](https://www.ted.com/talks/guy_winch_how_to_fix_a_broken_heart?utm_source=newsletter_weekly_2018-02-10&utm_campaign=newsletter_weekly&utm_medium=email&utm_content=talk_of_the_week_image)
 
@@ -745,9 +749,6 @@ Heartbreak is far more insidious than we realize. There is a reason we keep goin
 
 Getting over heartbreak is not a journey. It is a fight, and your reason is your strongest weapon. There is no breakup explanation that is going to feel satisfying. No rationale can take away the pain you feel. So don't search for one. Don't wait for one, just accept the one you were offered or make up one yourself and then put the question to rest, because you need that closure to resist the addition. And you need something else as well: you have to be willing to let go, to accept that it's over. Otherwise, your mind will feed on your hope and set you back. Hope can be incredibly destructive when your heart is broken.
 
-### Feeling Good
-
-- Depression is one of the worst forms of suffering, because of the immense feelings of shame, worthlessness, hopelessness, and demoralization. 
 
 ## Obsessive Love 
 
@@ -1297,6 +1298,49 @@ List of reasoning fallacies
     - Work hard to keep the conversation going. If critical thinking is deployed like a bomb, thinking on that topic is halted.
     - Ask the other person for permission to allow you to explore any weaknesses in the reasoning. The idea with this strategy is to encourage the other person to examine the argument with you.
     - Convey the impression that you and the other person are collaborators, working toward the same objective: improved conclusions.
+
+## Question Power
+
+1. “问什么”包括两步：
+    
+    - 第一步，要从问句开始，而不是用阐述或者命令。
+    
+    问句可以促使人们对问题进行反思。如果只是阐述一个事实或现象，很难引起人们的思考。而如果只是发布命令，不但只会让人机械地接受，更可能引起被命令者的反感，起到事倍功半的效果。
+    
+    - 第二步，问一些每个人都会想到的、最基本的问题。
+    
+    这是一个反常识的办法。因为人们通常觉得，提出一个不易解答的、大家都不会想到的问题，才是提问的至高境界。但人们经常忽视了对一些基本事物的认知和判断。比如大家都在谈创新，但如果你提出“你眼中的创新究竟是什么样”这样的问题，有助于人们走出概念化的表述或空泛议论，而代之以实际且具体化的思考。
+
+2. “怎么问”包括三种方式：
+    
+    - 第一种，封闭式提问。 
+    
+    封闭型提问就是问得非常具体，对方只能正面回答，给出直接的答案。最典型的封闭型提问，是“是非题”，对方只能回答“是”或者“不是”。 封闭型的提问在商业领域里最经常用到，尤其是在面对长时间的空泛讨论、没有实质结果时。“我们今天要做什么样的决定？是提高客户保有率？还是交叉销售更多的产品？”提问越具体，越容易从泛泛的讨论中跳出来。
+    
+    - 第二种，开放式提问。 
+    
+    这种提问适合在需要深谈的人际沟通中提出。开放式的问题不能用简单的“是”或“否”来回答，它需要更清楚的解读，会带来更丰富的互动，因而它没有固定的答案，可以随便回答。
+    
+    我们总是下意识地以为，和别人聊天时，说得越多，越不容易冷场，越显得尊重别人。但绝大多数人实际上更愿意表达，如果你一直在滔滔不绝的说话，别人插不上嘴，等于剥夺了别人表达的权利，对方就会觉得不舒服。因此你在和别人聊天时，学会倾听，就会使沟通容易得多。
+    
+    会聊天的人，一定是善于倾听的人。做到这一点就要靠开放性的提问。 “你是如何开始的？”“你们是怎么相爱的？”“你是和谁学的弹琴？”“对你来说最高兴的一天是哪一天？”这些问题都有助于打开话匣子，实现良好的人际互动。
+
+    - 第三种，追问式提问。 
+
+    沟通不是单方面的事情，它确实需要倾听，但又不能只是倾听。有时候为了发现并且解决一些问题，就需要进行追问。它适合在复杂情况中寻找核心问题时提出，它会帮助你找到问题的核心所在。在很多时候，抽丝剥茧都是一种简化问题难度的办法。
+
+3. 提问的艺术，涉及三层境界：
+
+第一层，好的提问利于建立强大的沟通关系。 如果不想让你和亲友之间的关系衰退，如果想维系与客户之间的关系，就不要忽视情感性的东西。而通过提问并聆听，能发现对方心灵深处的想法。
+
+第二层，好的提问促使人以反思激励自己。 社会学家的研究表明，人们通常不善于从自己的经历中学习，但通过“你从中学到了什么”这样的提问，可以促使自己静思，并带来更有效的行动，成为心底最深刻的记忆。
+
+有些建立在经历基础上的反思，印记会更难以磨灭——你可以这样问自己：如果生命只剩下三年，你会做点什么以改变生活？
+
+这种反思，比面对现实问题的思考更具有冲击力，它迫使你更有想法、更有计划性地去完成任务，把每一天都当作余生来度过。
+
+第三层，提问的终极指向是认清自我。 我们在人生道路上为什么要这样或者那样，取决于你对自己的拷问，以及你所给出的答案。
+
 
 ## Innovation
 
