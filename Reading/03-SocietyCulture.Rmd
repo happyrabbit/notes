@@ -96,7 +96,7 @@ Harold Innis: Harold Adams Innis (November 5, 1894 – November 8, 1952) was a C
 
 Empire and Communications is a book published in 1950 by University of Toronto professor Harold Innis. It is based on six lectures Innis delivered at Oxford University in 1948. The series, known as the Beit Lectures, was dedicated to exploring British imperial history. Innis however, decided to undertake a sweeping historical survey of how communications media influence the rise and fall of empires. He traced the effects of media such as stone, clay, papyrus, parchment and paper from ancient to modern times.
 
-Innis argued that the “bias” of each medium either toward space or toward **time* helps determine the nature of the civilization in which that medium dominates. “Media that emphasize time are those that are durable in character such as parchment, clay and stone,” he writes in his introduction. These media tend to favour decentralization. “Media that emphasize space are apt to be less durable and light in character, such as papyrus and paper.” These media generally favour large, centralized administrations. Innis believed that to persist in time and to occupy space, empires needed to strike a balance between time-biased and space-biased media. Such a balance is likely to be threatened however, when monopolies of knowledge exist favouring some media over others.
+Innis argued that the “bias” of each medium either toward space or toward time helps determine the nature of the civilization in which that medium dominates. “Media that emphasize time are those that are durable in character such as parchment, clay and stone,” he writes in his introduction. These media tend to favour decentralization. “Media that emphasize space are apt to be less durable and light in character, such as papyrus and paper.” These media generally favour large, centralized administrations. Innis believed that to persist in time and to occupy space, empires needed to strike a balance between time-biased and space-biased media. Such a balance is likely to be threatened however, when monopolies of knowledge exist favouring some media over others.
 
 Empire and Communications examines the impact of media such as stone, clay, papyrus and the alphabet on the empires of Egypt and Babylonia. It also looks at the oral tradition in ancient Greece; the written tradition and the Roman Empire; the influence of parchment and paper in medieval Europe and the effects of paper and the printing press in modern times.
 
@@ -104,7 +104,11 @@ Empire and Communications examines the impact of media such as stone, clay, papy
 
 一、传播媒介的两种偏向
 
-伊尼斯认为，传播媒介可以分为两类，一类是时间偏向的媒介，另一类是空间偏向的媒介。 - 所谓时间偏向的媒介，就是那些更适合长时间保存信息的媒介，比如石碑、佛窟。这类传播媒介的优势在于能够经受住时间的冲刷，将信息长久保存下来。不过，它也有一个致命的缺点，就是体积太大，无法远距离运输。 - 空间偏向的媒介恰恰可以弥补时间偏向媒介的缺点，也就是说，它擅长远距离传输。我们熟悉的报纸、广播、电视，都属于这一类媒介。不过，它也有自己的问题。相比之下，空间偏向媒介中的信息难以保存较长时间。
+伊尼斯认为，传播媒介可以分为两类，一类是时间偏向的媒介，另一类是空间偏向的媒介。 
+
+- 所谓时间偏向的媒介，就是那些更适合长时间保存信息的媒介，比如石碑、佛窟。这类传播媒介的优势在于能够经受住时间的冲刷，将信息长久保存下来。不过，它也有一个致命的缺点，就是体积太大，无法远距离运输。 
+
+- 空间偏向的媒介恰恰可以弥补时间偏向媒介的缺点，也就是说，它擅长远距离传输。我们熟悉的报纸、广播、电视，都属于这一类媒介。不过，它也有自己的问题。相比之下，空间偏向媒介中的信息难以保存较长时间。
 
 二、两种不同媒介会影响甚至决定某一个文明的兴盛或衰落
 

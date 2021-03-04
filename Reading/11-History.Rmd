@@ -338,18 +338,19 @@ Human這個概念指的人，屬於人「屬」的動物，在過去並不是只
 
 智人真的走向了末日，機器人種族將有自己的獨立意識，來反抗人類主人。到時候智人會被新物種替代嗎？歷史發展的車輪將會給我們答案。
 
-6.2 Big History [MOOC]
+## Big History [MOOC]
 
-6.2.1 What is big history?
+### What is big history?
 
-History of everything in our universe, from the universe appeared in the Big Bang. It links different disciplines.
+- History of everything in our universe, from the universe appeared in the Big Bang. It links different disciplines.
 
-Crucial things about big history:
-Timeline: dates to the story (Hui: I question it)
-Storyline: appearance of more and more complex things in the universe despise the Second Law of Thermodynamics
-Goldilocks conditions: the porridge was wither too hot or too cold (just right), conditions that are just right for emergence of more complex things
-Thresholds of increasing complexity: moments in the story when something new emerges
-Energy is what allows the creation of more complex things in a simple universe. Goldilocks conditions are the perfect conditions that allow something new to appear
+- Crucial things about big history:
+
+1. Timeline: dates to the story
+2. Storyline: appearance of more and more complex things in the universe despise the Second Law of Thermodynamics
+3. Goldilocks conditions: the porridge was ither too hot or too cold (just right), 4. conditions that are just right for emergence of more complex things
+4. Thresholds of increasing complexity: moments in the story when something new emerges
+5. Energy is what allows the creation of more complex things in a simple universe. Goldilocks conditions are the perfect conditions that allow something new to appear
 
 6.3 总统是靠不住的 [林达]
 
