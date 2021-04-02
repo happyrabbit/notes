@@ -318,7 +318,7 @@ Such vaunted reforms as the abolition of torture and the emergence of the modern
 
 很多年轻人沉迷于网络游戏，荒废工作学习，因为游戏的设计者利用了心理学上刺激反馈的概念，这种机制给你一个短期刺激，做一个动作就会有相应的反馈出现，而工作学习是个苦活，还要长期坚持才能见效，不如游戏里即时刺激有趣。
 
-Hui: Deferred gratification
+<span color = "blue"> Hui: Deferred gratification </span>
 
 3.在不懂的事情上，我们一样有偏见，在网上慷慨激昂的反对转基因食品的人，并不清楚转基因到底是什么，只是凭感觉认为人工的东西不如天然。去医院看病，明明看不懂，但主管会觉得医生肯定做不必要的检查了，在我们认知水平达不到的领域，我们也喜欢按直觉和情绪去理解很多东西。
 
@@ -380,21 +380,28 @@ The survival of the West depends on Americans reaffirming their Western identity
 
 文明之间为何会产生冲突？文明之间的冲突与民族之间、国家之间、政治之间、意识形态之间相比，为何有过之无不及？
 
-文明是比较本质、很难改变的差异
-民族国家的情绪。比如，国籍可以改变，但是文化标签很难改变
+文明是比较本质、很难改变的差异。比如，国籍可以改变，但是文化标签很难改变
 如今由于经济联系越来越多，人们在交往中意识到彼此的文明不同，强化了各自的身份认同。
+
 西方和非西方文明
-“现代化”：西方文明的关键词
-血腥的殖民化：西方制度的传播
-带来繁荣：剥削与不平等
-西方文明演进的三部曲：武力——制度——意识形态的传播
-西方文明不能攻破的是：宗教
+
+- “现代化”：西方文明的关键词
+- 血腥的殖民化：西方制度的传播
+- 带来繁荣：剥削与不平等
+- 西方文明演进的三部曲：武力——制度——意识形态的传播
+- 西方文明不能攻破的是：宗教
+
 无法洗净的底色——中国儒家文化
+
 西方文明在最近几十年中走向衰弱：西方掌握的土地和人口日渐下降，政治经济军事实力都大不如前。中国、俄罗斯等国家已经崛起，非西方文明与西方文明的冲突开始了。
+
 文明断层线
-文明内部整合的关键：有无核心国家。
-冲突的主要来源：不同文明的断层线。
+
+- 文明内部整合的关键：有无核心国家。
+- 冲突的主要来源：不同文明的断层线。
+
 文明冲突论
+
 作者预言的很多冲突都已经发生：伊斯兰文明和西方文明的矛盾，中国文明和日本文明的冲突，东正文明和西方文明的交锋
 
 ## Chrysanthemum and Sword
@@ -475,7 +482,7 @@ Again, we should be aware that our meal is almost totally female in connotation.
 ### Corn
 
 玉米片(Corn Flakes) 凯洛格所用的“谷物回火”方法在1894年取得专利。(The Kellogg “grain-tempering” process was patented in 1894.) － 玉米和遗传学(Corn and Genetics) 在美洲殖民地无所不在的玉米，除了食用之外又发展出上千种用途，其中一个用途就是用玉米穗轴制成的烟斗。(The ubiquity of the corn plant in Colonial America had made it standard material for a thousand uses which had nothing to do with food. One devive was the corncob smoking pipe.)
-玉米植株兼具雄性（穗）与雌性（须）两种性别，杂交玉米通过摘除自身的穗来完成，这样以来，玉米植株就不会自身授粉，而是必须接受来自其它植株的花粉。……通过受制遗传，培育出雄花不育的植株。(A corn plant is both male (its tassels) and female (its silks). Hybrid corn seed is to bear the grain, so that the plant cannot seed itself but will receive pollen from the other inbred parent chosen to be planted in the same field……by genetic manipulation, to produce no pollen.)
+玉米植株兼具雄性（穗）与雌性（须）两种性别，杂交玉米通过摘除自身的穗来完成，这样以来，玉米植株就不会自身授粉，而是必须接受来自其它植株的花粉......通过受制遗传，培育出雄花不育的植株。(A corn plant is both male (its tassels) and female (its silks). Hybrid corn seed is to bear the grain, so that the plant cannot seed itself but will receive pollen from the other inbred parent chosen to be planted in the same field……by genetic manipulation, to produce no pollen.)
 同一性是一个现代社会特有的诅咒，它伪装着自己，以多样化的形式装在超市的罐头里，盒子里，瓶子里和纸板箱中。每一件摆在架子上的东西里都含有玉米，因此我们依赖着玉米，玉米也依赖着我们。我们自己证明出来的无能为力，却让我们承担起越来越多不可逃避的责任。(Uniformity, disguise itself as it may behind the multiplicity of cans, boxes, bottles, and cartons in our supermarkets, is a peculiarly modern curse. Everything on the shelves contains corn. We therefore depend on corn. But corn depends increasingly, because of our wanton（荒唐的） wastefulness, on us. Our own demonstrations of our incapacity to manage have placed us more exclusively and inescapably in charge.)
 
 ### Salt
@@ -488,7 +495,8 @@ Again, we should be aware that our meal is almost totally female in connotation.
 ### Ice-cream
 
 至少在1100BC，中国人就知道如何在地下建造冰库。
-Hui: 有种说法是，唐朝的《酉阳杂俎（yǒu yáng zá zǔ）》[是笔记小说集]里头，已经提到过冰与奶制品混一的玩意，叫做“酪饮”。宋朝时，大家也习惯类似东西叫冰酪，可能那就是冰淇淋的雏形。但法国人相信，冰淇淋是美第奇嫁到法国之后，才真正进入文明世界的——那就天晓得了。[“美第奇家族”（Medici Family）是佛罗伦萨13世纪至17世纪时期在欧洲拥有强大势力的名门望族。Maria de’ Medici于1600年嫁给亨利四世，成为其第二任妻子，法国王后，路易十三的母亲。她是意大利豪门美第奇家族的重要成员。]
+
+<span color = "blue"> Hui: 有种说法是，唐朝的《酉阳杂俎（yǒu yáng zá zǔ）》[是笔记小说集]里头，已经提到过冰与奶制品混一的玩意，叫做“酪饮”。宋朝时，大家也习惯类似东西叫冰酪，可能那就是冰淇淋的雏形。但法国人相信，冰淇淋是美第奇嫁到法国之后，才真正进入文明世界的——那就天晓得了。[“美第奇家族”（Medici Family）是佛罗伦萨13世纪至17世纪时期在欧洲拥有强大势力的名门望族。Maria de’ Medici于1600年嫁给亨利四世，成为其第二任妻子，法国王后，路易十三的母亲。她是意大利豪门美第奇家族的重要成员。] </span>
 
 第一个影响深远并且享有声望(influential and lasting fame)的咖啡馆(Cafe)，是巴黎的Cafe Procope。Francesco Procopio dei Coltelli在1686年开办了这座咖啡馆，他是意大利人(Italian)，可能经由弗洛伦萨(Florence)从西西里岛(Sicily)而来。
 The first automatic cane-rolling machine（蛋筒制造机）was invented in 1909.
@@ -506,7 +514,7 @@ The first automatic cane-rolling machine（蛋筒制造机）was invented in 190
 
 福塞尔(Paul Fussell, American cultural and literary historian, author and university professor)《格调(Class)》里认为，现代社会，下等人才会迷恋甜味。上流社会也因此摇旗鼓吹，认为懂得品茶与咖啡的苦味，才能谏果回甘，体会到深层的味道云云......大概可以这么说：上等人觉得，甜味经常显得女性化、脆弱、下等、世俗、不够高雅，能尝得苦味才显得品味非凡、耐得住寂寞等等，但抛去一切形而上的想象，我们普通人类本性的DNA里，还就是喜欢甜的东西。
 
-Hui: 《格调》是一本精确而刺痛人的社会等级指南。等级是什么？它不是你的职业，不是你居住的地方，不是你的餐桌举止，不是你有多少钱或者你能挣多少钱。等级是一系列细微事物的组合，你很难说清楚。正是这些细微的品质确立了你在这个世界上的位置。作者通过敏锐的观察、独特的视角、鞭辟入里的分析和机智幽默的文笔，把美国社会中的社会等级现象和三六九等人的品味做了细致入微的对比。
+<span color = "blue"> Hui: 《格调》是一本精确而刺痛人的社会等级指南。等级是什么？它不是你的职业，不是你居住的地方，不是你的餐桌举止，不是你有多少钱或者你能挣多少钱。等级是一系列细微事物的组合，你很难说清楚。正是这些细微的品质确立了你在这个世界上的位置。作者通过敏锐的观察、独特的视角、鞭辟入里的分析和机智幽默的文笔，把美国社会中的社会等级现象和三六九等人的品味做了细致入微的对比。</span>
 
 ## 咖啡馆里的欧洲文化 {#eucoffeehouseculture}
 
@@ -568,16 +576,20 @@ Roland Mischkl: “大部分的侍者都是有美丽外表的女性，她们穿�
 ### 古文明的脉络
 
 玛雅文明
-每个民族一般都有一个纪元。
-罗马帝国的纪元以它的建立为起点；
-希腊以第一次古奥林匹克竞技为起点；
-基督教国家则以耶稣的诞辰为起点。
+
+- 每个民族一般都有一个纪元。
+- 罗马帝国的纪元以它的建立为起点；
+- 希腊以第一次古奥林匹克竞技为起点；
+- 基督教国家则以耶稣的诞辰为起点。
+
 玛雅的传说中，他们有好几个世纪，每个纪元都是以地球毁灭性破坏的结束为起点。玛雅的最后一个纪元开始与公元前3113年，正是他们在中美洲定居下来的日子；玛雅的上一个纪元开始与公元前11000年，那时正好地球上冰河期（Ice Age）结束。再往前推，他们还有三个纪元，每个纪元的时间都要以几十万年或几百万年来计算。
 
 马丘比丘
+
 印加遗址中最为著名的地方就是马丘比丘。
 
 埃及
+
 埃及的象形文字产生于公元前4000年左右。它同苏美尔文的楔形文字、古印度文以及中国的甲骨文一样，都是独立地从原始社会最简单的图画和花纹产生出来的，但这种文字最初仅仅是一种图画文字，后来才发展成象形文字。
 
 神奇古都底比斯
