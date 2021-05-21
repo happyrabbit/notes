@@ -1,0 +1,80 @@
+# Differences
+
+In this module, you will learn human variation. The first half will focus on personality and intelligence, and the role of genes and environment in explaining individual differences. The second half will focus on clinical psychology by reviewing prominent mental illnesses and therapies.
+
+## Personality
+
+Personality is defined as a person's style of dealing with the world and particularly with other people. 
+
+Assess the personality test
+
+- reliability (low variance): if you test the same person over time, you should get the same result
+- validity (low bias): how well it measures what it's supposed to measure?
+
+One classic personality test over time is the Rorschach Inkblot: what do people see from the inkblot?
+
+- Most psychologists believe it has no validity at all
+
+A better way to test personality
+
+- Gordon Allport took 18,000 traits from a dictionary that he viewed as bearing on personality.
+- Similar trains: friendly, sociable, welcoming, warm-hearted
+- Psychologist try to zoom it down to big 5 (OCEAN)
+    - Stable over many years (more after 30)
+    - Agreement across multiple observers
+    - Predicts real world activities
+
+    ![Differences%20d0ccacf5732742b5a744d4612d80d48a/Untitled.png](Differences%20d0ccacf5732742b5a744d4612d80d48a/Untitled.png)
+
+## Intelligence
+
+- It is hard to get explicit about what we mean by intelligence.
+- There was a poll of 1,000 experts asking them what intelligence meant to them. And just about all of them mentioned **abstract**, **reasoning**, **problem-solving**, and **ability to acquire knowledge**. And then other things kept coming up **memory**, **mental speed**, **language**, **math**, **knowledge**, **creativity,** etc.
+- Classic tests by Spearman break down intelligence into two parts, S and G.
+    - Imagine there are 6 separate tests, separate components of an intelligence test and you'll do them and you'll get 6 scores.
+    - Spearman points out that you could break this up
+        1. S: people's skill at each individual test
+        2. G: a common factor spanning all of these tasks
+- The success of IQ tests is, to some extent, a self-fulfilling prophecy. Think about skin color. Where skin color is powerfully related to how well you do in life. At least in part, because people take skin color very seriously when making decisions, both consciously and unconsciously.
+- It seems not very debatable that IQ captures something of meaningful relevance. So there's actually research that finds that your score on a test correlates with your mental speed and the span of your working memory (short-term memory). People with high IQs as measure by IQ tests are able to think in some way faster and better. And it does make a difference in everyday life.
+
+## Behavioral genetics
+
+Nature v.s. nurture
+
+- Heredity: proportion of variance due to genetic differences
+- Shared environment: proportion of variance due to environment shared by family members
+- Non-shared environment: proportion of variance due to all other factors
+
+![Differences%20d0ccacf5732742b5a744d4612d80d48a/Untitled%201.png](Differences%20d0ccacf5732742b5a744d4612d80d48a/Untitled%201.png)
+
+![Differences%20d0ccacf5732742b5a744d4612d80d48a/Untitled%202.png](Differences%20d0ccacf5732742b5a744d4612d80d48a/Untitled%202.png)
+
+## Major discoveries about genes and the environment
+
+![Differences%20d0ccacf5732742b5a744d4612d80d48a/Untitled%203.png](Differences%20d0ccacf5732742b5a744d4612d80d48a/Untitled%203.png)
+
+A qualification on high heritability: 
+
+The conclusions about the importance of genes apply within groups
+
+Differences between groups may well be due to environmental forces
+
+## Parents
+
+shared environment doesn't matter at least for children in well-off or middle-class families. 
+
+Judith Rich Harris, the nurture assumption, why children turn out the way they do. parents matter less than you think and peers matter more. 
+
+Good kids have good parents
+
+- because parents do something that affects their kids
+- parents share the genes with the kids
+- child effects: the child is making the parents good, not vice-verse
+
+Kids who have a family meal with their parents are less prone to take drugs
+
+- family meal makes kids less prone to take drugs
+- if kids don't take drugs are more likely to be around for family meals
+- good families tend to raise kids who don't take drug and have family meal. bad families tend to raise kids who take drug and don't have family meal
+- age of the kids also matters, 12 years old more likely to have family meal and don't take drug. 17 years old less likely to have family meal and take drug.

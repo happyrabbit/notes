@@ -1,0 +1,116 @@
+\mainmatter
+
+# Skinner
+
+## B.F. Skinner
+
+1960s and 1970s, major figure, dominated American intellectual life with his radical theory
+
+Freud invented Psychoanalysis pretty much from scratch.
+
+Skinner came late into the field, but he packaged these ideas. He expanded upon them and he presented them as an articulated theory, the
+
+Theory of Behaviorism
+
+- emphasis on learning: everything you know, everything you are is the result of your experience.Prior to Skinner, this idea was nicely summed up by John Watson, who said,
+
+    "Give me a dozen healthy infants, well-formed, and my own specified world to bring them up in and I'll guarantee to take anyone at random, train them to become any specialist I may select--doctor, lawyer, artist, merchant-chief, and, yes, even beggar-man and thief, regardless of his talents, passions, tendencies, abilities, vocations, and race of his ancestors."
+
+- Anti-mentalism: see behaviorism as the backlash against the excesses of Freud
+    - get away from unscientific things:  desires, wishes, goals,  beliefs, and emotions
+    - stick to scientific things: stimulus, responses, feature of the environment
+- no interesting differences across species: the only difference between a person and a rat is what they could come to know lies in the situations in which they are raised
+
+## Habituation
+
+what is it? habituation as a declining tendency to respond to stimuli that are familiar due to repeated exposure. →   we get used to things, we might react strongly to something that we experienced for the first time, but if we experienced it over and over again, we'll react less strongly. 
+
+What is it for? an adaptive mechanism to keep us focusing on new objects and events. 
+
+Similarly for any of us dealing with our environments, something new should capture attention, something old less so, because we already know about it. It turns out habituation is an extremely important learning mechanism. Without it, I'm not sure how we could survive in the world. 
+
+## Classical conditioning
+
+What is it? the learning of an association between one stimulus and another stimulus. 
+
+This mechanism can best be illustrated through a famous experiment by the Nobel Prize-winning physiologist Ivan Pavlov. 
+
+What is it for? Sensitivity to a cue that an event is about to happen allows you to prepare for that event. 
+
+Q: what is the optimal timing between the conditional stimulus and un-conditional stimulus? It turns out it's not best when they're simultaneous, rather the connection best when the conditioned stimulus comes immediately before the unconditioned stimulus. This makes sense if you think that neurological system underlying classical conditioning is built so that you can prepare and anticipate.
+
+## Instrumental Conditioning (aka operant conditioning)
+
+What is it? The learning of an association between actions and rewards or punishments.
+
+What is it for? Learning what works and what doesn't 
+
+This is different from classical conditioning. Classical conditioning is passive. Instrumental conditioning is based on your own action. You act on the world and then the way the world treats your actions shapes the nature of your future actions. 
+
+Skinner didn't devise the idea of instrumental conditioning but built on it. This was his major theoretical and experimental research program was focusing on the extent to which operant conditioning could shape the behavior of humans and of other animals. 
+
+The theoretical foundations for operant conditioning were established by the psychologist, Edward Thorndike. Thorndike noticed in his studies that animals don't seem to learn through sudden insight, but rather through a series of random activities that they get better and better at. His example was putting a cat in a puzzle box. Thorndike summarized what was going on here, as the **law of effect,** *the tendency to perform an action is increased if rewarded, weakened if not.*
+
+Suppose you have to train a pig. How would you train a pig? What you would do is, you would reinforce it. There are two types of reinforcement, there's positive reinforcement, giving it something it wants, and negative reinforcement, **releasing** it from something aversive. If the pig is doing something you want it to do you could reinforce it, and if it's doing something you don't want it to do, you could punish it.
+
+But that's really limited because suppose you wanted to make the pig do something it's never done before, like dance, well you can't just wait for it to dance and then reinforce it. It will never do that. 
+
+- Shaping:  When the pig moves in a certain way that approximates dancing, you reward it, and now it'll start to do that. Then when it moves in that way and another way and it's looking even more like dancing, you reward it again. In other words, as the pig gradually approximate the behavior you hope it to do, you reward it on its way.
+- Skinner described shaping as analogous to natural selection. The way eyes evolve is, animals evolve something that very roughly approximates, something approximating something like an eye, which leads to increased survival and reproduction. Then you have step by step by step by step until they evolve complex structures.
+- But real life doesn't work that way. There are all sorts of partial reinforcement in the world, in which we get reinforced some of the time, and not all of the time.
+- Schedules of reinforcement
+    - fixed ratio
+    - variable ratio
+    - fixed interval
+    - variable interval
+
+## Scientific assessment of Skinner
+
+1. no innate knowledge. These three mechanisms are all an animal would need.
+2. The second is anti-mentalism. You would explain mental life without mental stuff like desires and goals, but just through principles that linked up stimulus and response. 
+3. these learning mechanisms will work for any stimulus and any response. And for any animal, the way humans learn is no different in principle from how rats learn, and how monkeys learn, and how pigeons learn
+
+At least to some extent that these three claims are mistaken. 
+
+1. there's a lot of evidence for unlearned knowledge. There was evidence for innate contribution to capacities like learning language, perceiving a physical world, understanding numbers, certain aspects of sexual preference, and so on. 
+
+2. Even when it comes to learning, which is the focus of behaviorism, it turns out different animals have different learning mechanisms. The way birds learn birds' song seems quite different from the way that humans learn the language. The way some animals learn to navigate is just different from the way other animals learn to do this. The way some animals form attachments or develop cooperative behavior is often special to that sort of species of animal. And none of this is that surprising, natural selection will take different creatures on different paths.
+
+3. As for the sort of middle proposal that is unscientific to talk about observables. In some way, this is an understandable reaction to Freud. Who made all sorts of dramatic claims that were unfalsifiable and difficult to pin down and horribly vague. But the truth is that all sciences talk about observables. Biologists talked about genes even before we even knew what one looked like. Physicists talk about string theory.
+
+For psychology, when explaining a complex and intelligent mechanism, it makes sense to appeal to internal representation.  One of the objections to behavior is that **it's crazy to deny that we think even if we don't move that we have dreams, that we have fantasies, that we deliberate over things**, and a behaviorist might say that's fine, but that's not scientific. But **to explain even the most basic of human behaviors, you need to appeal to these internal representations, and true as well for animals.**
+
+Animals, for instance, get better and better at learning something even without reinforcement and punishment. There is a rich literature developed by the psychologist Tolman, on what's called latent learning, which is learning without any sort of feedback. You could imagine yourself looking over a map or making your way through a house, and coming to understand the spatial arrangement without any sort of reinforcement. 
+
+The idea that reinforcement, at least in any sort of specific concrete sense, is not plausible. And here's a nice illustration of an experiment that shows how animals might really do in an interesting sense, have maps in their head. [laboratory rats are more capable of more than trial and error learning].
+
+Let's step back to a broader question. Does behaviorism in general provide good explanations for human action? Skinner made the case for it in his classic and quite wonderful book, Verbal Behavior. But Verbal Behavior was subject to a book review by the linguist and public intellectual Noam Chomsky. And this book review became actually the most, I think, important book review in human intellectual history. I think it's fair to say that Chomsky's critiques in this book review shattered the foundations of behaviorism.
+
+In his review, he analyzed Skinner's claims in their own right. In particular, his claim that human behavior is shaped by reinforcement and punishment.
+
+At least when it comes to people, these notions are either flat wrong or so vague as to be unfalsifiable and uninteresting. So Chomsky points out for instance that Skinner raises questions like why do people talk to ourselves or why do we imitate things sometimes or create art? Give bad news to enemies or fantasize without pleasant situations. 
+
+- What Skinner says is for each of these, it's reinforcement. We do this because it's reinforcing.
+- Chomsky's point is this. It's either false or empty. It's not literally true that these things are reinforcing in the sense that you get some sort of food, or pat on the head, or gift, or something that gives you pleasure as soon as you do it.
+    - When I talk to myself, I don't get any prize for it, I just like talking to myself sometimes.
+    - When I fantasize, the fantasy itself is its own reward, but there's no reinforcement.
+- Skinner could say that you do get reinforcement, it's just more abstract, it's rewarding, and that's the reinforcement.
+- Chomsky's point here is, when you make reinforcement so abstract, you lose any explanatory power. You just say we like it because we like it.
+
+If Skinner is forced to say that creating art is reinforcing because we like creating art, that just comes down to the claim we create art because we like creating art, which is true, but psychologically uninteresting.
+
+And so it may well be that Skinner's theory of punishment and reinforcement when made really explicit, in a way we did when we talked about training a pig or something, is a wonderful explanation of animal learning and the training of animals. But **it seems to fall short when explaining why humans do what we do.**
+
+Move beyond the Chomsky critique. It's not actually true that our behaviors are the product of the law of effect. Because sometimes, we actually come to insights. If I was stuck in the puzzle box, I wouldn't flail away and do 100 things. Rather, I would think about it. I'd model it in my head, figure out what works and act upon it.
+
+So where does this leave us? The legacy of behaviorism:
+
+- It has given us a richer understanding of some very important learning mechanisms. There may be much more in our head, there may be innate knowledge, there may be insight, but I can't imagine anybody doubting that we have the capacity for habituation, classical conditioning, and operant conditioning. And then this can explain certain really important aspects of human thought and human behavior.
+- behaviorism and particularly the work of Skinner, has given as powerful tools for training and for teaching for people including children but also for non-verbal creatures, and has been an important contribution to the world in that.
+- But it **underestimates the scope and power of human mental life**.
+
+If the problem of Freud is that his theories were too all-encompassing and too vague and too ungrounded in empirical effect to ultimately become a successful theory of the mind. 
+
+The problem with Skinner is that when taken specifically, his theories just fail to explain the richness of human mental life. 
+
+We'll talk about all sorts of things about the mind that the ideas of behaviorism are simply not sufficient to address. Just like Freud, Skinner's ideas live on. There's a lot to behaviorism that even now the most nativist, the most cognitive psychologist still has to contend with

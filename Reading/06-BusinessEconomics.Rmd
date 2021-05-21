@@ -14,11 +14,11 @@
 
 Political Economy or Economics is a study of mankind in the ordinary business of life......it is on the one side a study of wealth; and on the other and more important side, a part of the study of man......two great forming agencies of the world’s history have been religious and economic.
 
-Hui: I agree. Religion and economy set the frame.
+<span color = "blue"> Hui: I agree. Religion and economy set the frame. </span>
 
 ### The substance of economics
 
-Economics is a study of men as they live and move and think in the ordinary business of life. But it concerns itself chiefly with those motives which affect, most powerfully and most steadily man’s conduct in the business part of his life……the steadiest motive to ordinary business work is the desire for the pay which is the material reward of work.
+Economics is a study of men as they live and move and think in the ordinary business of life. But it concerns itself chiefly with those motives which affect, most powerfully and most steadily man’s conduct in the business part of his life......the steadiest motive to ordinary business work is the desire for the pay which is the material reward of work.
 
 ## Fishing for Phools 
 
@@ -72,13 +72,13 @@ Sharelogy explores the history, art and science of sharing, and illustrates why 
 
 数字化时代，我们获得了一种新的交流方式，那就是社交科技，我们在社交媒体上跟世界上的其他人联系起来。这种联系变得更广泛了，我们有能力在全球范围内进行分享。 作为人类，创造和分享信息很重要。但是科技时代，创造和分享个人品牌就变得更加重要。因为只有创造和分享个人品牌才能改变人们对你的认知，并以此相互联系，在此基础上才能找到跟你志趣相同的人。
 
-公式：一个人的个人品牌=别人如何评价你分享的信息内容和信息来源。
+公式：一个人的个人品牌 = 别人如何评价你分享的信息内容和信息来源。
 
 三、把分享作为商业之道进行分享营销
 
 从品牌角度而言，数字化时代最大的缺点就是统一的品牌认知与个性化的客户之间的矛盾。如果你的品牌能够与你的用户成为潜在的朋友，而不是被当做一个冷淡又漠然的存在，无法与用户沟通，那么你就能优于你的竞争对手。
 
-公式：你的用户愿意分享你的言论=他们信任你分享的内容和你信息的来源。
+公式：你的用户愿意分享你的言论 = 他们信任你分享的内容和你信息的来源。
 
 你要尽量人性化，人性化就代表着具有可分享性。未来的商业模式就是在人际关系之上建立顾客关系，并和顾客保持互动。从广而告之的传播方式转变为寻求怎样才能创造出有趣的分享内容，也就是进行分享营销。
 
@@ -116,7 +116,7 @@ Sharelogy explores the history, art and science of sharing, and illustrates why 
 
 当然，你分享的内容和频率都应该适度，并不是越多越好。第一时间公布好消息可能会产生负面效果，大大降低分享的影响力，好消息的分享和公布需要事先进行合理安排，坏消息也一样。衡量你分享的信息量是否超标的标准就是，受众是否会“产生共鸣”，过剩了就会把关注者们都吓跑。除非你对某些事情知道的比我多得多，否则我对你说的话可没什么兴趣，我们已经掌握了太多信息了。
 
-Hui: how to figure out the right time/content/prequency?
+Hui: how to know the right time/content/prequency?
 
 七、让帮助替代推销
 
@@ -166,7 +166,7 @@ Hui: how to figure out the right time/content/prequency?
 
 （4）在内容里加入一点个性
 
-比如，“三个玉米的食谱”就比“玉米如何拯救了我枯燥的晚餐”这个标题更容易让人点击和分享。
+比如，“玉米如何拯救了我枯燥的晚餐”就比“三个玉米的食谱”这个标题更容易让人点击和分享。
 
 2.培育优质粉丝
 

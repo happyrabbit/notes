@@ -1,0 +1,143 @@
+# Clinical psychology
+
+Psychologists use diagnostic and standard manual file. This includes:
+
+- crazy people muttering on the streets as in schizophrenia.
+- down syndrome or autism.
+- An elderly person with dementia.
+- Somebody with depression so bad that they can't get out of bed.
+- Somebody for social phobia who's profoundly awkward around people.
+- Someone who's a paranoid schizophrenic, maybe who meets the sort of ultimate stereotype of the mentally ill who might believe that his or her thoughts are being monitored by the CIA.
+
+There are reasonably clear cases of what it's like to have a mental illness. But they're also difficult cases.
+
+- what do you deal with a successful criminal? Like Bernie Madoff who swindled people edited their life savings.
+- where do evil end and mental illness begin?
+- Is addiction a mental illness?
+- Where do illness end and free will begin?  This isn't just a philosophical problem, it's an everyday problem.
+
+**How do we think about mental illness?** 
+
+- One ancient view was it's due to demonic possession
+- Another view worth talking about is the labels of mental illness or what we do to people who deviate from us socially.  It's worth taking seriously because, in many countries, including what used to be the Soviet Union, dissidents, people who protested against the governments were put in insane asylums. As an example that comes closer to home, people with certain sexual desires, including homosexuality used to be counted as mentally ill by the psychological and psychiatric community. It was only in 1973 that being gay was no longer counted as a mental illness.
+- Psychiatrist Thomas Szasz in his book "The Myth of Mental Illness"
+
+> Mental illness is a myth. We call people sick mentally ill if they deviate from society, and the label of mental illness deprives them of responsibility and dismisses them.
+
+There is a recent debate for instance over neuro diversity. 
+
+- For instance, being mildly autistic isn't an illness in any interesting sense, but more just diverse aspects of different ways of processing information in dealing with the world,
+- On the other hand, it'll be pretty clear that these really are illnesses in a very real sense. They lead up to a lack of functioning. They're often associated with brain damage or brain trauma or unusual neurochemistry.
+- Maybe most important with treatment, people become happier and more competent and better able to deal with the world.
+- **The medical model of mental illness:** you think in terms of symptoms and an underlying disorder that is ultimately treated.
+
+## Schizophrenia
+
+Schizophrenia is the most important and most terrible of all mental illnesses.
+
+- By some estimates, about 1% the world's population suffer from schizophrenia
+- about 50% of the beds in mental hospitals are occupied by schizophrenics.
+- It is NOT multiple personality disorder
+- From the greek "split" and "mind": a loss of touch of reality
+
+**Positive symptoms**
+
+- hallucinations
+- delusions
+- disorganized speech
+- disorganized behaviors
+
+**Negative symptoms**
+
+- absence of normal cognition
+
+**Subtypes of schizophrenia**
+
+- paranoid: delusions of persecution
+- catatonic: unresponsive to surroundings, purposeless movement, parrot-like speech
+- disorganized: delusions and hallucinations with little meaning, disorganized speech, behavior and flat effect
+- Undifferentiated: others that are hard to classified
+
+**The basic psychological malfunction**
+
+- inability to sequence and coordinate thoughts and perceptions
+- further problems arise from loss of contact with others
+
+**The basic neural malfunction**
+
+- **too much dopamine (but it is not that simple)**: studies of schizophrenia find abnormally high dopamine activity. One reason to believe this is that **anti-psychotic** drugs have some beneficial effect on schizophrenia and they work by blocking dopamine reception at the synapse so dopamine doesn't work as well.
+- It's also supported by the fact that if somebody who's not schizophrenics takes a lot of amphetamines, you sometimes get amphetamine psychosis, which is a lot like schizophrenia.
+- **it is not that simple**
+    - if it was really caused by an excess of dopamine, anti-psychotic drugs should work for everybody, but they don't.
+    - there are structural abnormalities in the brain that can't be accounted for by this dopamine hypothesis.
+    - There's been a lot of studies on the heritability of schizophrenia, and there's a powerful role of genetics. A close biological relative has schizophrenia, your increase in likely to have it yourself. In fact, if your identical twin has it, you're about 50 percent likely to have it. But it is not 100%.
+    - environmental triggers
+        - difficult birth
+        - some potential viral infections
+        - more schizophrenics are born in the winter than in summer
+        - Then later in life, it may be due to stress-producing circumstances or a difficult family environment, and in fact, schizophrenics report more of these than non-schizophrenic. But, it's a complicated problem to determine cause and effect here. For instance, it might be that schizophrenics early on are showing schizophrenics symptoms which leads to more difficulties in the families or more stressful environments, it also might mean that people who know they have mental illnesses are more prone to remember bad events.
+
+## Mood disorders
+
+Mood disorders are the most common type of mental illness and they come in two general forms (15%): 
+
+1. Depression: aka. major depressive disorder
+    - Different from "it's been a bad day. I'm pretty depressed"
+    - severely depressed mood that last two or more weeks. it is accompanied by lack of pleasure, lethargy, and sleep and appetite disturbances.
+    - No "reasonable" cause
+    - At least 2 weeks, average episode is 12 weeks
+    - Affect women more than men. Why? different theories: harder life, less income, poverty, hormone, men are less to report the symptoms, men deny and distract themselves when facing life stressor while women may accept what is going on and ruminate about it.
+    - Depression is heritable.
+    - Neurotransmitters are involved in depression. Low level of the neurotransmitters norepinephrine and serotonin causes depression. But it is not as simple as this. It usually takes weeks for the drug to work which makes the neurochemical story more complicated.
+    - From a psychological level,  the core problem seems to be negatively biased thoughts. But there is not much evidence that depressed people had a bad pattern of thought before they had depression. So this pattern of thought is likely to be the consequence of depression, not the cause.
+    - The most extreme manifestation of depression is suicide.
+2. Bipolar 
+    - less common than depression, about 1%
+    - Swing back and forth from mania to depression
+
+## Anxiety disorders
+
+- A diffuse, vague feeling of fear and apprehension
+- Everyone experience it
+- It is a problem when it is irrational, uncontrollable and disruptive
+- The primary disturbance is distressing, persistent anxiety, or maladaptive behaviors that reduce anxiety
+
+**Generalized anxiety disorder (GAD)**
+
+- More or less constant worry about many issues that seriously interferes with functioning.
+- Affects about 5% of people at some time in their lives
+- Physical symptoms: headaches, stomachaches, muscle tension, irritability
+- Has some genetic component
+- Related genetically to major depression and childhood trauma
+
+    Genetic predisposition or childhood trauma → Hyper-vigilance →  GAD
+
+**Phobias** 
+
+- Classical conditioning theory: you got bite by a dog. You become afraid of dog.
+- Preparedness theory: you are psychologically "ready" to be afraid of something (often associated with ancestral environment)
+
+**Obsessive compulsive disorder (OCD)**
+
+- Obsessions are irrational, disturbing thoughts
+- Compulsions are repetitive actions performed to alleviate obsessions
+- drugs that reduce serotonin may often help treat people with OCD
+
+## Therapy
+
+Just give a feeling for the existing therapies. 
+
+- Psychodynamic therapy
+    - Build at ideas of Freud.
+    - The problems that people struggle with that bring them to the therapist's office are symptoms. You should focus instead on underlying causes.
+    - Classical Freudian Psychoanalysis is a lengthy process, often going on for years, involving many sessions a week, and involves techniques like free association, the therapist might say some words and the patient will say something back, and dream analysis, where dreams are explored in order to give insight into what the mental problem is.
+- Behavior therapy
+    - Motivated by B.F.Skinner
+    - operant conditioning are used to reinforce good behaviors and diminish bad behaviors
+    - many of the treatments of phobia use the techniques of classical conditioning, where objects that would frighten you, instead of being associated with fear, you learned to associate them with relaxation and calm.
+- Cognitive therapy
+    - Identify incorrect distorted ways of thinking
+- Cognitive Behavioral Therapy (CBT)
+    - brings together the techniques to work
+- Medical Interventions
+    - antipsychotics for schizophrenics, anti-anxiety drugs

@@ -1,0 +1,114 @@
+# Social
+
+Social psychology deals with how we have social interactions and social thoughts, what we think of ourselves, what we think about other people, how we behave in groups, how we think about different groups, etc.
+
+"Who's more American?"  Tony Blair or Barack Obama
+
+Social priming: cold coffee → cold personality, Georgia → have G in their name. many argue that those findings are not robust.
+
+We will introduce some reasonably rock solid findings 
+
+no fault, no fraud
+
+no harm, no foul
+
+## Self
+
+- **The spotlight effect:** For the most part, we're focused on ourselves, and so we think that other people are focused on ourselves, but the truth is that other people tend to be focused on themselves. **People really are noticing you as much as you, you worry that they are.**
+
+Experiment to ask undergraduates to wear T-shirts with photographs on them.
+
+''How many people noticed your T-shirts?"
+
+ They also asked the people, ''Did you notice what these people were wearing?"
+
+- Lake Wobegon effect: People tend to believe that they are above average
+- Self-serving bias
+    - positive things: we tend to attribute to ourselves, to our own traits; negative things: we tend to view as the cause of other external factors.
+    - what we do makes sense (cognitive dissonance)
+        1. Avoiding inconsistent information (confirmation bias): People often  get a second opinion when they get information, in a first opinion they didn't like. Scientists tell us, that science proceeds by seeking out counter-evidence by trying to falsify theories. But, that's not how the human mind works, the human mind wants support.
+        2. Insufficient justification effect
+
+            Subjects were assigned a boring task. 
+
+            Paid either $1 or $20. 
+
+            Lied about how "fun" the task was. 
+
+            Rated the task honestly. 
+
+            Those paid $1 rated the task more enjoyable
+
+## Attribution
+
+Attribution theory
+
+- a claim about the cause of someone's behavior
+- seeking a reason for the occurrence of events/behaviors
+
+Heider
+
+We intuitively attribute others' actions to personality characteristics (person bias, fundamental attribution error)
+
+One asks hard questions and one answer, who is asker who answers the question is decided by tossing a coin.
+
+## Liking
+
+Why do we like other people?
+
+- Familiarity：people near by
+- Similarity:  we tend to like other people who are similar to us
+- Attractiveness (physical): good looking people are smarter
+
+- The power of first impressions
+
+    Kelley's "Guest speaker"
+
+- We form first impression fast
+
+- What effects do our perceptions of other people have on other people?
+- Self-fulfilling prohecies
+
+    When our beliefs and expectations create reality or influence behavior of ourselves and others
+
+    (Pygmalion Effect)
+
+## The psychology of groups
+
+Stereotypes
+
+Prejudice
+
+Racism
+
+All animals, naturally categorize the world. We naturally collect information about distinct individuals, and we use our information to generalize when we're exposed to new individuals. 
+
+> "without the aid of prejudice and custom, I should not be able to find my way across the room, nor know how to conduct myself in any circumstances, nor what to feel in any relation of life" William Hazlitt
+
+We categorizing people
+
+- Not always a bad things
+- Stereotypes are often POSITIVE
+- Stereotypes are often ACCURATE
+
+## Social categories
+
+Problems with stereotypes:
+
+- Not always accurate
+- confirmation bias
+- we don't get our data from scientific research but from media which may not be representative
+- We naturally take groups seriously even when the groups are arbitrary and favor us v.s them
+
+Even the stereotypes are accurate, there are moral problems
+
+- we often have the intuition that people should be judged as individuals, not as group members.
+- this gets complicated for whatever reason society allows certain circumstances where you can judge people as group members. In the United States, for instance, auto insurance, how much money you pay to insure your car, varies depending on how old you are and other facts about you. But at the same time, you wonder whether that would be moral if, for instance, different ethnicities had different records of safety in driving. Similarly, we allow some profiling in criminal cases. For instance, there's a strong presupposition when there's a violent crime that the perpetrator is male. But even if you gain some benefit through racial profiling, the cost in terms of making it to a life worse for minority members of the society outweighs any benefit that you get.
+- Social psychologists are interested in all social aspects of stereotypes and they tend to talk about different levels and different types of stereotypes
+1. public stereotypes: what we say to other people about a group
+2. private stereotype
+3. implicit stereotypes: unconscious associations that guide us and affect us even if we're not conscious of it
+
+IAT method: [implicit.harvard.edu](http://implicit.harvard.edu/)
+
+Many of the rest of us are at war for ourselves in that group membership matters even when we think it shouldn't. Even when we think we want to be colorblind, we want to be gender-blind, we want to be attractiveness blind, we're still swayed by things. It's an interesting question how to deal with this problem and I think part of the answer is, we can use our intelligence to override our biases. That is, we don't become less biased just by trying to be less bias rather we become less bias by using clever methods to override it. So, for instance, it used to be that for auditions for symphony orchestras, men would be overwhelmingly chosen over women, and because they sounded better according to the judges but it turns out that when you do blind auditions, you have them audition behind the screen, the effect goes away, and a gender difference largely disappears. What's interesting here from a psychological point of view is the judges, male and female who were saying that the men sounded better than the women, were most likely not being self-consciously sexist saying," Ha ha I'm going to discriminate against women. I hate women," etc. Rather they might have entirely had egalitarian views, but because of their biases, they couldn't help but hear them differently. Then when you hide the gender of people, you take away the chance for the biases to operate. Things change. More generally, we talked about so many social psychology biases, so many ways in which we're contorted by first impressions, by stereotypes that we believe are inaccurate, by cognitive dissonance. The way we can make it through the world as better decision-makers and better people often is to use our intelligence to structure the world so these biases don't apply. To put it much broader, we can use our heads to override our hearts.
