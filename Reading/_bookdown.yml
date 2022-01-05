@@ -1,6 +1,6 @@
 book_filename: "Reading"
 chapter_name: "Chapter "
-output_dir: "/Users/hui/Documents/GitHub/hui1987.com"
+output_dir: "/Users/huilin/Documents/GitHub/hui1987.com"
 clean: [packages.bib]
 delete_merged_file: true
 language:
