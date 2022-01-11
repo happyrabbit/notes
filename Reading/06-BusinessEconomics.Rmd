@@ -683,9 +683,10 @@ AL Ries said: > - Rosser Reeves, 1910, Unique Sales Position
 4C 加强了对“需求”和“关系”的关注，强调品牌不仅是在卖东西，而是持续性地经营与消费者的关系。
 SWOT, PEST, STP (Segmentation, Targeting, Positioning)，Michael Porter (1980s) 五力模型，带来了3大战略思想：
 
-总体成本领先
-差异化
-专一化
+1. 总体成本领先
+2. 差异化
+3. 专一化
+
 - Don Schultz (1934) in Mid-1980s， IMC(Integrated Marketing Communication):
 
 > 其核心是将企业与市场营销相关的一切传播一元化。广告、促销、公关、直销、CI、包装、PR全部纳入营销的范畴。另一方面要求企业能够将统一的信息传达给消费者Speak With One Voice。
