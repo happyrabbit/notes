@@ -1,0 +1,71 @@
+# Medicine
+## The price we pay
+### Health fair 
+
+- Doctors doing unnecessary vascular procedures
+
+- Do you have leg pain? According a survey to a sample of 3000 doctors across America, 21% of everything done in medicine is unnecessary. 22% of prescription medications, 25% of medical tests, and 11% of procedures are unnecessary. 
+
+- Why? Money driven: Doing a procedure pays well, but taking time to explain the importance of exercise, which increases leg circulation, pays poorly.
+
+- Doctors nudge patients for reasons good and bad. For example, obstetricians would say “it might be safer for the baby”. 
+
+- Finding a medicare patient in America without some leg pain is like finding a penguin in the desert. Claudication is a rare type of debilitating leg pain that is subjective and nearly impossible to disprove. Even doctors know that less than 5% of patients with this rare diagnosis benefit from surgery, inserting that single word once in a patient’s chart guarantees the doctor will be paid in full and fend off any lawsuits. 
+
+- Our team eventually identified about 1100 US churches, synagogues, and mosques that served as vascular screening centers—despite a scientific consensus that people should not be screened this way for this disease.
+
+### Welcome to the game
+
+- Hospital charges are notoriously inflated and hard to pin to any actual costs.
+- Hospital  officials confessed that they inflate bills more and more each year to generate more revenue since their insurance companies pay only part of the sticker prices. Insurers confessed they demand bigger and bigger discounts in their contracts with hospitals in order to keep up. Both acknowledged that they pass on higher hospital bills to the public in the form of higher insurance premiums.
+- “Insurers fight for a bigger discount every time they renew a contract with a hospital. Then hospitals go around and inflate their prices. It’s a game.”
+- An insurance company gets ranges from 4 to 90%. There can be radically different prices for the exact same medical care at the same facility by the same doctors and nurses.
+- A recent study found that the cost of a hospital bed alone during a routine childbirth can range from \$1000 to \$12000 per night.
+- Price gouging is a business model that has become all too common in American medicine.
+- Emergency room bills were marked up a lot more than what the internal medicine department charged for the same services.
+- Think of the problem of being out-of-network. The recommended solution is to join the network. The game proposes **a solution that exists only because it created the problem in the first place**.
+- “The law allows us to charge whatever we want. If we want to charge a million dollars, she has to pay it.”
+- The game creates a giant middle layer of health care: the **repricing industry**, dedicated to negotiating bills among three or four parties after care is delivered...One study found that for every ten doctors, the average US hospital has seven nonclinical full-time-equivalent (FTE) staff working on billing and insurance functions.
+- Although the game gets scant attention in the news or in health reform debates, it explains many health care trends. It’s the reason hospitals are on a buying spree, snapping up private practices and other hospitals. It explains insurance company mergers. The players need power when they clash in the markup discount game.
+- Conversely, predatory billing practices are rare in the few health care sectors that have already adopted real price transparency, including cosmetic surgery, in vitro fertilization (IVF), and LASIK surgery.
+- Critics of real price transparency have argued that patients do no use price information when choosing where to go for their care and, when they do, they may sometimes choose the most expensive service because they are not paying for it. But asking how many patients will shop for care using price information is not the right question because proxy shoppers -- self-insured employers, health plans, and some patients who pay out of pocket -- will use real price information to drive the market for everyone. 
+- As for-profit air ambulance companies expanded, they started paying paramedics, nurses, and doctors to become advisers, with informal agreements to promote the company to first responders and other medical professionals. 
+- One patient who was flown from Montana to a rehab facility in Florida by one air transport company. They flew him on a 1978 Lear 7 jet and charged 630000. "The plane itself only sells for 350000.
+- Eighty percent of the more than half a million air ambulance flights a year (1300 per day) in the United States are not emergencies but are much more like routine transfers.
+
+### Improving wisely
+
+- Hospitals track how often C-section patients get an infection or bounce back to the hospital after discharge, but they are not evaluating the most important question: Did the patient even need the surgery in the first place?
+- Orthopedic knee surgeons have suggested that as many as one third of knee replacements are unnecessary. That data point is missing from the quality formula, and the miss is a big one.
+- The health care system also measures quality by analyzing the process of doing an operation. Hospitals and regulators monitor how often hospitals administer antibiotics before surgery. They look at how hospitals take steps to prevent blood clots. They look at whether urinary catheters are removed within two days of surgery.
+- The RWJ Foundation had already funded the Choosing Wisely program, a national collaborative that challenged every medical specialty to list five tests or treatments that are usually unnecessary. 
+     - For example, one of the consensus recommendations is not to use a DEXA bone scan in women under 65 to screen for osteoporosis.
+     - The consensus recommendations can be found at https://www.choosingwisely.org/
+- Mohs surgery
+    - The goal is to excise all the skin cancer while minimizing the amount of healthy flesh that gets removed.
+    - It is developed in the 1930s by Dr. Frederic E. Mohs and it a big reason skin cancer is much more manageable today.
+    - It typically takes one or two precise stages. On rare occasions, a third stage may be necessary. 
+    - Surgeons get paid well for Mohs procedures (paid per stage).  Cut a little extra here and there and you get a bigger paycheck, whether the extra cuts are necessary.
+
+
+## Chinese Medicine [中药]
+
+### 素食保养
+
+素食补气血，平时保养方（隔三岔五吃）：党参6g，黄芪10g，红枣5粒，桂圆肉5粒，麦冬3-5粒
+月经前后各吃3-5天：四物汤 (当归、川芎[chuān xiōng]、芍药、熟地各10g)   四物汤”是中医补血、养血的经典方药，方用当归、川芎[chuān xiōng]、芍药、熟地四味药组成。以熟地、白芍阴柔补血之品（血中血药）与辛香的当归、川芎（血中气药）相配，动静结合，补血而不滞血，活血而不伤血，比如说补血方面就说阿胶，阿胶补血易使人上火如流鼻血，而且阿胶滋腻碍胃，使人胃口不佳不想吃饭等；活血方面就说红花吧，红花活血常会使人出血不止而会伤血。而四物汤温而不燥，滋而不腻，非常适合长期服用调养。是临床常用的补血活血调经的良方，所以被称为“妇科圣方”。
+
+吃坚果容易上火，平肝火：菊花5朵，白芍3片，甘草2片泡水喝
+
+### 艾叶 [Folium artemisiae argyi]
+
+性质温热、气味方向
+散寒止痛：寒性疼痛，如腹痛、痛经、关节痛
+祛湿止痒：皮肤湿疹
+辟秽驱邪：驱虫灭蚊
+养生：艾灸－－温散、温通
+治疗：寒性痛症，皮肤病
+
+### 雄黄
+
+－ 含有砷，显著的解毒作用，善解一些毒性剧烈的生物毒。
